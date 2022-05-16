@@ -1,9 +1,5 @@
 # Suggesting Deny Accept
 
-[link](#test-empty)
-
-# test-empty
-
 ## Etwas vorschlagen/Vorschläge machen | Suggest something/make suggestions
 
 | De                                            | En                                    |
