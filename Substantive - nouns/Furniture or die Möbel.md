@@ -45,11 +45,3 @@ Materialien:
 |               |             | Metall(e)    |
 |               |             | Glas(e)      |
 |               |             |              |
-
-
-
-
-
-
-
-

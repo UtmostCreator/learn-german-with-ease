@@ -1,4 +1,4 @@
-# Hobbys and free time | Hobbys und Freizeit
+# Hobbys Freizeit - hobbies free time
 
 ### Dictionary | Wörterbuch
 
