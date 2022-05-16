@@ -20,6 +20,8 @@
 sein
 haben
 schreiben
+sprechen
 heißen
 kreuzen
 ticken
+ordnen - arrange, order, sort
