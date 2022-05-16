@@ -1,10 +1,10 @@
-| der           | die            | das       |
-|---------------|----------------|-----------|
-| Tag(e)        | Stadt(Städte)  | Lied(er)  |
-| Satze(Sätze)  |                | Gruppe(n) |
-| Mann(a:er,en) |                | Frau(en)  |
-| Unterricht(e) |                | Übung(en) |
-|               |                |           |
-|               |                |           |
-|               |                |           |
-|               |                |           |
+| der                     | die            | das                   |
+|-------------------------|----------------|-----------------------|
+| Tag(e) - day            | Stadt(Städte)  | Lied(er) - song       |
+| Satze(Sätze) - phrase   |                | Gruppe(n) - group     |
+| Mann(a:er,en) - man     |                | Frau(en) - Ms.        |
+| Unterricht(e) classes   |                | Übung(en) - exercise  |
+| Gruß(Grüße) - greetings |                |                       |
+| Abschied(e) - farewell  |                |                       |
+|                         |                |                       |
+|                         |                |                       |
