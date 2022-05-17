@@ -3,19 +3,25 @@
 ## Name
 
 fragen:
-- Wie heissen Sie?
-- Wie heisst du?
-- Wer sind Sie?
-- Wer bist du?
+
+| Ge               | En                 |
+|------------------|--------------------|
+| Wie heißen Sie?  | What's your name?  | 
+| Wie heißt du?    | What is your name? | 
+| Wer sind Sie?    | Who are you?       | 
+| Wer bist du?     | Who are you?       | 
+
+Wie heißt du? — What's your name?
+Ich heißt — My name is
 
 antworten:
-- Ich bin/heisse Nicole. Mein Name is Ivan Vorchern
+- Ich bin/heiße Nicole. Mein Name is Ivan Vorchern
 
 ## Herkunft
 
 fragen:
-- Woher kommen Sie?
-- Woher kommst du?
+- Woher kommen Sie? (You, formal)
+- Woher kommst du? (you, informal)
 
 antworten:
 [ich komme] aus Mexiko
@@ -24,35 +30,6 @@ antworten:
 
 - Das ist Ivan / Frau Walter. Er/Sie kommt aus Mexiko
 
-## Allgemeine Sätze - General phrases
-
-das Lied Heisst "Winfried" -- the song is called "Winfried"
-Hören 👂 Sie das Lied und schreiben ✍️ alle Städte -- Listen 👂 the song and write ✍️ all cities
-Ich bin in -- i am in Zaporizhzia
-Wie ist dein Name? -- What is your name?
-ticken sie und kreuzen -- tick and cross
-Wer bist du? -- Ich bin Roman (bin = sein)
-Sprechen Sie in der Gruppe
-Hören sie und ordnen Sie zu -- Listen and match.
-
-## Woher kommst du? 
-Woher kommst du? Aus Spanien?
-Aus der Schweiz?
-Nein, Ich komme aus Mexiko.
-Du kommst aus Deutschland, hm?
-Ich komme aus Osterreich.
-
-Wie geht's?
-Gut, danke!
-Und wie geht's?
-Auch gut.
-Dast ist Paco
-Guten Tag, Frau Wachter!
-Woher kommen Sie?
-Er kommt aus Mexiko.
-Auf Wiedersehen, Herr Rodiguez!
-
-___
 Wer ist das?
 
 Das ist ... Nikole ... Woher kommt sie/er?
@@ -73,9 +50,66 @@ Who is this?
 ▲ This is Angela Merkel. Where does she come from?
 ■ She comes from Germany.
 
-## Namen
-Wie heißt du? — What's your name?
-Ich heißt — My name is
+## Um Wiederholung bitten
+- Bitte um Wiederholung - Asking to repeat
+
+Anfrage - request:
+
+| Ge                                   | En                                     |
+|--------------------------------------|----------------------------------------|
+| Wie bitte?                           | I'm sorry, what? (informal)            |
+| bitte?                               | I'm sorry, what? (most informal/slang) |
+| Können Sie das bitte wiederholen?    | Can you repeat that please? (formal)   |
+| Können Sie das bitte wiederholen?    | Please, say that again. (formal)       |
+| Nochmal bitte                        | again please                           |
+| Können Sie bitte langsamer sprechen? | Could you please speak slower?         |
+
+## Gruß und Abschied - greetings and farewell
+
+| Ge              | En           |
+|-----------------|--------------|
+| Hallo           | Hi           |
+| Guten Tag       | Good day     |
+| Guten Morgen    | Good Morning |
+| Guten Abend     | Good evening |
+| Gute Nacht      | Good night   |
+| Tschüss         | bye          |
+| Auf Wiedersehen | Goodbye      |
+
+## Allgemeine Sätze - General phrases
+
+
+| Ge                                                 | En                                         |
+|----------------------------------------------------|--------------------------------------------|
+| das Lied Heisst "Winfried"                         | the song is called "Winfried"              |
+| Hören 👂 Sie das Lied und schreiben ✍️ alle Städte | Listen 👂 the song and write ✍️ all cities |
+| Ich bin in                                         | i am in Zaporizhzia                        |
+| Wie ist dein Name?                                 | What is your name?                         |
+| ticken sie und kreuzen                             | tick and cross                             |
+| Wer bist du?                                       | Ich bin Roman (bin = sein)                 |
+| Hören sie und ordnen Sie zu                        | Listen and match.                          |
+
+Sprechen Sie in der Gruppe
+
+## Woher kommst du? 
+
+Woher kommst du? Aus Spanien?
+Aus der Schweiz?
+Nein, Ich komme aus Mexiko.
+Du kommst aus Deutschland, hm?
+Ich komme aus Osterreich.
+
+Wie geht's?
+Gut, danke!
+Und wie geht's?
+Auch gut.
+Dast ist Paco
+Guten Tag, Frau Wachter!
+Woher kommen Sie?
+Er kommt aus Mexiko.
+Auf Wiedersehen, Herr Rodiguez!
+
+___
 
 ## Apropos - Speaking | Konversation - conversation
 🟥 Das ist Paco. Und das ist Frau Wachter.
@@ -95,17 +129,10 @@ Ich heißt — My name is
 🟩 Ah! From Mexico!
 🟦 yes
 
-## Bitte um Wiederholung - Asking to repeat
-- Nochmal bitte — again please
-- Können Sie das bitte wiederholen? — Please, say that again. (formal)
-
-wie bitter? (informal)
-bitter? (most informal/slang)
-
 ### befinden - to feel
 
 wie `befinden` Sie sich heute? 
-how are you ``(feeling)`` today?, how do you `feel` today?
+how are you `(feeling)` today?, how do you `feel` today?
 
 ## Begrüßung Abschied - greetings, firewell
 Bildlexikon — picture dictionary
@@ -119,10 +146,10 @@ Abschied -- firewell -- прощаюсь
 - Hallo
 - Guten Abend
 
-🇨🇭Hallo!  Gruezi!— шеййцария — Switzerland
+🇨🇭 Hallo!  Grüezi! — Швейцария — Switzerland
 🇩🇪 Guten Tag! Guten Morgen! Guten Abend!
 
-🇦🇺österreich — Austria — Австрия | Бавария
+🇦🇺österreich — Austria — Австрия | Bavaria (Бавария)
 Servus!
 Grüß Gott!
 
