@@ -17,7 +17,7 @@
 | De                         | En                         |
 |----------------------------|----------------------------|
 | Na ja, warum nicht?        | Well, why not?             |
-| Ja,klar                    | Yes, of course             |
+| Ja, klar                   | Yes, of course             |
 | Gute (Tolle) (Super) Idee! | Good (great) (super) idea! |
 | Ja klar, ich komme gern    | Yes, I'm happy to come     |
 
