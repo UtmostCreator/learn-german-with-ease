@@ -1,5 +1,29 @@
 # 01 Sätze - phrases
 
+## Name
+
+fragen:
+- Wie heissen Sie?
+- Wie heisst du?
+- Wer sind Sie?
+- Wer bist du?
+
+antworten:
+- Ich bin/heisse Nicole. Mein Name is Ivan Vorchern
+
+## Herkunft
+
+fragen:
+- Woher kommen Sie?
+- Woher kommst du?
+
+antworten:
+[ich komme] aus Mexiko
+
+## sich und andere vorstellen - introduce yourself and others
+
+- Das ist Ivan / Frau Walter. Er/Sie kommt aus Mexiko
+
 ## Allgemeine Sätze - General phrases
 
 das Lied Heisst "Winfried" -- the song is called "Winfried"
