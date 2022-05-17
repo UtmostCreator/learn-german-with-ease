@@ -5,21 +5,18 @@
 ### 🍽 eating | essen
 
 > Isst du gern Kartoffeln?
-
 - 😊 Ja, ich esse gern Kartoffeln.
 - ☹️Nein, ich esse keine Kartoffeln.
 - ☹️Nein, ich mag keine Kartoffeln.
-
+___
 ### 🍹 drinking | trinken
 
 > Trinkst du gern Tee?
-
 - 😊 Ja, ich trinke gern Tee.
 - ☹️Nein, ich trinke keinen Tee.
 - ☹️Nein, ich mag keinen Tee.
--
-> Was haben Sie im Kühlschrank?
 
+> Was haben Sie im Kühlschrank?
 - ✅Ich habe immer Milch im Kühlschrank
 - 🚫Ich habe nie Schokolade im Kühlschrank
 
