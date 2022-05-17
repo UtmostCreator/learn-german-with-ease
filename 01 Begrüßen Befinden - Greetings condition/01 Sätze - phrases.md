@@ -53,7 +53,7 @@ Who is this?
 Wie heißt du? — What's your name?
 Ich heißt — My name is
 
-## Apropos - Speaking
+## Apropos - Speaking | Konversation - conversation
 🟥 Das ist Paco. Und das ist Frau Wachter.
 🟩 Guten Tag. Frau Wachter.
 🟦 Guten Tag Herr...
@@ -78,18 +78,18 @@ Ich heißt — My name is
 wie bitter? (informal)
 bitter? (most informal/slang)
 
-## Begrüßung Abschied
+### befinden - to feel
+
+wie `befinden` Sie sich heute? 
+how are you ``(feeling)`` today?, how do you `feel` today?
+
+## Begrüßung Abschied - greetings, firewell
 Bildlexikon — picture dictionary
 
 Begrüßung -- greeting -- приветствие
-Abschied -- taking leave -- прощаюсь
+Abschied -- firewell -- прощаюсь
 
-- Name -- Surname -- Фамилия
-- Herkunft -- origin -- происхождение
-- Befinden -- Are located -- Расположены
-- Abschied -- taking leave -- прощаюсь
-
-
+### Hallo sagen, tschüss - Saying hello, bye
 - auf wiederschauen /Uf Wiederluege mitenand (zusammen)
 - Servus
 - Hallo

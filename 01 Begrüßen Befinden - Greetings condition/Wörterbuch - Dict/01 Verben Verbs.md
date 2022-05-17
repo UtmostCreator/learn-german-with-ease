@@ -25,3 +25,11 @@ heißen
 kreuzen
 ticken
 ordnen - arrange, order, sort
+befinden -- to be (situated or located) | to feel
+
+
+
+- Name -- Surname -- Фамилия
+- Herkunft -- origin -- происхождение
+- Befinden -- to be (situated or located) -- Расположены
+- Abschied -- taking leave -- прощаюсь

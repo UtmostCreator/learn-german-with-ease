@@ -1,3 +1,5 @@
+tags: #der #die #das #Substantive #nouns #plural #Plural #singular #Singular #Wörterbuch
+
 | der                     | die            | das                   |
 |-------------------------|----------------|-----------------------|
 | Tag(e) - day            | Stadt(Städte)  | Lied(er) - song       |
