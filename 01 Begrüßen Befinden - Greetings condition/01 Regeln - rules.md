@@ -4,7 +4,7 @@ du (you)
 er (he) / sie (she) /es (it)
 
 wir (we)
-ihr (you guys)
+<mark class="hltr-yellow">ihr (you guys)</mark> 
 sie (they) / Sie (You)
 
 # Präsens - present
