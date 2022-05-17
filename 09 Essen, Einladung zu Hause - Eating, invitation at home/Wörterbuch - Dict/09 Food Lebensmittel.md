@@ -1,22 +1,6 @@
 # 🍲 vegetables and fruits | Gemüse und Früchte
 
-## Phrases | Sätze
-
-### 🍽 eating | essen
-
-> Isst du gern Kartoffeln?
-
-- 😊 Ja, ich esse gern Kartoffeln.
-- ☹️Nein, ich esse keine Kartoffeln.
-- ☹️Nein, ich mag keine Kartoffeln.
-
-### 🍹 drinking | trinken
-
-> Trinkst du gern Tee?
-
-- 😊 Ja, ich trinke gern Tee.
-- ☹️Nein, ich trinke keinen Tee.
-- ☹️Nein, ich mag keinen Tee.
+## Essenszeit - meal time
 
 | Ge          | Ru       | En                  |
 |-------------|----------|---------------------|
@@ -25,38 +9,52 @@
 | Snack       | перекус  | snack 16:00         |
 | Abendessen  | ужин     | dinner/supper 18:00 |
 
-> Was haben Sie im Kühlschrank?
+## Produktkategorien - product categories
 
-- ✅Ich habe immer Milch im Kühlschrank
-- 🚫Ich habe nie Schokolade im Kühlschrank
+| Ge              | En              |
+|-----------------|-----------------|
+| 🥛Milchprodukte | dairy products  |
+| 🍎Obst          | fruit           |
+| 🍅Gemüse        | vegetables      |
+| 🍞Backwaren     | bakery products |
+| 💧Getränke      | beverages       |
+| 🍫Süßigkeiten   | Sweets          |
 
-<details>
-<summary>Show Words Info</summary>
-Kühl — cool, chilly
-schrank — cupboard
-</details>
+## beliebteste Essen - most popular food
 
-| der                                 | die                               | das                          |
-|-------------------------------------|-----------------------------------|------------------------------|
-| 🍰Kuchen(-) / cake                  | 🍊Orange(n)                       | 🍞Brot                       |
-| 🍏Apfel(Äpfel)                      | 🥛Milch(e/en)                     | 🥚Ei(Eier)                   |
-| 🍵Tee(s) / tea                      | 🧈Butter(-)                       | 🥬🥑Gemüse(-) / vegetables   |
-| Braten / roast meat                 | 🥔Kartoffel(n)                    | 🥬🥑Obst(-) / fruit          |
-| 🐡Fisch(e) / fish                   | 🍫Schokolade(n)                   | 🥩Fleisch(e) / meat          |
-| 🥗Salat(e) / salad                  | 🥣Suppe(n)                        | Müsli(s) / Muesli            |
-| 🧀Käse(-) / cheese                  | 🍅Tomate(n)                       | 🥤💧Mineralwasser(-/wa:sser) |
-| 🥩Schinken(-) / ham                 | 🍜 Nudel(n) / pasta/noodle        | 🍻Bier(er) / Beer            |
-| 🍨 Joghurt(s) / yogurt              | Brötchen(-) / bun                 | 🍨Eis / ice cream            |
-| 🍚Reis(-) / rice                    | 🐓Huhn(Hühner) / chicken/fowl/hen |                              |
-| 🍊🧃Orangensaft(a:e) / orange juice | Wurst(Würste) / sausage           |                              |
-| 🍯🐝Honig(e) / honey                | 🍫Marmelade(n) / jam              |                              |
-| 🍏🧃Apfelsaft(A:e) / apple juice    | 🍋🧃Limonade(n) / lemonade        |                              |
-| ☕Kaffee(s) / coffee                 | 🥝🥭Frucht(Früchte) / fruits      |                              |
-|                                     | 🍌Banane(n)                       |                              |
-|                                     |                                   |                              |
-|                                     |                                   |                              |
+| der                                       | die                                 | das                          |
+|-------------------------------------------|-------------------------------------|------------------------------|
+| 🍵Tee(s) / tea                            | 🍊Orange(n)                         | 🥬🥑Gemüse(-) / vegetables   |
+| ☕Kaffee(s) / coffee                       | 🥛Milch(e/en)                       | 🍑🍊Obst(-) / fruit          |
+| 🍊🧃Orangensaft(a:e) / orange juice       | 🍫Schokolade(n)                     | 🍞Brot(e)                    |
+| 🍏🧃Apfelsaft(A:e) / apple juice          | 🍫Marmelade(n) / jam                | 🥚Ei(Eier) / egg             |
+| 🍰Kuchen(-) / cake                        | 🥔Kartoffel(n)                      | Müsli(s) / Muesli            |
+| 🍯🐝Honig(e) / honey                      | 🥣Suppe(n)                          | 🍨Eis / ice cream            |
+| 🍨 Joghurt(s) / yogurt                    | 🍅Tomate(n)                         | 🥤💧Mineralwasser(-/wa:sser) |
+| 🍏Apfel(Äpfel)                            | 🍜 Nudel(n) / pasta/noodle          | 🥩Fleisch(e) / meat          |
+| 🥗Salat(e) / salad                        | Brötchen(-) / bun                   | 🍻Bier(er) / Beer            |
+| 🧀Käse(-) / cheese                        | 🐓Huhn(Hühner) / chicken/fowl/hen   | 🍬Bonbon(s) / candy          |
+| 🍚Reis(-) / rice                          | Wurst(Würste) / sausage             |                              |
+| 🥩Schinken(-) / ham                       | 🧈Butter(-)                         |                              |
+| Braten / roast meat                       | 🍋🧃Limonade(n) / lemonade          |                              |
+| 🐡Fisch(e) / fish                         | 🥝🥭Frucht(Früchte) / fruits        |                              |
+| 🍷Wein(e)                                 | 🍌Banane(n)                         |                              |
+| Alkohol(e)                                | Praline(n) / praline (French sweet) |                              |
+| Wodka(s)                                  | 🥕Möhre(n) / carrot                 |                              |
+| Cognac / cognac                           | 🧅Zwiebel(n) / onion                |                              |
+| alkoholarme Getränke / low alcohol drinks | 🍇Weintraube(n) / grapes            |                              |
+| Saft(Säfte) / Juice                       | 🥨Brezel(n) / pretzel               |                              |
+| Mandarin(e) / mandarin                    | Cola(s) / cola                      |                              |
+| Kakao(s) / cocoa                          | 🍋Zitrone(n) / lemon                |                              |
+| Zucker(-) / sugar                         | 🍐Birne(n) / pear                   |                              |
+| Salat / lettuce(salad)                    | 🥒Gurke(n) / cucumber               |                              |
+|                                           | 🍊Apfelsine(n) / orange             |                              |
+|                                           |                                     |                              |
+|                                           |                                     |                              |
 
-# List of words
+> Praline is a popular French dessert made in the form of small sweets made from nuts roasted in sugar. This delicacy is named after the French confectioner Plessy-Praline, who invented a dessert of grated almonds, mixed with candied honey, small pieces of chocolate, and poured with burnt sugar.
+
+# mixed fruits and vegetables
 
 | Ge                     | Ru               | En             |
 |------------------------|------------------|----------------|
