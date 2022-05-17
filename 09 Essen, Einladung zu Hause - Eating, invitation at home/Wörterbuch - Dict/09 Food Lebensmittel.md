@@ -65,13 +65,13 @@
 | 🔵Blaubeere(n)            | черника          | blueberry      |
 | Himbeere(n)               | малина           | raspberry      |
 | 📏🥤🍓Erdbeere(n)         | клубника         | strawberry     |
+| Brombeere(n)              | ежевика          | blackberry     |
 | 🥕Karotte(e)              | морковь          | carrot         |
 | 🍆Aubergine(n)            | баклажан         | eggplant       |
 | Petersilie(n)             | петрушка         | parsley        |
 | grüne Bohne(n)            | зеленая фасоль   | green beans    |
 | Sellerie(n)               | сельдерей        | celery         |
 | schwarze Johannisbeere(n) | черная смородина | blackcurrant   |
-| Brombeere(n)              | ежевика          | blackberry     |
 | Feige(n)                  | фиг              | fig            |
 | Limette(Limetten)         | лайм             | lime           |
 | 🥭Mango(Mango(nen)(s))    | манго            | mango          |
