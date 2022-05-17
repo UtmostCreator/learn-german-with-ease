@@ -26,15 +26,15 @@
 |-------------------------------------------|-------------------------------------|------------------------------|
 | 🍵Tee(s) / tea                            | 🍊Orange(n)                         | 🥬🥑Gemüse(-) / vegetables   |
 | ☕Kaffee(s) / coffee                       | 🥛Milch(e/en)                       | 🍑🍊Obst(-) / fruit          |
-| 🍊🧃Orangensaft(a:e) / orange juice       | 🍫Schokolade(n)                     | 🍞Brot(e)                    |
+| 🍊🧃Orangensaft(a:e) / orange juice       | 🍫Schokolade(n)                     | 🍬Bonbon(s) / candy          |
 | 🍏🧃Apfelsaft(A:e) / apple juice          | 🍫Marmelade(n) / jam                | 🥚Ei(Eier) / egg             |
-| 🍰Kuchen(-) / cake                        | 🥔Kartoffel(n)                      | Müsli(s) / Muesli            |
-| 🍯🐝Honig(e) / honey                      | 🥣Suppe(n)                          | 🍨Eis / ice cream            |
+| 🎂🧁🍰Kuchen(-) / cake                    | 🥔Kartoffel(n)                      | Müsli(s) / Muesli            |
+| 🍯🐝Honig(e) / honey                      | 🥣Suppe(n)                          | 🍦Eis / ice cream            |
 | 🍨 Joghurt(s) / yogurt                    | 🍅Tomate(n)                         | 🥤💧Mineralwasser(-/wa:sser) |
 | 🍏Apfel(Äpfel)                            | 🍜 Nudel(n) / pasta/noodle          | 🥩Fleisch(e) / meat          |
-| 🥗Salat(e) / salad                        | Brötchen(-) / bun                   | 🍻Bier(er) / Beer            |
-| 🧀Käse(-) / cheese                        | 🐓Huhn(Hühner) / chicken/fowl/hen   | 🍬Bonbon(s) / candy          |
-| 🍚Reis(-) / rice                          | Wurst(Würste) / sausage             |                              |
+| 🥗Salat(e) / salad                        | 🍊Apfelsine(n) / orange             | 🍻Bier(er) / Beer            |
+| 🧀Käse(-) / cheese                        | 🐓Huhn(Hühner) / chicken/fowl/hen   | Brötchen(-) / bun            |
+| 🍚Reis(-) / rice                          | Wurst(Würste) / sausage             | 🍞Brot(e)                    |
 | 🥩Schinken(-) / ham                       | 🧈Butter(-)                         |                              |
 | Braten / roast meat                       | 🍋🧃Limonade(n) / lemonade          |                              |
 | 🐡Fisch(e) / fish                         | 🥝🥭Frucht(Früchte) / fruits        |                              |
@@ -48,7 +48,7 @@
 | Kakao(s) / cocoa                          | 🍋Zitrone(n) / lemon                |                              |
 | Zucker(-) / sugar                         | 🍐Birne(n) / pear                   |                              |
 | Salat / lettuce(salad)                    | 🥒Gurke(n) / cucumber               |                              |
-|                                           | 🍊Apfelsine(n) / orange             |                              |
+|                                           |                                     |                              |
 |                                           |                                     |                              |
 |                                           |                                     |                              |
 
