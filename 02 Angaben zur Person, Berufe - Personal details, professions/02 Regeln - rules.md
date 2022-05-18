@@ -19,6 +19,22 @@ Related:
 
 - Ich wohne/lebe in Berlin 
 - Sie komme aus der Ukraine
+- Hey super! Ich bin auch aus der Ukraine
 
 Related:
 [[../01 Begrüßen Befinden - Greetings condition/01 Regeln - rules#Countries with article]]
+
+## Wie alt bist du?
+
+- Ich bin 35 Jahre alt
+- Hey super! Ich bind auch 35!
+
+## Familienstand(-) / marital status
+
+- Ich bin verheiratet/geschieden/Single
+- Ich bin nicht verheiratet
+- Wir leben zusammen/nicht zusammen
+- Ich ein Kind / zwei Kind`er` / keine Kind`er`
+
+## 🖼 Über dich | About yourself
+[[02 Über dich - about myself]]

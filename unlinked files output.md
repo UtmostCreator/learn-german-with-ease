@@ -7,7 +7,7 @@
 - [[08 Freizeit, Verabredungen - free time, appointments/08 Zeit sagen - telling time.md]]
 - [[04 Einkaufen, Möbel - shopping, furniture/image_2022-04-02_02-23-16.png]]
 - [[03 Familie - family/03_01 Beruf - Occupation.md]]
-- [[02 Angaben zur Person, Berufe - Personal details, professions/Über dich - about myself.md]]
+- [[02 Angaben zur Person, Berufe - Personal details, professions/02 Über dich - about myself]]
 - [[01 Begrüßen Befinden - Greetings condition/Wörterbuch - Dict/01 Substantive - nouns.md]]
 - [[01 Begrüßen Befinden - Greetings condition/Wörterbuch - Dict/01 Verben Verbs.md]]
 - [[01 Begrüßen Befinden - Greetings condition/01 Wie geht es Ihnen - How are you doing.md]]

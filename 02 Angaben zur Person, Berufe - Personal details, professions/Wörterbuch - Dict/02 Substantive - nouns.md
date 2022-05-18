@@ -10,11 +10,12 @@ Topic: #Beruf, #occupation
 
 # 02 Substantive - nouns
 
-| der                   | die                                        | das                                           |
-|-----------------------|--------------------------------------------|-----------------------------------------------|
-| Job(s) / job          | Ausbildung(en) / apprenticeship / обучение | Praktikum(Praktika) / internship / стажировка |
-| Beruf(e) / profession |                                            | Kind(er)                                      |
-|                       |                                            | Single(s) / single                            |
+| der                                | die                                        | das                                           |
+|------------------------------------|--------------------------------------------|-----------------------------------------------|
+| Job(s) / job                       | Ausbildung(en) / apprenticeship / обучение | Praktikum(Praktika) / internship / стажировка |
+| Beruf(e) / profession              |                                            | Kind(er)                                      |
+| Familienstand(-) / marital status  |                                            | Single(s) / single                            |
+|                                    |                                            |                                               |
 
 ## Berufe
 
