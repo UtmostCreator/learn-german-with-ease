@@ -1,6 +1,6 @@
 # haus-möbel=home-furniture
 
-| der                                   | die                               | das                          |
+| 🔵der                                   | 🔴die                               | 🟢das                          |
 |---------------------------------------|-----------------------------------|------------------------------|
 | Stuhl(Stühle)                         | 🛋Lampe(n)                        | 🪟Fenster(-)                 |
 | Tisch(e) Arbeitstisch(e)              | Kommode(n)                        | 🖼 Bild(er)                  |
@@ -21,11 +21,11 @@
 
 # Rooms:
 
-| der                    | die                              | das                                 |
+| 🔵der                    | 🔴die                              | 🟢das                                 |
 |------------------------|----------------------------------|-------------------------------------|
 |                        |                                  | Badezimmer(-)                       |
 | Balkon(e/s)	balcony    | Bibliothek(en)	library           | Bad(Bäder)	bathroom                 |
-| Flur(e)	entrance hall  | Diele(n) entrance hall вестибюль | Gästezimmer(-)	guest room           |
+| Flur(e)	entrance hall  | 🔴diele(n) entrance hall вестибюль | Gästezimmer(-)	guest room           |
 | Garten (Gärten)	garden | Küche(n)	kitchen                 | 👶Kinderzimmer(-)	kid’s room        |
 | Keller	basement        | Toilette(n)	toilet               | 🍫🥦Esszimmer(-)	dining room        |
 | Weinkeller	wine cellar | Treppe(n) stairs                 | 🛋️Wohnzimmer(-)	living room/lounge |
@@ -38,7 +38,7 @@
 
 Materialien:
 
-| der           | die         | das          |
+| 🔵der           | 🔴die         | 🟢das          |
 |---------------|-------------|--------------|
 | Kunststoff(e) | Plastik(en) | Holz(Hölzer) |
 |               |             | Papier(e)    |

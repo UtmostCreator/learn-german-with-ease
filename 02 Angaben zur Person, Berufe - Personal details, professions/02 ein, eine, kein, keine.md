@@ -10,7 +10,7 @@ Topic:
 
 # 002 ein, eine, kein, keine
 
-| der  | die    | das  |
+| 🔵der  | 🔴die    | 🟢das  |
 |------|--------|------|
 | ein  | eine   | ein  |
 

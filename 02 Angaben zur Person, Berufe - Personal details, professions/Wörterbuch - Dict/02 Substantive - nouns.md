@@ -10,7 +10,7 @@ Topic: #Beruf, #occupation
 
 # 02 Substantive - nouns
 
-| der                                | die                                        | das                                           |
+| 🔵der                                | 🔴die                                        | 🟢das                                           |
 |------------------------------------|--------------------------------------------|-----------------------------------------------|
 | Job(s) / job                       | Ausbildung(en) / apprenticeship / обучение | Praktikum(Praktika) / internship / стажировка |
 | Beruf(e) / profession              |                                            | Kind(er)                                      |
@@ -18,6 +18,13 @@ Topic: #Beruf, #occupation
 |                                    |                                            |                                               |
 
 ## Berufe
+
+### Wortbildung -in / word formation -in
+
+| Männlich / Masculine | feminin / feminine |
+|----------------------|--------------------|
+| 🔵der Journalist       | 🔴die Journalistin   |
+| 🔵der Arzt             | 🔴die Ärztin         |
 
 | De                   | En                           | Ru                 |
 |----------------------|------------------------------|--------------------|

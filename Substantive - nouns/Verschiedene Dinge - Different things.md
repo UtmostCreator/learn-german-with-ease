@@ -1,4 +1,4 @@
-| Der                           | Die                              | Das                                  |
+| 🔵der                           | 🔴die                              | 🟢das                                  |
 |-------------------------------|----------------------------------|--------------------------------------|
 | ✏️Bleistift-e                 | 👓 Brille(n) (glasses)           | Gestell(e)(frame,оправа)             |
 | 🖊 Kugelschreiber/Stift-e     | ☀️👓Sonnenbrille(n)              | 🔥Feuerzeug(e)(lighter)              |

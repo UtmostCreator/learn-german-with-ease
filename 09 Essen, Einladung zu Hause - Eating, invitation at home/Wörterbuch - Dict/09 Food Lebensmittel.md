@@ -22,7 +22,7 @@
 
 ## beliebteste Essen - most popular food
 
-| der                                       | die                                 | das                            |
+| 🔵der                                       | 🔴die                                 | 🟢das                            |
 |-------------------------------------------|-------------------------------------|--------------------------------|
 | 🍵Tee(s) / tea                            | 🍊Orange(n)                         | 🥬🥑Gemüse(-) / vegetables     |
 | ☕Kaffee(s) / coffee                       | 🥛Milch(e/en)                       | 🍑🍊Obst(-) / fruit            |

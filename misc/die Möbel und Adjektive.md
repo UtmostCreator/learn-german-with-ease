@@ -1,12 +1,12 @@
 | English                                                                           | German                                                                                                  |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| This **light** is `really bright` and not dark at `all`                           | Dieses **Licht** ist `wirklich hell` und überhaupt nicht `dunkel`                                       |
-| This **table** is `practical` because it is `wide` and not `narrow`               | Dieser **Tisch** ist `praktisch`, weil er `breit` und nicht `schmall` ist                               |
-| This **armchair** is `impractical` Because it is `old-fashioned` and not `modern` | Dieser **Sessel** ist `unpraktisch`, weil er `altmodisch` und nicht `modern` ist                        |
-| This **carpet** is not `cheap` at all, but rather `expensive`                     | Dieser **Teppich** ist überhaupt nicht `billig`/`günstig`, sondern eher `teuer`                         |
-| This **cupboard** is not small but rather big                                     | Dieser **Schrank** ist nicht `klein`, sondern ziemlich `groß`                                           |
-| That **commode** is not `long` and not `short` It has a `normal` size             | Diese **Kommode** ist nicht `lang` und nicht `kurz` sie hat eine `normale` Größe                        |
-| The **night** is `dark` and the day is `bright`                                   | die Nacht ist dunkel und der Tag ist hell                                                               |
+| This **light** is `really bright` and not dark at `all`                           | 🔴dieses **Licht** ist `wirklich hell` und überhaupt nicht `dunkel`                                       |
+| This **table** is `practical` because it is `wide` and not `narrow`               | 🔴dieser **Tisch** ist `praktisch`, weil er `breit` und nicht `schmall` ist                               |
+| This **armchair** is `impractical` Because it is `old-fashioned` and not `modern` | 🔴dieser **Sessel** ist `unpraktisch`, weil er `altmodisch` und nicht `modern` ist                        |
+| This **carpet** is not `cheap` at all, but rather `expensive`                     | 🔴dieser **Teppich** ist überhaupt nicht `billig`/`günstig`, sondern eher `teuer`                         |
+| This **cupboard** is not small but rather big                                     | 🔴dieser **Schrank** ist nicht `klein`, sondern ziemlich `groß`                                           |
+| That **commode** is not `long` and not `short` It has a `normal` size             | 🔴diese **Kommode** ist nicht `lang` und nicht `kurz` sie hat eine `normale` Größe                        |
+| The **night** is `dark` and the day is `bright`                                   | 🔴die Nacht ist dunkel und der Tag ist hell                                                               |
 | Better new than old                                                               | Besser neu als alt                                                                                      |
 | It is `easy` to read but `difficult` to remember                                  | Es ist `leicht` zu lesen, aber `schwer` zu merken                                                       |
 | It is `easy` to imagine this **picture** though it is `difficult` to draw it      | Es ist `leicht`, sich dieses **Bild** vorzustellen, obwohl es `*schwer`/`schwierig` ist, es zu zeichnen |

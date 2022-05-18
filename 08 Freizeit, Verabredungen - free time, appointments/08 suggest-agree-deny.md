@@ -51,7 +51,7 @@
 |------------------------------------------------|-------------------------------------|
 | Ich kann leider nicht kommen                   | Sorry, I can not come               |
 | Vielleicht                                     | Perhaps                             |
-| Das weiß ich noch nicht                        | I do not know that yet              |
+| 🟢das weiß ich noch nicht                        | I do not know that yet              |
 | Na ja, ich weiß nicht                          | Well, I do not know                 |
 | Ich stimme zu einem gewissen Grad zu.          | I agree to a certain extent         |
 | Ich stimme dir / Ihnen nicht ganz / völlig zu. | I don't completely agree with you   |
@@ -92,7 +92,7 @@ ___
 | Es tut mir leid                             | I'm sorry                    |
 | Es tut mir wirktlich leid.                  | I'm really sorry             |
 | Es tut mir leid, das zu hören               | I'm sorry to hear that       |
-| Das ist schade                              | It's a pity                  |
+| 🟢das ist schade                              | It's a pity                  |
 | Mit Bedauern...                             | It is with regret that...    |
 | Ich / Wir bedauere / bedauern sehr, dass... | I / We deeply regret that... |
 
@@ -111,9 +111,9 @@ ___
 
 | De                                                                          | En                                                                |
 |-----------------------------------------------------------------------------|-------------------------------------------------------------------|
-| Der Vorschlag/ die Idee ist·super/ toll/ spitze/ echt gut. Einverstanden.   | The suggestion/ the idea is great/ top-notch/ really good. Agree. |
+| 🔵der Vorschlag/ die Idee ist·super/ toll/ spitze/ echt gut. Einverstanden.   | The suggestion/ the idea is great/ top-notch/ really good. Agree. |
 | Den Vorschlag finde ich gut/ prima.                                         | I think the suggestion is good/ great.                            |
-| Das ist eine tolle Idee/ein guter Vorschlag. Ja. Das können wir so machen.  | That's a great idea/a good suggestion. Yes. We can do that.       |
+| 🟢das ist eine tolle Idee/ein guter Vorschlag. Ja. Das können wir so machen.  | That's a great idea/a good suggestion. Yes. We can do that.       |
 | Du hast recht.                                                              | You are right.                                                    |
 
 ### Reaktion auf einen Vorschlag: skeptisch sein | Reaction to a suggestion: be skeptical
@@ -121,7 +121,7 @@ ___
 | De                                                                | En                                                                          |
 |-------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | Ich würde lieber…                                                 | I would rather...                                                           |
-| Das ist prinzipiell nicht schlecht, aber…                         | It's not bad in principle, but....                                          |
+| 🟢das ist prinzipiell nicht schlecht, aber…                         | It's not bad in principle, but....                                          |
 | Ich weiß nicht, ob das so eine gute Idee ist.                     | I don't know if it's such a good idea.                                      |
 | Wir können es ja versuchen, aber ich glaube, dass…                | We can try it, but I think that....                                         |
 

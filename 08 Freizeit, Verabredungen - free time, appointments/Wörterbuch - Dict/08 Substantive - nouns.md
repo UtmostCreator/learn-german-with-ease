@@ -1,4 +1,4 @@
-| der                 | die               | das                            |
+| 🔵der                 | 🔴die               | 🟢das                            |
 |---------------------|-------------------|--------------------------------|
 | Spaß - fun😅        | Ausstellung(en)🐘 | Kino(s)🎥                      |
 | Ausflug(u:e) trip   | Disco(s)💿        | Theater(-)🎑                   |

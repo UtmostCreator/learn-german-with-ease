@@ -11,9 +11,9 @@
 | `erklären`                            | to explain                       | объяснять               |
 | `spielen`                             | to play                          | играть                  |
 | `tun `                                | to do (daily activities/jobs)    | делать                  |
-|                                       | to do (general things)           |                         |
+| **IN DETAILS**                        | to do (general things)           |                         |
 | `machen `                             | to make/create                   | делать                  |
-|                                       | Constructing, Building, Creating |                         |
+| **IN DETAILS**                        | constructing, building, creating |                         |
 | `leben`                               | to live (long term)/exist        | жить                    |
 | `wohnen`                              | to live (short term)             | проживать               |
 | `glauben`                             | to believe/think                 | полагать/думать         |

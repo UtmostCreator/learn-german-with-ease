@@ -4,17 +4,17 @@
 | stimmt                          | right                                    |
 | Okay                            | okay                                     |
 | Correct                         | Richtig                                  |
-| That's correct                  | Das ist richtig                          |
+| That's correct                  | 🟢das ist richtig                          |
 | You are right                   | Du hast recht                            |
 | Yes, you are correct            | Ja, du hast Recht                        |
 | You were right                  | Du hattest recht                         |
 | You had it right                | Du hattest recht                         |
-| That's spot on (Это точно)      | Das ist genau richtig                    |
-| I suppose so (вероятно что так) | das nehme ich an                         |
+| That's spot on (Это точно)      | 🟢das ist genau richtig                    |
+| I suppose so (вероятно что так) | 🟢das nehme ich an                         |
 | I'm afraid you're right         | Ich fürchte, Sie haben recht             |
 | You're quite right              | Du liegst richtig                        |
 | Yes, that's correct             | Ja das ist richtig                       |
-| That's spot on                  | Das ist genau richtig                    |
+| That's spot on                  | 🟢das ist genau richtig                    |
 | You're dead right (there)       | Du bist genau richtig (dort)             |
 | Absolutely                      | Absolut                                  |
 | You've hit the nail on the head | Du hast den Nagel auf den Kopf getroffen |

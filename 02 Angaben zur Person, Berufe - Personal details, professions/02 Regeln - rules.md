@@ -4,7 +4,7 @@
 
 - Ich glaube/danke, er heisst Roman / I believe/think he is name is Roman
 
-## bei arbeiten als ...
+## arbeiten bei ... arbeiten als ...
 
 - Ich arbeite bei FirmaName (company name)
 - Ich arbeite bei Google
@@ -15,7 +15,7 @@
 Related:
 [[Wörterbuch - Dict/02 Substantive - nouns#Berufe]]
 
-## wohnen in ... kommen aus ...
+## wohnen/leben in ... kommen aus ...
 
 - Ich wohne/lebe in Berlin 
 - Sie komme aus der Ukraine
@@ -24,14 +24,19 @@ Related:
 Related:
 [[../01 Begrüßen Befinden - Greetings condition/01 Regeln - rules#Countries with article]]
 
-## Wie alt bist du?
+## Wie alt `bist` du?
 
-- Ich bin 35 Jahre alt
-- Hey super! Ich bind auch 35!
+- Ich `bin` 35 Jahre alt
+- Hey super! Ich `bin` auch 35!
+
+## Negation mit `nicht` / negation with `not`
+
+- Wir leben `nicht` zusammen
+- Sie wohnt `nicht` in Köln
 
 ## Familienstand(-) / marital status
 
-- Ich bin verheiratet/geschieden/Single
+- Ich bin verheiratet/geschieden/Single/ledig
 - Ich bin nicht verheiratet
 - Wir leben zusammen/nicht zusammen
 - Ich ein Kind / zwei Kind`er` / keine Kind`er`

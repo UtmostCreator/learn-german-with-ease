@@ -9,9 +9,9 @@ Related:
 
 | Artikel / article | Geschlecht / gender |
 |-------------------|---------------------|
-| der (männlich)    | masculine           |
-| die (feminin)     | feminine            |
-| das (neutral)     | neutral             |
+| 🔵der (männlich)    | masculine           |
+| 🔴die (feminin)     | feminine            |
+| 🟢das (neutral)     | neutral             |
 
 ## Comparing to English
 

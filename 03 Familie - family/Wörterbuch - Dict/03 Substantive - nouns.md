@@ -10,6 +10,20 @@ Topic:
 
 # 02 Substantive - nouns
 
-| der                     | die            | das                   |
-|-------------------------|----------------|-----------------------|
-|                         |                |                       |
+> Wer ist das?
+- Das ist meine Familie.
+
+
+| 🔵der                      | 🔴die                              | 🟢das     |
+|----------------------------|------------------------------------|-----------|
+| Vater(Väter)               | Familie(n)                         | Kind(er)  |
+| Sohn(Söhne)                | Eltern (Plural)/parents            |           |
+| Bruder(Brüder)             | Mutter(Mütter)/mother              |           |
+| Großvater(Großväter)       | Tochter(Töchter)/doter             |           |
+| Ehemann(Ehemänner)/husband | Schwester(n)/sister                |           |
+| Mann / man                 | Großmutter(Großmütter)/grandmother |           |
+|                            | Oma/grandmother                    |           |
+|                            | Ehefrau(en)/wife                   |           |
+|                            | Frau /                             |           |
+|                            |                                    |           |
+|                            |                                    |           |
