@@ -8,7 +8,7 @@
 | hell       | dunkel               | bright               | dark            |
 | rund       | eckig                | around               | square          |
 | hoch       | niedrig              | high                 | low             |
-| schwer     | leicht               | difficult/heavy/hard | easy/light/soft |
+| schwer     | leicht/weich(soft)   | difficult/heavy/hard | easy/light/soft |
 | neu        | alt                  | new                  | old             |
 | teuer      | günstig/billig       | expensive            | cheap           |
 | schön      | hässlich             | beautiful            | ugly            |

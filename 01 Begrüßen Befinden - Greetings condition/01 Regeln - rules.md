@@ -7,11 +7,11 @@ Related:
 
 #derDieDas
 
-| Artikel / article | Geschlecht / gender |
-|-------------------|---------------------|
-| 🔵der (männlich)    | masculine           |
-| 🔴die (feminin)     | feminine            |
-| 🟢das (neutral)     | neutral             |
+| Artikel / article    | Geschlecht / gender |
+|----------------------|---------------------|
+| 🔵der (männlich)     | masculine           |
+| 🔴die (feminin)      | feminine            |
+| 🟢das (neutral)      | neuter              |
 
 ## Comparing to English
 
