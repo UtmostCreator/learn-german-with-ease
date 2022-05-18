@@ -25,7 +25,7 @@ English does not have such articles, in English language you can only find (`the
 > [!todo]+
 > 
 >Related:
-> - [[00N ein, eine, kein, keine]]
+> - [02 ein, eine, kein, keine](../02%20Angaben%20zur%20Person,%20Berufe%20-%20Personal%20details,%20professions/02%20ein,%20eine,%20kein,%20keine.md)
 > - [[00N ein, eine, einen, kein, keine, keinen]]
 
 # Personalpronomen - personal pronouns
@@ -91,7 +91,7 @@ unregelmäßige / starke Verben (irregular / stong verbs) ~=🇩🇪200; and �
 Zum Beispiel(zum z.B., beispielsweise):
 > Ich bin aus der Ukraine
 
-# das ist / this is
+# Das ist / This is
 
 Zum Beispiel:
 > Das ist Arthur - This is Arthur

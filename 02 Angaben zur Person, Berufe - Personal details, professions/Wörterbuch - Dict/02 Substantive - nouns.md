@@ -10,15 +10,15 @@ Topic: #Beruf, #occupation
 
 # 02 Substantive - nouns
 
-| der          | die                                        | das                                           |
-|--------------|--------------------------------------------|-----------------------------------------------|
-| Job(s) / job | Ausbildung(en) / apprenticeship / обучение | Praktikum(Praktika) / internship / стажировка |
-|              |                                            | Kind(er)                                      |
-|              |                                            | Single(s) / single                            |
+| der                   | die                                        | das                                           |
+|-----------------------|--------------------------------------------|-----------------------------------------------|
+| Job(s) / job          | Ausbildung(en) / apprenticeship / обучение | Praktikum(Praktika) / internship / стажировка |
+| Beruf(e) / profession |                                            | Kind(er)                                      |
+|                       |                                            | Single(s) / single                            |
 
-allein - alone
+## Berufe
 
-| Duetch               | English                      | Rus                |
+| De                   | En                           | Ru                 |
 |----------------------|------------------------------|--------------------|
 | ⚙️Ingenieur          | engineer                     | инженер            |
 | 🗞Journalist         | journalist                   | журналистка        |

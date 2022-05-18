@@ -6,9 +6,10 @@
 - ⬅️[[]]
 - ➡️[[]]
 
-| Deutsch   | English  | D-Antonym  | E-Antonym  |
-|-----------|----------|------------|------------|
-| zusammen  | together | separat    | separately |
-|           |          |            |            |
+| Deutsch             | English  | D-Antonym      | E-Antonym         |
+|---------------------|----------|----------------|-------------------|
+| zusammen/gemeinsam  | together | allein/separat | alone/separately  |
+|                     |          |                |                   |
+
 
 
