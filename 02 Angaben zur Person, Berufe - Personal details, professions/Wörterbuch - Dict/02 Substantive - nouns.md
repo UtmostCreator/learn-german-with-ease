@@ -1,6 +1,6 @@
 18/05/2022-18:31:22
 
-Topic:
+Topic: #Beruf, #occupation
 
 🏷️Tags: #nouns, #Substantive, #derDieDas, #articles, #Wörterbuch
 
@@ -10,6 +10,27 @@ Topic:
 
 # 02 Substantive - nouns
 
-| der                     | die            | das                   |
-|-------------------------|----------------|-----------------------|
-|                         |                |                       |
+| der          | die                                        | das                                           |
+|--------------|--------------------------------------------|-----------------------------------------------|
+| Job(s) / job | Ausbildung(en) / apprenticeship / обучение | Praktikum(Praktika) / internship / стажировка |
+|              |                                            |                                               |
+
+
+Ausbildung
+
+| Duetch               | English                      | Rus                |
+|----------------------|------------------------------|--------------------|
+| ⚙️Ingenieur          | engineer                     | инженер            |
+| 🗞Journalist         | journalist                   | журналистка        |
+| 🧑‍⚕️💉Ärztin (Arzt) | doctor                       | доктор             |
+| 🔧Mechatroniker      | Mechatronics engineer        | Инженер-мехатроник |
+| 👩‍🏫Lehrer          | Teacher                      | Учитель            |
+| 👩‍🎓Student         | student                      | студент            |
+| 🎭👩‍🎤Schauspieler  | actor                        | актер              |
+| Kellnerin            | Waitress                     | Официантка         |
+| Verkäufer            | salesperson                  | продавец           |
+| 💇Friseurin          | hair stylist                 | парикмахер         |
+| Architektin          | architect                    | архитектор         |
+| Sekretärin           | secretary                    | секретарь          |
+| Übersetzer           | interpreter (not translator) | переводчик         |
+| Programmierer        | programmer                   | программист        |

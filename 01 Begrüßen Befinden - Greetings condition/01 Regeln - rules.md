@@ -13,9 +13,20 @@ Related:
 | die (feminin)     | feminine            |
 | das (neutral)     | neutral             |
 
+## Comparing to English
+
+English does not have such articles, in English language you can only find (`the` **and** `a/an`):
+- `the` - definite article
+- `a/dn` - indefinite article
+
 > Note: 
-> English does not have such articles, in English language you can only find (the - )
 > Each table with nouns (Substantive) will start with der die das columns (for easy of use)
+
+> [!todo]+
+> 
+>Related:
+> - [[00N ein, eine, kein, keine]]
+> - [[00N ein, eine, einen, kein, keine, keinen]]
 
 # Personalpronomen - personal pronouns
 
