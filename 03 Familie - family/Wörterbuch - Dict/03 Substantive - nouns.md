@@ -10,20 +10,29 @@ Topic:
 
 # 02 Substantive - nouns
 
+## Familienmitglieder / family members
+
 > Wer ist das?
 - Das ist meine Familie.
 
+| 🔵der                            | 🔴die                                   | 🟢das                               |
+|----------------------------------|-----------------------------------------|-------------------------------------|
+|                                  | Familie(n)                              | Kind(er)/kinder/child(children)     |
+|                                  | Eltern (Plural)/parents                 | Familienmitglied(er)/family member  |
+|                                  | Großeltern/grandparents                 |                                     |
+| Vater(Väter)/father              | Mutter(Mütter)/mother                   |                                     |
+| Sohn(Söhne)/son                  | Tochter(Töchter)/daughter/дочери        |                                     |
+| Bruder(Brüder)/brother           | Schwester(n)/sister                     |                                     |
+|                                  | Geschwister(brother & sister, siblings) |                                     |
+| Großvater(Großväter)/grandfather | Großmutter(Großmütter)/grandmother      |                                     |
+| Papa(-)/grandfather              | Oma/grandmother                         |                                     |
+| Ehemann(Ehemänner)/husband       | Ehefrau(en)/wife(wives)                 |                                     |
+| Mann / man                       | Frau / women                            |                                     |
+| Enkel (Enkel)/grandson           | Enkelin (Enkelinnen)/granddaughters     |                                     |
+| Cousin/cousin/2юр. брат          | Cousine/cousin/2юр. сестра              |                                     |
+| Onkel(-)/uncle/дядя              | Tante/aunt                              |                                     |
+|                                  |                                         |                                     |
 
-| 🔵der                      | 🔴die                              | 🟢das     |
-|----------------------------|------------------------------------|-----------|
-| Vater(Väter)               | Familie(n)                         | Kind(er)  |
-| Sohn(Söhne)                | Eltern (Plural)/parents            |           |
-| Bruder(Brüder)             | Mutter(Mütter)/mother              |           |
-| Großvater(Großväter)       | Tochter(Töchter)/doter             |           |
-| Ehemann(Ehemänner)/husband | Schwester(n)/sister                |           |
-| Mann / man                 | Großmutter(Großmütter)/grandmother |           |
-|                            | Oma/grandmother                    |           |
-|                            | Ehefrau(en)/wife                   |           |
-|                            | Frau /                             |           |
-|                            |                                    |           |
-|                            |                                    |           |
+## 2
+
+Drehbuchausschnitt / script excerpt
