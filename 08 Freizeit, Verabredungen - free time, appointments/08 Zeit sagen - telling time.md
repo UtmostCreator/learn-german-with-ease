@@ -5,7 +5,7 @@
 
 Bis vier! / Bis dann!
 
-# Links, Quellen - links, sources
+# References
 En-Ge:
 - https://learn-german-easily.com/tell-time-in-german
 - https://www.thegermanadventure.com/telling-time-in-german/

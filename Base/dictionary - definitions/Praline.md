@@ -1,0 +1,1 @@
+> Praline is a popular French dessert made in the form of small sweets made from nuts roasted in sugar. This delicacy is named after the French confectioner Plessy-Praline, who invented a dessert of grated almonds, mixed with candied honey, small pieces of chocolate, and poured with burnt sugar.

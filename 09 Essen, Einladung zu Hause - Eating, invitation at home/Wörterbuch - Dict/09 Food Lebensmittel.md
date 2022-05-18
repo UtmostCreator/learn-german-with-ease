@@ -39,7 +39,7 @@
 | Braten / roast meat                       | 🍋🧃Limonade(n) / lemonade          |                                |
 | 🐡Fisch(e) / fish                         | 🥝🥭Frucht(Früchte) / fruits        |                                |
 | 🍷Wein(e)                                 | 🍌Banane(n)                         |                                |
-| Alkohol(e)                                | Praline(n) / praline (French sweet) |                                |
+| Alkohol(e)                                | [Praline](../../Base/dictionary%20-%20definitions/Praline.md)(n) / praline (French sweet) |                                |
 | Wodka(s)                                  | 🥕Möhre(n) / carrot                 |                                |
 | Cognac / cognac                           | 🧅Zwiebel(n) / onion                |                                |
 | alkoholarme Getränke / low alcohol drinks | 🍇Weintraube(n) / grapes            |                                |
@@ -53,9 +53,7 @@
 | 🍭Lutscher / lolly / lollipop             |                                     |                                |
 |                                           |                                     |                                |
 |                                           |                                     |                                |
-
-> Praline is a popular French dessert made in the form of small sweets made from nuts roasted in sugar. This delicacy is named after the French confectioner Plessy-Praline, who invented a dessert of grated almonds, mixed with candied honey, small pieces of chocolate, and poured with burnt sugar.
-
+	
 # mixed fruits and vegetables
 
 
