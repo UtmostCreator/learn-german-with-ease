@@ -41,5 +41,25 @@ Related:
 - Wir leben zusammen/nicht zusammen
 - Ich ein Kind / zwei Kind`er` / keine Kind`er`
 
+> Sind Sie verheiratet? Bist du verheiratet?
+- Ja, Ich bin verheiratet
+- Nein, Ich bin ledig/ nicht verheiratet/ Single
+- Ich bin geschieden
+
+1. Wir sind geschieden
+2. Wir sind nicht verheiratet, aber Peter und Ich leben zusamen (вместе)
+3. Wir haben ein Kind
+4. Ich bin verheiratet
+5. Ich bin Single. / Ich lebe allein
+
+### Exercise:
+![[../Files/Pasted image 20220518224943.png]]
+
+#### Exercise answers
+
+> [!Answers]+
+> ![[../Files/Pasted image 20220518225035.png]]
+
+
 ## 🖼 Über dich | About yourself
 [[02 Über dich - about myself]]

@@ -35,4 +35,8 @@ Topic:
 
 ## 2
 
+| 🔵der                            | 🔴die                                    | 🟢das                               |
+|----------------------------------|------------------------------------------|-------------------------------------|
+|                                  | Universität(en) - Uni. / university(uni) |                                     |
+
 Drehbuchausschnitt / script excerpt
