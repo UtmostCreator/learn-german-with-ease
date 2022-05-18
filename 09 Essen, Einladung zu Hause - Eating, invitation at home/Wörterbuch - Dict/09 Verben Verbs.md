@@ -38,5 +38,5 @@ sie	`essen`
 
 - Name -- Surname -- Фамилия
 - Herkunft -- origin -- происхождение
-- Befinden -- to be (situated or located) -- Расположены
+- Befinden -- to be (situated or located) -- Расположены
 - Abschied -- taking leave -- прощаюсь

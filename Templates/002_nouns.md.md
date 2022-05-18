@@ -2,7 +2,7 @@
 
 Topic:
 
-🏷️Tags: #der #die #das #Substantive #nouns #plural #Plural #singular #Singular #Wörterbuch
+🏷️Tags: #nouns, #Substantive, #derDieDas, #articles, #Wörterbuch
 
 🧭Pagination:
 - ⬅️[[]]

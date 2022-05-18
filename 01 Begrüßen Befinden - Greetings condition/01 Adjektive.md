@@ -1,9 +1,14 @@
 # adjective-adjectives
 
-| Deutsch                     | D-Antonym | English | E-Antonym |
-|-----------------------------|-----------|---------|-----------|
-| Beeindruckend — Impressive  |           |         |           |
-|                             |           |         |           |
+🏷️Tags: #adjectives
 
+🧭Pagination:
+- ⬅️[[]]
+- ➡️[[]]
+
+| Deutsch         | English     | D-Antonym   | E-Antonym      |
+|-----------------|-------------|-------------|----------------|
+| Beeindruckend   | Impressive  | unscheinbar | unimpressive   |
+|                 |             |             ||
 
 

@@ -1,8 +1,11 @@
 # Fragen Sie, wie es ihnen geht - ask how they are doing
-## nach dem Befinden fragen - to ask about the condition
+## nach dem Befinden fragen - asking about the condition
 
-Wie geht es dir? / Wie geht's dir? (informal)
-Wie geht es ihnen? (formal)
+Informal: 
+>Wie geht es dir? / Wie geht's dir?
+
+Formal:
+>Wie geht es ihnen?
 
 ## Antworten - answering
 - 😃 Sehr gut, danke!

@@ -1,4 +1,4 @@
-tags: #der #die #das #Substantive #nouns #plural #Plural #singular #Singular #Wörterbuch
+tags: #nouns, #Substantive, #derDieDas, #articles, #Wörterbuch
 
 | der                     | die            | das                   |
 |-------------------------|----------------|-----------------------|

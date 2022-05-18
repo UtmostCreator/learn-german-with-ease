@@ -2,7 +2,6 @@
 
 ## Name
 
-
 fragen:
 
 | Ge               | En                 |
@@ -13,14 +12,17 @@ fragen:
 | Wer bist du?     | Who are you?       | 
 
 Wie heißt du? — What's your name?
-Ich heißt — My name is
+
+- Ich heißt — My name is
 
 antworten:
+
 - Ich bin/heiße Nicole. Mein Name is Ivan Vorchern
 
 ## Herkunft
 
 fragen:
+
 - Woher kommen Sie? (You, formal)
 - Woher kommst du? (you, informal)
 
@@ -31,27 +33,43 @@ antworten:
 
 - Das ist Ivan / Frau Walter. Er/Sie kommt aus Mexiko
 
+<table>
+  <tr>
+    <th>Ge</th>
+    <th>En</th>
+  </tr>
+  <tr>
+    <td>
+<pre>
 Wer ist das?
-
 Das ist ... Nikole ... Woher kommt sie/er?
 Er/sie kommt aus ....
-
+</pre>
+</td>
+<td>
 Who is this?
 This is... Nikole... Where is she/he from?
 He/she comes from ....
-
-👧♀sie — she | Herr — Mr.
-👦♂er — he | Frau — Ms.
+</td>
+  </tr>
+</table>   
 
 Wer ist das?
+
+```
 ▲ Das ist Angela Merkel. Woher kommt sie?
 ■ Sie kommt aus Deutschland.
+```
 
 Who is this?
+
+```
 ▲ This is Angela Merkel. Where does she come from?
 ■ She comes from Germany.
+```
 
 ## Um Wiederholung bitten
+
 - Bitte um Wiederholung - Asking to repeat
 
 Anfrage - request:
@@ -79,7 +97,6 @@ Anfrage - request:
 
 ## Allgemeine Sätze - General phrases
 
-
 | Ge                                                 | En                                         |
 |----------------------------------------------------|--------------------------------------------|
 | das Lied Heisst "Winfried"                         | the song is called "Winfried"              |
@@ -92,14 +109,17 @@ Anfrage - request:
 
 Sprechen Sie in der Gruppe
 
-## Woher kommst du? 
+## Woher kommst du?
 
+```
 Woher kommst du? Aus Spanien?
 Aus der Schweiz?
 Nein, Ich komme aus Mexiko.
 Du kommst aus Deutschland, hm?
 Ich komme aus Osterreich.
+```
 
+```
 Wie geht's?
 Gut, danke!
 Und wie geht's?
@@ -109,52 +129,59 @@ Guten Tag, Frau Wachter!
 Woher kommen Sie?
 Er kommt aus Mexiko.
 Auf Wiedersehen, Herr Rodiguez!
+```
 
 ___
 
 ## Apropos - Speaking | Konversation - conversation
-🟥 Das ist Paco. Und das ist Frau Wachter.
-🟩 Guten Tag. Frau Wachter.
-🟦 Guten Tag Herr...
 
-🟥 Er kommt aus Mexiko.
-🟩 Ah! Aus Mexiko!
-🟦 ja
+- 🟥 Das ist Paco. Und das ist Frau Wachter.
+- 🟩 Guten Tag. Frau Wachter.
+- 🟦 Guten Tag Herr...
+
+- 🟥 Er kommt aus Mexiko.
+- 🟩 Ah! Aus Mexiko!
+- 🟦 ja
 
 
-🟥 This is Paco. And this is Ms. Wachter.
-🟩 Good day. Mrs. Wachter.
-🟦 Hello sir...
+- 🟥 This is Paco. And this is Ms. Wachter.
+- 🟩 Good day. Mrs. Wachter.
+- 🟦 Hello sir...
 
-🟥 He is from Mexico.
-🟩 Ah! From Mexico!
-🟦 yes
+- 🟥 He is from Mexico.
+- 🟩 Ah! From Mexico!
+- 🟦 yes
 
 ### befinden - to feel
 
-wie `befinden` Sie sich heute? 
+wie `befinden` Sie sich heute?
 how are you `(feeling)` today?, how do you `feel` today?
 
-## Begrüßung Abschied - greetings, firewell
+## Begrüßung Abschied - greetings, firewall
+
 Bildlexikon — picture dictionary
 
-Begrüßung -- greeting -- приветствие
-Abschied -- firewell -- прощаюсь
+> Begrüßung -- greeting -- приветствие
+> Abschied -- firewell -- прощаюсь
 
 ### Hallo sagen, tschüss - Saying hello, bye
+
 - auf wiederschauen /Uf Wiederluege mitenand (zusammen)
 - Servus
 - Hallo
 - Guten Abend
 
-🇨🇭 Hallo!  Grüezi! — Швейцария — Switzerland
-🇩🇪 Guten Tag! Guten Morgen! Guten Abend!
+- 🇨🇭 Hallo!
+- Grüezi! — Швейцария — Switzerland
+- 🇩🇪 Guten Tag! Guten Morgen! Guten Abend!
 
 🇦🇺österreich — Austria — Австрия | Bavaria (Бавария)
-Servus!
-Grüß Gott!
+
+- Servus!
+- Grüß Gott!
 
 ## DACH
+
 > Germany, Austria and Switzerland (German-speaking Europe)
 > Deutschland, Österreich und Schweiz (deutschsprachiges Europa)
 
