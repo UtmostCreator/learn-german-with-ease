@@ -13,10 +13,10 @@ Topic: #Beruf, #occupation
 | der          | die                                        | das                                           |
 |--------------|--------------------------------------------|-----------------------------------------------|
 | Job(s) / job | Ausbildung(en) / apprenticeship / обучение | Praktikum(Praktika) / internship / стажировка |
-|              |                                            |                                               |
+|              |                                            | Kind(er)                                      |
+|              |                                            | Single(s) / single                            |
 
-
-Ausbildung
+allein - alone
 
 | Duetch               | English                      | Rus                |
 |----------------------|------------------------------|--------------------|

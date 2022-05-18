@@ -6,27 +6,28 @@
 
 ## general-purpose
 
-| Ge                                    | En                   | Ru                      |
-|---------------------------------------|----------------------|-------------------------|
-| `glauben`                             | believe/think        | полагать/думать         |
-| `danken`                              | think                | думать                  |
-| `lernen`                              | to learn             | учить                   |
-| `unterrichten`                        | teaching             | преподавать             |
-| `verkaufen`                           | Selling              | продавать               |
-| `erklären`                            | to explain           | объяснять               |
-| `reparieren`                          | repair               | ремонтировать           |
-| `spielen`                             | to play              | играть                  |
-| `sortieren`                           | sort by              | сортировать             |
-| `am Computer arbeiten`                | work on the computer | работать за компьютером |
-| `sprechen` (du sprichst er spricht)   | to speak             | говорить                |
-| `helfen` (du hilfst er hilft)         | help                 | помощь                  |
-| `studieren`                           | to study             | учить (в университете)  |
-| `telefonieren`                        | make a phone call    | звонить                 |
-| `Interviews machen`                   | do interviews        | брать интервью          |
-| `Medikament geben` (du gibst er gibt) | give medicine        | давать медикаменты      |
-| `Texte schrieben`                     | wrote lyrics         | писать текста           |
-| `montieren`                           | assemble             | монтировать             |
-| `sagen`                               | speak                | говорить                |
+| Ge                                    | En                      | Ru                      |
+|---------------------------------------|-------------------------|-------------------------|
+| `erklären`                            | to explain              | объяснять               |
+| `spielen`                             | to play                 | играть                  |
+| `leben`                               | to live/exist           |                         |
+| `glauben`                             | to believe/think        | полагать/думать         |
+| `danken`                              | to think                | думать                  |
+| `lernen`                              | to learn                | учить                   |
+| `sprechen` (du sprichst er spricht)   | to speak                | говорить                |
+| `sagen`                               | to say                  | говорить                |
+| `helfen` (du hilfst er hilft)         | to help                 | помощь                  |
+| `studieren`                           | to study                | учить (в университете)  |
+| `unterrichten`                        | to teach                | преподавать             |
+| `verkaufen`                           | to sell                 | продавать               |
+| `sortieren`                           | to sort by              | сортировать             |
+| `reparieren`                          | to repair               | ремонтировать           |
+| `montieren`                           | to assemble             | монтировать             |
+| `am Computer arbeiten`                | to work on the computer | работать за компьютером |
+| `telefonieren`                        | to make a phone call    | звонить                 |
+| `Interviews machen`                   | to do interviews        | брать интервью          |
+| `Medikament geben` (du gibst er gibt) | to give medicine        | давать медикаменты      |
+| `Texte schrieben`                     | to write lyrics         | писать текста           |
 
 
 

@@ -6,6 +6,8 @@
 
 # bei als
 
-## Ich arbeite bei FirmaName(companyName)
+- Ich arbeite bei FirmaName (company name)
+- Ich arbeite bei Google
 
-## Ich arbeite als be (postman)
+- Ich arbeite als BerufName (profession name)
+- Ich arbeite als Briefträger (postman)
