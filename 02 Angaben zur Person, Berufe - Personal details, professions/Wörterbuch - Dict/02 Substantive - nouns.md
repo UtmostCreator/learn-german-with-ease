@@ -10,21 +10,21 @@ Topic: #Beruf, #occupation
 
 # 02 Substantive - nouns
 
-| 🔵der                                | 🔴die                                        | 🟢das                                           |
-|------------------------------------|--------------------------------------------|-----------------------------------------------|
-| Job(s) / job                       | Ausbildung(en) / apprenticeship / обучение | Praktikum(Praktika) / internship / стажировка |
-| Beruf(e) / profession              |                                            | Kind(er)                                      |
-| Familienstand(-) / marital status  |                                            | Single(s) / single                            |
-|                                    |                                            |                                               |
+| 🔵der                           | 🔴die                                  | 🟢das                                     |
+|---------------------------------|----------------------------------------|-------------------------------------------|
+| Job(s)/job                      | Ausbildung(en)/apprenticeship/обучение | Praktikum(Praktika)/internship/стажировка |
+| Beruf(e)/profession             | Telefonnummer(n)                       | Kind(er)                                  |
+| Familienstand(-)/marital status | Nummer(n)                              | Single(s)/single                          |
+| Kompass/compass                 |                                        | Telefon(e)                                |
 
 ## Berufe
 
-### Wortbildung -in / word formation -in
+### Wortbildung -in/word formation -in
 
-| Männlich / Masculine | feminin / feminine |
-|----------------------|--------------------|
-| 🔵der Journalist       | 🔴die Journalistin   |
-| 🔵der Arzt             | 🔴die Ärztin         |
+| Männlich/Masculine | feminin/feminine   |
+|--------------------|--------------------|
+| 🔵der Journalist   | 🔴die Journalistin |
+| 🔵der Arzt         | 🔴die Ärztin       |
 
 | De                   | En                           | Ru                 |
 |----------------------|------------------------------|--------------------|

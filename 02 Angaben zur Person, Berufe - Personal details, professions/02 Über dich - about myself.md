@@ -2,7 +2,7 @@
 
 | Keyword                                               | Question                | Answer                                                |
 |-------------------------------------------------------|-------------------------|-------------------------------------------------------|
-| ❓🧍‍♂️Name                                            | Wie heissen Sie?        | Ich bin Roman / Ich hiesse Roman                      |
+| ❓🧍‍♂️Name                                            | Wie heißen Sie?         | Ich bin Roman / Ich hiesse Roman                      |
 | 🌍Herkunft — Origin (происхождение)                   | Woher kommen Sie?       | Ich komme aus der Ukraine und wohne in Saporischschja |
 | 🏡Wohnort — Place of residence (Место жительства)     | Wo wohnen Sie?          | Ich wohne in Saporischschja                           |
 | 💼Beruf — Job (profession, occupation)                | Was sind Sie von Beruf? | Ich bin Programmierer und Übersetzer von Beruf.       |

@@ -70,13 +70,13 @@ unregelmäßige / starke Verben (irregular / stong verbs) ~=🇩🇪200; and �
 | du                 | st     |
 
 > heißen
-- sein       heissen     kommen
+- sein       heißen     kommen
 - ich —                           e       bin        heisse        komme
 - du —                            st      bist        heisst        kommst
 - er / sie / es —             t        ist          heisst         kommt
-- wir —                           en     sind      heissen      kommen   
+- wir —                           en     sind      heißen      kommen   
 - ihr —                            t        seid      heisst         kommt
-- sie (they) Sie (u) —    en     sind       heissen     kommen
+- sie (they) Sie (u) —    en     sind       heißen     kommen
 
 # Countries with article
 
