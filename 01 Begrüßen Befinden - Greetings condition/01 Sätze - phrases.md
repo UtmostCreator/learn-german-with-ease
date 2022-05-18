@@ -12,22 +12,19 @@ fragen:
 | Wer bist du?     | Who are you?       | 
 
 Wie heißt du? — What's your name?
-
-- Ich heißt — My name is
-
-antworten:
-
 - Ich bin/heiße Nicole. Mein Name is Ivan Vorchern
+
+Wer sind Sie?
+- Ich bin Mark
 
 ## Herkunft
 
 fragen:
-
 - Woher kommen Sie? (You, formal)
 - Woher kommst du? (you, informal)
 
 antworten:
-[ich komme] aus Mexiko
+- [ich komme] aus Mexiko
 
 ## sich und andere vorstellen - introduce yourself and others
 
@@ -64,9 +61,7 @@ Who is this?
 ■ She comes from Germany.
 ```
 
-## Um Wiederholung bitten
-
-- Bitte um Wiederholung - Asking to repeat
+## Um Wiederholung bitten / Asking to repeat
 
 Anfrage - request:
 
@@ -79,17 +74,53 @@ Anfrage - request:
 | Nochmal bitte                        | again please                           |
 | Können Sie bitte langsamer sprechen? | Could you please speak slower?         |
 
-## Gruß und Abschied - greetings and farewell
+## Gruß - greetings
 
-| Ge              | En           |
-|-----------------|--------------|
-| Hallo           | Hi           |
-| Guten Tag       | Good day     |
-| Guten Morgen    | Good Morning |
-| Guten Abend     | Good evening |
-| Gute Nacht      | Good night   |
-| Tschüss         | bye          |
-| Auf Wiedersehen | Goodbye      |
+
+- 
+- 🇩🇪 Guten Tag! Guten Morgen! Guten Abend!
+
+🇦🇺österreich — Austria — Австрия | Bavaria (Бавария)
+
+- 
+
+| Ge                                                      | En                                         |
+|---------------------------------------------------------|--------------------------------------------|
+| Hallo                                                   | Hello                                      |
+| Hi                                                      | Hi                                         |
+| Moin (northern Germany, Hamburg)                        | Hi!                                        |
+| Na                                                      | Hi, how are you? Fine thanks, how are you? |
+| Servus (Bavaria and Austria)                            | Hi/Hello (At your service) - Latin         |
+| Grüezi! (Switzerland)                                   | Hi/Hello                                   |
+| Grüß Gott! (Bavaria, south-eastern Germany and Austria) | Good day (may) God bless (you)             |
+| Guten Tag                                               | Good day                                   |
+| Guten Morgen                                            | Good Morning                               |
+| Guten Abend                                             | Good evening                               |
+| Gute Nacht                                              | Good night                                 |
+| Wie geht es dir? / Wie geht es Ihnen?                   | How are you? / How are you?                |
+| Wie geht's?                                             | How are you?                               |
+| Was ist los?                                            | What’s up?                                 |
+| Alles klar?                                             | “All clear” ~“what's up?”                  |
+| Grüß Gott/ Grüß dich/ Grüß Sie / Grüezi                 | Hello, hello, hello, hello, hello          |
+| Servus                                                  | Goodbye                                    |
+| Hier ist… Roman                                         | “It’s…” Roman                              |
+
+## Abschied - farewell
+
+| Ge                                          | En                                 |
+|---------------------------------------------|------------------------------------|
+| Tschüss/Tschüssi                            | Bye                                |
+| Ciao                                        | Ciao                               |
+| Auf Wiedersehen                             | See you again / Goodbye            |
+| Gute Nacht                                  | Good night                         |
+| Bis bald / Auf bald                         | See you soon                       |
+| Bis dann / Bis später                       | See you later                      |
+| Wir sehen uns                               | See you                            |
+| Bis zum nächsten Mal                        | Until next time                    |
+| Wir sprechen uns bald / Wir sprechen später | We'll talk soon / We'll talk later |
+| auf wiederschauen / auf Wiederluege         | see you again / goodbye            |
+
+[[read more]]
 
 ## Allgemeine Sätze - General phrases
 
@@ -160,22 +191,6 @@ Bildlexikon — picture dictionary
 
 > Begrüßung -- greeting -- приветствие
 > Abschied --  farewell -- прощаюсь
-
-### Hallo sagen, tschüss - Saying hello, bye
-
-- auf wiederschauen /auf Wiederluege mitenand (zusammen)
-- Servus
-- Hallo
-- Guten Abend
-
-- 🇨🇭 Hallo!
-- Grüezi! — Швейцария — Switzerland
-- 🇩🇪 Guten Tag! Guten Morgen! Guten Abend!
-
-🇦🇺österreich — Austria — Австрия | Bavaria (Бавария)
-
-- Servus!
-- Grüß Gott!
 
 ## DACH
 

@@ -2,7 +2,7 @@
 ## nach dem Befinden fragen - asking about the condition
 
 Informal: 
->Wie geht es dir? / Wie geht's dir?
+>Wie geht es dir? / Wie geht's dir? / Wie geht's?
 
 Formal:
 >Wie geht es ihnen?
@@ -15,3 +15,5 @@ Formal:
 
 > Mir geht ist ...
 
+- Alles gut?
+- 
