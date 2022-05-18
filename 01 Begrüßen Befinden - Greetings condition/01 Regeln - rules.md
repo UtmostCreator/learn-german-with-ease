@@ -64,3 +64,11 @@ unregelmäßige / starke Verben (irregular / stong verbs) ~=🇩🇪200; and �
 
 Zum Beispiel(zum z.B., beispielsweise):
 > Ich bin aus der Ukraine
+
+# das ist / this is
+
+Zum Beispiel:
+> Das ist Arthur - This is Arthur
+> Das ist mein Buch - This is my book
+
+![001_rules_image](../Files/001_rules_image.png)

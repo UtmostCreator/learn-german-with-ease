@@ -8,5 +8,5 @@ tags: #nouns, #Substantive, #derDieDas, #articles, #Wörterbuch
 | Unterricht(e) classes   |                | Übung(en) - exercise  |
 | Gruß(Grüße) - greetings |                |                       |
 | Abschied(e) - farewell  |                |                       |
-|                         |                |                       |
+| inhalt(e) / contents    |                |                       |
 |                         |                |                       |

@@ -40,11 +40,9 @@ antworten:
   </tr>
   <tr>
     <td>
-<pre>
 Wer ist das?
 Das ist ... Nikole ... Woher kommt sie/er?
 Er/sie kommt aus ....
-</pre>
 </td>
 <td>
 Who is this?
@@ -55,14 +53,12 @@ He/she comes from ....
 </table>   
 
 Wer ist das?
-
 ```
 ▲ Das ist Angela Merkel. Woher kommt sie?
 ■ Sie kommt aus Deutschland.
 ```
 
 Who is this?
-
 ```
 ▲ This is Angela Merkel. Where does she come from?
 ■ She comes from Germany.
@@ -111,6 +107,7 @@ Sprechen Sie in der Gruppe
 
 ## Woher kommst du?
 
+Dialog 1:
 ```
 Woher kommst du? Aus Spanien?
 Aus der Schweiz?
@@ -119,6 +116,7 @@ Du kommst aus Deutschland, hm?
 Ich komme aus Osterreich.
 ```
 
+Dialog 2:
 ```
 Wie geht's?
 Gut, danke!
@@ -143,7 +141,6 @@ ___
 - 🟩 Ah! Aus Mexiko!
 - 🟦 ja
 
-
 - 🟥 This is Paco. And this is Ms. Wachter.
 - 🟩 Good day. Mrs. Wachter.
 - 🟦 Hello sir...
@@ -157,16 +154,16 @@ ___
 wie `befinden` Sie sich heute?
 how are you `(feeling)` today?, how do you `feel` today?
 
-## Begrüßung Abschied - greetings, firewall
+## Begrüßung Abschied - greetings,  farewell
 
 Bildlexikon — picture dictionary
 
 > Begrüßung -- greeting -- приветствие
-> Abschied -- firewell -- прощаюсь
+> Abschied --  farewell -- прощаюсь
 
 ### Hallo sagen, tschüss - Saying hello, bye
 
-- auf wiederschauen /Uf Wiederluege mitenand (zusammen)
+- auf wiederschauen /auf Wiederluege mitenand (zusammen)
 - Servus
 - Hallo
 - Guten Abend
