@@ -15,5 +15,6 @@ Formal:
 
 > Mir geht ist ...
 
-- Alles gut?
-- 
+- Alles gut? / Everything good?
+- Alles okay? / Everything ok?
+- Was geht ab? / What's up?

@@ -3,7 +3,22 @@
 Related:
 - [01 Sätze - phrases](01%20Sätze%20-%20phrases.md)
 
+# Artikel / articles
+
+#derDieDas
+
+| Artikel / article | Geschlecht / gender |
+|-------------------|---------------------|
+| der (männlich)    | masculine           |
+| die (feminin)     | feminine            |
+| das (neutral)     | neutral             |
+
+> Note: 
+> English does not have such articles, in English language you can only find (the - )
+> Each table with nouns (Substantive) will start with der die das columns (for easy of use)
+
 # Personalpronomen - personal pronouns
+
 ich (I)
 du (you)
 er (he) / sie (she) /es (it)
