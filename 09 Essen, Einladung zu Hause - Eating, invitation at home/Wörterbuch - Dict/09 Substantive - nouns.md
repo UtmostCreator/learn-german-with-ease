@@ -1,5 +1,5 @@
 # 🍲 vegetables and fruits | Gemüse und Früchte
-
+# linkse nmo
 ## Essenszeit - meal time
 
 | Ge                          | Ru       | En                  |
@@ -44,7 +44,7 @@
 | 🐡Fisch(e) / fish         |                                    | Grillfleisch(e) / barbecue meat  |
 |                           |                                    | Schnitzel / cutlet / schnitzel   |
 |                           |                                    |                                  |
-
+[link](#)
 ### 🍎Obst - fruit(s)
 | 🔵der                       | 🔴die                         | 🟢das                |
 |-----------------------------|-------------------------------|----------------------|
@@ -89,8 +89,9 @@
 | Weizenbrei / wheat porridge        |                              |                                   |
 |                                    |                              |                                   |
 
-### 💧Getränk(e) - beverages 
 
+
+### 💧Getränk(e) - beverages 
 | 🔵der                                       | 🔴die                      | 🟢das                                            |
 |---------------------------------------------|----------------------------|--------------------------------------------------|
 | 🍵Tee(s) / tea                              | 🍋🧃Limonade(n) / lemonade | 🥤💧Mineralwasser(-/wa:sser)                     |
@@ -108,23 +109,21 @@
 |                                             |                            |                                                  |
 
 ### 🍫Süßigkeiten - Sweets
+| 🔵der                            | 🔴die                                                              | 🟢das                       |
+|----------------------------------|--------------------------------------------------------------------|-----------------------------|
+| Zucker(-) / sugar                | 🍫Schokolade(n) / chocolate                                        | 🍬Bonbon(s) / candy         |
+| 🍯🐝Honig(e) / honey             | 🍫Marmelade(n) / jam                                               | Schlagobers / whipped cream |
+| 🎂🧁🍰Kuchen(-)/ cake            | 🍰Tort(en) / cake / torte                                          | 🍦Eis / ice cream           |
+| Käsekuchen                       | Sahne(-) / cream                                                   |                             |
+| 🍩Krapfen(-)/Berliner(-) / donut | [Praline](../../Base/dict/Praline.md)(n) / praline (French sweet)  |                             |
+| strudel / strudel                |                                                                    |                             |
+| Apfelstrudel(-) / apple strudel  |                                                                    |                             |
+| 🍭Lutscher(-) / lolly / lollipop |                                                                    |                             |
+| Rahm(-) / cream                  |                                                                    |                             |
+|                                  |                                                                    |                             |
 
-| 🔵der                            | 🔴die                                                              | 🟢das                        |
-|----------------------------------|--------------------------------------------------------------------|------------------------------|
-| Zucker(-) / sugar                | 🍫Schokolade(n) / chocolate                                        | 🍬Bonbon(s) / candy          |
-|                                  | 🍫Marmelade(n) / jam                                               | Schlagobers / whipped cream  |
-| 🎂🧁🍰Kuchen(-)/ cake            | 🍰Tort(en) / cake / torte                                          |                              |
-| Käsekuchen                       | Sahne(-) / cream                                                   |                              |
-| 🍯🐝Honig(e) / honey             | [Praline](../../Base/dict/Praline.md)(n) / praline (French sweet)  |                              |
-| strudel / strudel                |                                                                    |                              |
-| Apfelstrudel(-) / apple strudel  |                                                                    |                              |
-| 🍩Krapfen(-)/Berliner(-) / donut |                                                                    |                              |
-| Rahm(-) / cream                  |                                                                    |                              |
-| 🍭Lutscher(-) / lolly / lollipop |                                                                    |                              |
-|                                  |                                                                    |                              |
-
-🍦Eis / ice cream
-
+# eeee eeee
+### gemischt mixed
 | 🔵der                      | 🔴die                       | 🟢das                       |
 |----------------------------|-----------------------------|-----------------------------|
 | 🥗Salat(e) / salad         | 🥣Suppe(n) / soup           | Müsli(s) / Muesli           |
