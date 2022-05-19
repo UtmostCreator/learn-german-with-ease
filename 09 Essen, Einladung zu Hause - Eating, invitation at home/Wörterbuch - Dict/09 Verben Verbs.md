@@ -2,20 +2,20 @@
 
 ## general-purpose
 
-| Ge         | En                   | Ru  |
-|------------|----------------------|-----|
-| sammeln    | collect/gather       |     |
-| überlegen  | consider/think about |     |
-|            |                      |     |
-|            |                      |     |
-|            |                      |     |
-|            |                      |     |
-|            |                      |     |
-|            |                      |     |
-|            |                      |     |
-|            |                      |     |
-|            |                      |     |
-|            |                      |     |
+| Ge         | En                   | Ru                        |
+|------------|----------------------|---------------------------|
+| sammeln    | collect/gather       | собирать / собирать       |
+| überlegen  | consider/think about | рассматривать / думать о  |
+| empfehlen  | recommend            | рекомендовать             |
+|            |                      |                           |
+|            |                      |                           |
+|            |                      |                           |
+|            |                      |                           |
+|            |                      |                           |
+|            |                      |                           |
+|            |                      |                           |
+|            |                      |                           |
+|            |                      |                           |
 
 zeichnen / draw
 tauschen / barter, exchange, swap, change
