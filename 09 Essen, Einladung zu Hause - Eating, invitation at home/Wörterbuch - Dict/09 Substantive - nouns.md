@@ -42,7 +42,7 @@
 | Rahm(-) / cream                           | Sahne(-) / cream                  | Schlagobers / whipped cream     |
 | strudel / strudel                         | 🍐Birne(n) / pear                 | Grillfleisch(e) / barbecue meat |
 | Apfelstrudel(-) / apple strudel           | 🥒Gurke(n) / cucumber             |                                 |
-| 🍩Krapfen(-) / donut                      | 🍌Banane(n) / banana(s)           |                                 |
+| 🍩Krapfen(-)Berliner(-) / donut           | 🍌Banane(n) / banana(s)           |                                 |
 | 🍮Käsekuchen(-) / cheesecake              | [Praline](../../Base/dict/Praline.md)(n) / praline (French sweet)      |                                 |
 | 🍭Lutscher(-) / lolly / lollipop          | 🥕Möhre(n) / carrot               |                                 |
 | 🧃Saft(Säfte) / Juice                     | 🧅Zwiebel(n) / onion              |                                 |
