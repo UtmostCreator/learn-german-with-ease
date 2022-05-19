@@ -1,5 +1,14 @@
+20/05/2022-00:49:57
+
+Topic: #food
+
+🏷️Tags: #nouns, #Substantive, #derDieDas, #articles, #Wörterbuch
+
+🧭Pagination:
+- ⬅️[[../../08 Freizeit, Verabredungen - free time, appointments/Wörterbuch - Dict/08 Substantive - nouns]]
+- ➡️[[]]
+
 # 🍲 vegetables and fruits | Gemüse und Früchte
-# linkse nmo
 ## Essenszeit - meal time
 
 | Ge                          | Ru       | En                  |
@@ -8,6 +17,9 @@
 | Mittagessen                 | обед     | lunch 12:00         |
 | der Snack(s)/das Dessert(s) | перекус  | snack 16:00         |
 | Abendessen                  | ужин     | dinner/supper 18:00 |
+
+Related:
+- [[../../08 Freizeit, Verabredungen - free time, appointments/Wörterbuch - Dict/08 Substantive - nouns#time]]
 
 ## Produktkategorien - product categories
 
