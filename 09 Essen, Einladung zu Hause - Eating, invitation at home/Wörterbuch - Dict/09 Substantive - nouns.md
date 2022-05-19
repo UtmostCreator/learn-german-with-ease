@@ -22,37 +22,41 @@
 
 ## beliebteste Essen - most popular food
 
-| 🔵der                                     | 🔴die                                 | 🟢das                          |
-|-------------------------------------------|-------------------------------------|--------------------------------|
-| 🍵Tee(s) / tea                            | 🍊Orange(n) / orange                         | 🥬🥑Gemüse(-) / vegetables     |
-| ☕Kaffee(s) / coffee                       | 🥛Milch(e/en) / milk                      | 🍑🍊Obst(-) / fruit            |
-| 🍊🧃Orangensaft(a:e) / orange juice       | 🍫Schokolade(n) / chocolate                     | 🍬Bonbon(s) / candy            |
-| 🍏🧃Apfelsaft(A:e) / apple juice          | 🍫Marmelade(n) / jam                | 🥚Ei(Eier) / egg               |
-| 🎂🧁🍰Kuchen(-) / cake                    | 🥔Kartoffel(n)                      | Müsli(s) / Muesli              |
-| 🍯🐝Honig(e) / honey                      | 🥣Suppe(n)                          | 🍦Eis / ice cream              |
-| 🍨 Joghurt(s) / yogurt                    | 🍅Tomate(n)                         | 🥤💧Mineralwasser(-/wa:sser)   |
-| 🍏Apfel(Äpfel)                            | 🍜 Nudel(n) / pasta/noodle          | 🥩Fleisch(e) / meat            |
-| 🥗Salat(e) / salad                        | 🍊Apfelsine(n) / orange             | 🍻Bier(er) / Beer              |
-| 🧀Käse(-) / cheese                        | 🐓Huhn(Hühner) / chicken/fowl/hen   | Brötchen(-) / bun              |
-| 🍚Reis(-) / rice                          | Wurst(Würste) / sausage             | 🍞Brot(e)                      |
-| 🥩Schinken(-) / ham                       | 🧈Butter(-)                         | 🍪Plätzchen / cookie / biscuit |
-| Braten / roast meat                       | 🍋🧃Limonade(n) / lemonade          |                                |
-| 🐡Fisch(e) / fish                         | 🥝🥭Frucht(Früchte) / fruits        |                                |
-| 🍷Wein(e)                                 | 🍌Banane(n)                         |                                |
-| Alkohol(e)                                | [Praline](../../Base/dictionary%20-%20definitions/Praline.md)(n) / praline (French sweet) |                                |
-| Wodka(s)                                  | 🥕Möhre(n) / carrot                 |                                |
-| Cognac / cognac                           | 🧅Zwiebel(n) / onion                |                                |
-| alkoholarme Getränke / low alcohol drinks | 🍇Weintraube(n) / grapes            |                                |
-| Saft(Säfte) / Juice                       | 🥨Brezel(n) / pretzel               |                                |
-| Mandarin(e) / mandarin                    | Cola(s) / cola                      |                                |
-| Kakao(s) / cocoa                          | 🍋Zitrone(n) / lemon                |                                |
-| Zucker(-) / sugar                         | 🍐Birne(n) / pear                   |                                |
-| Salat / lettuce(salad)                    | 🥒Gurke(n) / cucumber               |                                |
-| 🍩Krapfen / donut                         |                                     |                                |
-| 🍮Käsekuchen / cheesecake                 |                                     |                                |
-| 🍭Lutscher / lolly / lollipop             |                                     |                                |
-|                                           |                                     |                                |
-|                                           |                                     |                                |
+| 🔵der                                     | 🔴die                              | 🟢das                           |
+|-------------------------------------------|------------------------------------|---------------------------------|
+| 🍵Tee(s) / tea                            | 🍊Orange(n) / orange               | 🥬🥑Gemüse(-) / vegetables      |
+| ☕Kaffee(s) / coffee                       | 🥛Milch(e/en) / milk               | 🍑🍊Obst(-) / fruit             |
+| 🍊🧃Orangensaft(a:e) / orange juice       | 🍫Schokolade(n) / chocolate        | 🍬Bonbon(s) / candy             |
+| 🍏🧃Apfelsaft(A:e) / apple juice          | 🍫Marmelade(n) / jam               | 🥚Ei(Eier) / egg                |
+| 🎂🧁🍰Kuchen(-)/ cake                     | 🍰Tort(en) / cake / torte          |                                 |
+|                                           |🥔Kartoffel(n) / potato             | Müsli(s) / Muesli               |
+| 🍯🐝Honig(e) / honey                      | 🥣Suppe(n) / soup                  | 🍦Eis / ice cream               |
+| 🍨 Joghurt(s) / yogurt                    | 🍅Tomate(n) / tomato               | 🥤💧Mineralwasser(-/wa:sser)    |
+| 🍏Apfel(Äpfel)                            | 🍜 Nudel(n) / pasta/noodle         | 🥩Fleisch(e) / meat             |
+| 🥗Salat(e) / salad                        | 🍊Apfelsine(n) / orange            | 🍻Bier(er) / Beer               |
+| 🧀Käse(-) / cheese                        | 🐓Huhn(Hühner) / chicken/fowl/hen  | Brötchen(-) / bun               |
+| 🍚Reis(-) / rice                          | Wurst(Würste) / sausage            | 🍞Brot(e) / bread               |
+| 🥩Schinken(-) / ham                       | 🧈Butter(-) / butter               | 🍪Plätzchen / cookie / biscuit  |
+| Braten(-) / roast meat                    | 🍋🧃Limonade(n) / lemonade         | Radieschen(-) / radishes        |
+| 🐡Fisch(e) / fish                         | 🥝🥭Frucht(Früchte) / fruits       |                                 |
+| Rahm(-) / cream                           | Sahne(-) / cream                   | Schlagobers / whipped cream     |
+| strudel / strudel                         |                                    | Grillfleisch(e) / barbecue meat |
+| Apfelstrudel(-) / apple strudel           |                                    | Stück(er) / piece / part        |
+| 🍷Wein(e) / wine                          | 🍌Banane(n) / banana(s)                |                                 |
+| Alkohol(e) /alcohol                       | [Praline](../../Base/dictionary%20-%20definitions/Praline.md)(n) / praline (French sweet) |                                 |
+| Wodka(s) / vodka                          | 🥕Möhre(n) / carrot                |                                 |
+| Cognac / cognac                           | 🧅Zwiebel(n) / onion               |                                 |
+| alkoholarme Getränke / low alcohol drinks | 🍇Weintraube(n) / grapes           |                                 |
+| Saft(Säfte) / Juice                       | 🥨Brezel(n) / pretzel              |                                 |
+| Mandarin(e) / mandarin                    | 🥤Cola(s) / cola                   |                                 |
+| Kakao(s) / cocoa                          | 🍋Zitrone(n) / lemon               |                                 |
+| Zucker(-) / sugar                         | 🍐Birne(n) / pear                  |                                 |
+| Salat(e) / lettuce(salad)                 | 🥒Gurke(n) / cucumber              |                                 |
+| 🍩Krapfen(-) / donut                      |                                    |                                 |
+| 🍮Käsekuchen(-) / cheesecake              |                                    |                                 |
+| 🍭Lutscher(-) / lolly / lollipop          |                                    |                                 |
+|                                           |                                    |                                 |
+|                                           |                                    |                                 |
 	
 # mixed fruits and vegetables
 
@@ -77,7 +81,7 @@
 | Papaya(s)                 | папайя           | papaya         |
 | Pflaume(n)                | слива            | plum           |
 | Quitte(n)                 | айва             | quince         |
-| Wassermelone(n)           | арбуз            | watermelon     |
+| 🍉Wassermelone(n)         | арбуз            | watermelon     |
 | 🥥Kokosnuss(Kokosnüsse)   | кокос            | coconut        |
 | 🍍Ananas(se)              | ананас           | pineapple      |
 | 🥑Avocado(s)              | авокадо          | avocado        |
@@ -93,34 +97,30 @@
 | 🍄Pilz(e)             | гриб             | mushroom       |
 | 🥗Grüner Salat(e)     | латук            | lettuce        |
 | 🍑Pfirsich(e)         | персик           | peach          |
-| Zucchino(Zucchini)    | кабачок          | courgette      |
-
-
-## Das
-| Ge              | Ru               | En             |
-|-----------------|------------------|----------------|
-| Radieschen(-)   | редис            | radishes       |
+| 🍆Zucchino(Zucchini)  | кабачок          | courgette      |
 
 ## Andere Worte / other words
 
 
-| Ge                  | En              |
-|---------------------|-----------------|
-| die Additionsregeln | addition rules  |
-|                     |                 |
+| Ge                     | En              |
+|------------------------|-----------------|
+| 🚷die Additionsregeln  | addition rules  |
+|                        |                 |
 
 ## 
 
-| 🔵der                               | 🔴die                                      | 🟢das                     |
-|-------------------------------------|--------------------------------------------|---------------------------|
-| Besuch(e)/visit                     | Tischlampe/table lamp                      | Käsebrötchen/cheese roll  |
-| Terminkalender/dairy/Terminkalender | speisekarte(n)/Menü(s)                     | Hauptgericht(e)/main dish |
-| Bürostuhl/office chair              | Vorspeisen(n)/appetizer/закуска            | Dessert(s)/dessert        |
-| Obstsalat(e)/fruit salat            | Öffnungszeit(en)/opening hours/часы работы | Thema(en)/theme/topic     |
-| Knödel(-)/dumpling(s)/пельмени      | Sahne(-)/cream                             | Stück(er)/piece/part      |
-| strudel/strudel                     |                                            |                           |
-| Apfelstrudel(-)/apple strudel       |                                            |                           |
-|                                     |                                            |                           |
+| 🔵der                                   | 🔴die                                          | 🟢das                           |
+|-----------------------------------------|------------------------------------------------|---------------------------------|
+| Besuch(e) / visit                       | Tischlampe / table lamp                        | Käsebrötchen / cheese roll      |
+| Terminkalender / dairy / Terminkalender | speisekarte(n) / Menü(s)                       | Hauptgericht(e) / main dish     |
+| Bürostuhl / office chair                | Vorspeisen(n) / appetizer / закуска            | Dessert(s) / dessert            |
+| Obstsalat(e) / fruit salat              | Öffnungszeit(en) / opening hours / часы работы | Thema(en) / theme / topic       |
+| Gurkensalat(e) / cucumber salat         |                                                |                                 |
+| zwiebelbraten / fried onions            |                                                |                                 |
+| Knödel(-) / dumpling(s) / пельмени      |                                                |                                 |
+| Durst(-) / thirst                       |                                                |                                 |
+| Hunger(-) / hunger                      |                                                |                                 |
+| Eiskasten(-) / ice box                  |                                                |                                 |
 
 
 
@@ -134,63 +134,4 @@
 # References
 
 - [food](https://www.aderalingua.com/learn-german/food)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -6,10 +6,10 @@
 - ⬅️[[]]
 - ➡️[[]]
 
-| Deutsch    | English   | D-Antonym  | E-Antonym   |
-|------------|-----------|------------|-------------|
-| ebenfalls  | likewise  | umgekehrt  | conversely  |
-|            |           |            |             |
+| Deutsch                 | English           | D-Antonym  | E-Antonym   |
+|-------------------------|-------------------|------------|-------------|
+| ebenfalls/Gleichfalls!  | likewise/the same | umgekehrt  | conversely  |
+|                         |                   |            |             |
 
 
 
