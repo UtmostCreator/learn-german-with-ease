@@ -59,3 +59,15 @@ Ok, good night then and thank you for visiting.
 
 ## Frage - Antwort / question - answer
 
+> Guten Appetit!
+> Danke, gleichfalls.
+
+> Mögen Sie Fisch?
+> Nein, nicht so gern.
+
+> Möchten Sie noch etwas Kuchen?
+> Ja, gern.
+
+> Wie schmeckt die Suppe?
+> Sehr gut, danke.
+
