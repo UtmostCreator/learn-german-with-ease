@@ -11,64 +11,145 @@
 
 ## Produktkategorien - product categories
 
-| Ge                | En              |
-|-------------------|-----------------|
-| 🥛Milchprodukt(e) | dairy products  |
-| 🍎Obst            | fruit(s)        |
-| 🍅Gemüse          | vegetables      |
-| 🍞Backware(n)     | bakery products |
-| 💧Getränk(e)      | beverages       |
-| 🍫Süßigkeiten     | Sweets          |
+| Ge                | En                         |
+|-------------------|----------------------------|
+| 🥛Milchprodukt(e) | dairy products             |
+| 🍎Obst            | fruit(s)                   |
+| 🍅Gemüse          | vegetables                 |
+| 🍞Backware(n)     | bakery products            |
+| 💧Getränk(e)      | beverages                  |
+| 🍫Süßigkeiten     | sweets                     |
+| 🍽Haferbrei       | porridge                   |
+| Getreide          | cereals / groats / крупы   |
+
+> cereals - A type of grass (such as wheat, rice or oats) cultivated for its edible grains.
+
+> groats - Dried grain, as oats or wheat, hulled and broken or crushed; in high milling, cracked fragments of wheat larger than grits.
 
 ## beliebteste Essen - most popular food
 
-| 🔵der                                     | 🔴die                                                             | 🟢das                                           |
-|-------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------|
-| 🍵Tee(s) / tea                            | 🍊Orange(n) / orange                                              | 🥬🥑Gemüse(-) / vegetables                      |
-| ☕Kaffee(s) / coffee                       | 🥛Milch(e/en) / milk                                              | 🍑🍊Obst(-) / fruit                             |
-| ☕Cappuccino / cappuccino                  |                                                                   |                                                 |
-| 🍊🧃Orangensaft(a:e) / orange juice       | 🍫Schokolade(n) / chocolate                                       | 🍬Bonbon(s) / candy                             |
-| 🍏🧃Apfelsaft(A:e) / apple juice          | 🍫Marmelade(n) / jam                                              | 🥚Ei(Eier) / egg                                |
-| 🎂🧁🍰Kuchen(-)/ cake                     | 🍰Tort(en) / cake / torte                                         |                                                 |
-|                                           | 🥔Kartoffel(n) / potato                                           | Müsli(s) / Muesli                               |
-| 🍯🐝Honig(e) / honey                      | 🥣Suppe(n) / soup                                                 | 🍦Eis / ice cream                               |
-| 🍨 Joghurt(s) / yogurt                    | 🍅Tomate(n) / tomato                                              | 🥤💧Mineralwasser(-/wa:sser)                    |
-| 🍏Apfel(Äpfel)                            | 🍜 Nudel(n) / pasta/noodle                                        | 🥩Fleisch(e) / meat                             |
-| 🥗Salat(e) / salad                        | 🍊Apfelsine(n) / orange                                           | 🍻Bier(er) / Beer                               |
-| 🧀Käse(-) / cheese                        | 🐓Huhn(Hühner) / chicken/fowl/hen                                 | Brötchen(-) / bun                               |
-| 🍚Reis(-) / rice                          | Wurst(Würste) / sausage                                           | 🍞Brot(e) / bread                               |
-| 🥩Schinken(-) / ham                       | 🧈Butter(-) / butter                                              | 🍪Plätzchen / cookie / biscuit                  |
-| Braten(-) / roast meat                    | 🍋🧃Limonade(n) / lemonade                                        | Radieschen(-) / radishes                        |
-| 🐡Fisch(e) / fish                         | 🥝🥭Frucht(Früchte) / fruits                                      | 🧩Stück(er) / piece / part                      |
-| Rahm(-) / cream                           | Sahne(-) / cream                                                  | Schlagobers / whipped cream                     |
-| strudel / strudel                         | 🍐Birne(n) / pear                                                 | Grillfleisch(e) / barbecue meat                 |
-| Apfelstrudel(-) / apple strudel           | 🥒Gurke(n) / cucumber                                             | stilles wasser / still water                    |
-| 🍩Krapfen(-)/Berliner(-) / donut          | 🍌Banane(n) / banana(s)                                           | mineralwasser mit kohlensäure / sparkling water |
-| 🍮Käsekuchen(-) / cheesecake              | [Praline](../../Base/dict/Praline.md)(n) / praline (French sweet) | Schnitzel / cutlet / schnitzel                  |
-| 🍭Lutscher(-) / lolly / lollipop          | 🥕Möhre(n) / carrot                                               | Sonnenblumebrot(e) / sunflower                  |
-| 🧃Saft(Säfte) / Juice                     | 🧅Zwiebel(n) / onion                                              | Hörnchen(-) / croissant                         |
-| 🍊Mandarin(e) / mandarin                  | 🍇Weintraube(n) / grapes                                          | Baguette(s) / baguette                          |
-| ☕️Kakao(s) / cocoa                        | 🥨Brezel(n) / pretzel                                             |                                                 |
-| Zucker(-) / sugar                         | 🥤Cola(s) / cola                                                  |                                                 |
-| Salat(e) / lettuce(salad)                 | 🍋Zitrone(n) / lemon                                              |                                                 |
-| 🍷Wein(e) / wine                          | Apfelschorle(n)                                                   |                                                 |
-| Alkohol(e) /alcohol                       | Schnecke(n) / Snail                                               |                                                 |
-| Wodka(s) / vodka                          |                                                                   |                                                 |
-| Cognac / cognac                           |                                                                   |                                                 |
-| alkoholarme Getränke / low alcohol drinks |                                                                   |                                                 |
-| Hefezopf(Hefezöpfe) / Hefezopf            |                                                                   |                                                 |
-|                                           |                                                                   |                                                 |
+### 🥛Milchprodukt(e) - dairy products
+| 🔵der                  | 🔴die                 | 🟢das |
+|------------------------|-----------------------|-------|
+| 🍨 Joghurt(s) / yogurt | 🥛Milch(e/en) / milk  |       |
+| 🧀Käse(-) / cheese     |                       |       |
+|                        |                       |       |
+|                        |                       |       |
+|                        |                       |       |
+|                        |                       |       |
+|                        |                       |       |
+|                        |                       |       |
+|                        |                       |       |
+|                        |                       |       |
+
+### 🍎Obst - fruit(s)
+
+| 🔵der                       | 🔴die | 🟢das |
+|-----------------------------|-------|-------|
+| 🍏Apfel(Äpfel)              |       |       |
+| 🍊Mandarin(e) / mandarin    |       |       |
+|                             |       |       |
+|                             |       |       |
+|                             |       |       |
+|                             |       |       |
+
+### 🍅Gemüse - vegetables
+
+| 🔵der | 🔴die | 🟢das |
+|-------|-------|-------|
+|       |       |       |
+
+### 🍞Backware(n) - bakery products
+
+| 🔵der | 🔴die | 🟢das |
+|-------|-------|-------|
+|       |       |       |
+
+### 🍽Haferbrei - porridge
+| 🔵der             | 🔴die | 🟢das |
+|-------------------|-------|-------|
+| 🍚Reis(-) / rice  |       |       |
+
+### 💧Getränk(e) - beverages 
+
+| 🔵der                                       | 🔴die                       | 🟢das |
+|---------------------------------------------|-----------------------------|-------|
+| 🍵Tee(s) / tea                              | 🍋🧃Limonade(n) / lemonade  |       |
+| ☕Kakao(s) / cocoa                           |                             |       |
+| ☕Kaffee(s) / coffee                         |                             |       |
+| ☕Cappuccino / cappuccino                    |                             |       |
+| 🧃Saft(Säfte) / Juice                       |                             |       |
+| 🍊🧃Orangensaft(a:e) / orange juice         |                             |       |
+| 🍏🧃Apfelsaft(A:e) / apple juice            |                             |       |
+|                                             |                             |       |
+|                                             |                             |       |
+| 🍷Wein(e) / wine                            |                             |       |
+| Alkohol(e) /alcohol                         |                             |       |
+| Wodka(s) / vodka                            |                             |       |
+| Cognac / cognac                             |                             |       |
+| alkoholarme Getränke / low alcohol drinks   |                             |       |
+|                                             |                             |       |
+|                                             |                             |       |
+|                                             |                             |       |
+|                                             |                             |       |
+
+### 🍫Süßigkeiten - Sweets
+
+| 🔵der                            | 🔴die                         | 🟢das |
+|----------------------------------|-------------------------------|-------|
+| Zucker(-) / sugar                | 🍫Schokolade(n) / chocolate   |       |
+|                                  | 🍫Marmelade(n) / jam          |       |
+| 🎂🧁🍰Kuchen(-)/ cake            | 🍰Tort(en) / cake / torte     |       |
+| Käsekuchen                       |                               |       |
+| 🍯🐝Honig(e) / honey             |                               |       |
+| strudel / strudel                |                               |       |
+| Apfelstrudel(-) / apple strudel  |                               |       |
+| 🍩Krapfen(-)/Berliner(-) / donut |                               |       |
+| Rahm(-) / cream                  |                               |       |
+| 🍭Lutscher(-) / lolly / lollipop |                               |       |
+|                                  |                               |       |
+|                                  |                               |       |
+|                                  |                               |       |
 
 
+| 🔵der                            | 🔴die                                                             | 🟢das                                             |
+|----------------------------------|-------------------------------------------------------------------|---------------------------------------------------|
+|                                  | 🍊Orange(n) / orange                                              | 🥬🥑Gemüse(-) / vegetables                        |
+|                                  |                                                                   | 🍑🍊Obst(-) / fruit                               |
+|                                  |                                                                   |                                                   |
+|                                  |                                                                   | 🍬Bonbon(s) / candy                               |
+|                                  |                                                                   | 🥚Ei(Eier) / egg                                  |
+|                                  |                                                                   |                                                   |
+| 🥗Salat(e) / salad               | 🥔Kartoffel(n) / potato                                           | Müsli(s) / Muesli                                 |
+| Salat(e) / lettuce(salad)        | 🥣Suppe(n) / soup                                                 | 🍦Eis / ice cream                                 |
+|                                  | 🍅Tomate(n) / tomato                                              | 🥤💧Mineralwasser(-/wa:sser)                      |
+|                                  | 🍜 Nudel(n) / pasta/noodle                                        | 🥩Fleisch(e) / meat                               |
+|                                  | 🍊Apfelsine(n) / orange                                           | 🍻Bier(er) / Beer                                 |
+|                                  | 🐓Huhn(Hühner) / chicken/fowl/hen                                 | Brötchen(-) / bun                                 |
+|                  | Wurst(Würste) / sausage                                           | 🍞Brot(e) / bread                                 |
+| 🥩Schinken(-) / ham              | 🧈Butter(-) / butter                                              | 🍪Plätzchen / cookie / biscuit                    |
+| Braten(-) / roast meat           |                                                                   | Radieschen(-) / radishes                          |
+| 🐡Fisch(e) / fish                | 🥝🥭Frucht(Früchte) / fruits                                      | 🧩Stück(er) / piece / part                        |
+|                                  | Sahne(-) / cream                                                  | Schlagobers / whipped cream                       |
+|                                  | 🍐Birne(n) / pear                                                 | Grillfleisch(e) / barbecue meat                   |
+|                                  | 🥒Gurke(n) / cucumber                                             | stilles wasser / still water                      |
+|                                  | 🍌Banane(n) / banana(s)                                           | mineralwasser mit kohlensäure / sparkling water   |
+|                                  | [Praline](../../Base/dict/Praline.md)(n) / praline (French sweet) | Schnitzel / cutlet / schnitzel                    |
+|                                  | 🥕Möhre(n) / carrot                                               | 🥖Sonnenblumebrot(e) / bread with sunflower seeds |
+|                                  | 🧅Zwiebel(n) / onion                                              | 🥖Hörnchen(-) / croissant                         |
+|                                  | 🍇Weintraube(n) / grapes                                          | 🥖Baguette(s) / baguette                          |
+|                                  | 🥨Brezel(n) / pretzel                                             | Sonnenblume / sunflower                           |
+|                                  | 🥤Cola(s) / cola                                                  |                                                   |
+|                                  | 🍋Zitrone(n) / lemon                                              |                                                   |
+|                                  | Apfelschorle(n)                                                   |                                                   |
+|                                  | 🥖Schnecke(n) / Snail                                             |                                                   |
+|                                  |                                                                   |                                                   |
+|                                  |                                                                   |                                                   |
+|                                  |                                                                   |                                                   |
+| 🥖Hefezopf(Hefezöpfe) / Hefezopf |                                                                   |                                                   |
+| Christstollen / fruit loaf       |                                                                   |                                                   |
 
-
-
-
-
-
-
-
-
+![[../../Files/Pasted image 20220519223125.png]]
 
 # mixed fruits and vegetables
 
