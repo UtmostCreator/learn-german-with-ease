@@ -62,29 +62,30 @@
 
 
 ## Die
-| Ge                        | Ru               | En             |
-|---------------------------|------------------|----------------|
-| 🔵Blaubeere(n)            | черника          | blueberry      |
-| Himbeere(n)               | малина           | raspberry      |
-| 📏🥤🍓Erdbeere(n)         | клубника         | strawberry     |
-| Brombeere(n)              | ежевика          | blackberry     |
-| 🥕Karotte(e)              | морковь          | carrot         |
-| 🍆Aubergine(n)            | баклажан         | eggplant       |
-| Petersilie(n)             | петрушка         | parsley        |
-| grüne Bohne(n)            | зеленая фасоль   | green beans    |
-| Sellerie(n)               | сельдерей        | celery         |
-| schwarze Johannisbeere(n) | черная смородина | blackcurrant   |
-| Feige(n)                  | фиг              | fig            |
-| Limette(Limetten)         | лайм             | lime           |
-| 🥭Mango(Mango(nen)(s))    | манго            | mango          |
-| Nektarine(n)              | нектарин         | nectarine      |
-| Papaya(s)                 | папайя           | papaya         |
-| Pflaume(n)                | слива            | plum           |
-| Quitte(n)                 | айва             | quince         |
-| 🍉Wassermelone(n)         | арбуз            | watermelon     |
-| 🥥Kokosnuss(Kokosnüsse)   | кокос            | coconut        |
-| 🍍Ananas(se)              | ананас           | pineapple      |
-| 🥑Avocado(s)              | авокадо          | avocado        |
+| Ge                        | Ru               | En           |
+|---------------------------|------------------|--------------|
+| Kirsch                    | berry            | cherry       |
+| 🔵Blaubeere(n)            | черника          | blueberry    |
+| Himbeere(n)               | малина           | raspberry    |
+| 📏🥤🍓Erdbeere(n)         | клубника         | strawberry   |
+| Brombeere(n)              | ежевика          | blackberry   |
+| 🥕Karotte(e)              | морковь          | carrot       |
+| 🍆Aubergine(n)            | баклажан         | eggplant     |
+| Petersilie(n)             | петрушка         | parsley      |
+| grüne Bohne(n)            | зеленая фасоль   | green beans  |
+| Sellerie(n)               | сельдерей        | celery       |
+| schwarze Johannisbeere(n) | черная смородина | blackcurrant |
+| Feige(n)                  | фиг              | fig          |
+| Limette(Limetten)         | лайм             | lime         |
+| 🥭Mango(Mango(nen)(s))    | манго            | mango        |
+| Nektarine(n)              | нектарин         | nectarine    |
+| Papaya(s)                 | папайя           | papaya       |
+| Pflaume(n)                | слива            | plum         |
+| Quitte(n)                 | айва             | quince       |
+| 🍉Wassermelone(n)         | арбуз            | watermelon   |
+| 🥥Kokosnuss(Kokosnüsse)   | кокос            | coconut      |
+| 🍍Ananas(se)              | ананас           | pineapple    |
+| 🥑Avocado(s)              | авокадо          | avocado      |
 
 ## Der
 | Ge                    | Ru               | En             |
@@ -128,6 +129,22 @@
 - überbacken -- запечь
 - sahne überbacken -- baked with cream(запеченный со сливками)
 - hausgemacht - self-made
+
+
+| 🔵der                                           | 🔴die                                              | 🟢das                                            |
+|-------------------------------------------------|----------------------------------------------------|--------------------------------------------------|
+| Wackelpudding(e/s) / jello / желе               | Grillplatte(n) / griddle / сковорода               | Schollenfilet(s) / plaice fillet / филе камбалы  |
+|                                                 | Scholle(n) / plaice / clob /slab                   | Filet(s) / fillet / netting                      |
+| Apfelkuchen(-) / Apple Cake / яблочный пирог    | Lasagne(n) / lasagne / лазанья                     | Putensteak(s) / turkey steak / стейк из индейки  |
+|                                                 | Pute(n) / turkey                                   | Steak(s) / steak                                 |
+| Thunfisch(e) / tuna / тунец                     | Forelle(n) / Trout / Форель                        | Schweineschnitzel / pork cutlet / Свиная котлета |
+| Obstsalat(e) / fruit salad / фруктовый салат    | Salzkartoffeln / Salt potatoes / Соленый картофель |                                                  |
+| Rinderbraten(-) / roast beef / жареная говядина | Gemüsesuppe(n) / vegetable soup / овощной суп      |                                                  |
+| Gulasch(e/s)                                    | Gulaschsuppe(n) / Gulash soup / Суп гуляш          |                                                  |
+|                                                 | Schlagsahne / whipped cream / взбитые сливки       |                                                  |
+| Pfannkuchen(-) / pancake / hot cake / блинчик   |                                                    |                                                  |
+|                                                 |                                                    |                                                  |
+
 
 
 
