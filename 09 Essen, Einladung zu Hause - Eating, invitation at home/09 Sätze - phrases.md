@@ -122,8 +122,27 @@ Ok, good night then and thank you for visiting.
 | Ja, gern!                                         | Yes, sure!                                   |
 | Magst du Fisch?                                   | Do you like fish?                            |
 | Nein, nicht so gern.                              | No, not so much.                             |
+| das schmeckt gut...                               | It tastes good                               |
+| das ist lecker                                    | It is tasty                                  |
+| Mir Schmecken                                     | I like it                                    |
+| ich mag es wirklich                               | I really like it                             |
 
+## Präpositionen / prepositions
 
-
-
-
+| Ge                             | En                                |
+|--------------------------------|-----------------------------------|
+| am Schulkiosk                  | at the school kiosk               |
+| beim Bäcker                    | at the bakery                     |
+| beim Metzger                   | at the butcher's                  |
+| beim Gemüsehändler             | at the greengrocer                |
+| im Bioladen                    | in the Bioshop                    |
+| im Fischladen                  | at the fish shop                  |
+| im Restaurant                  | in the restaurant                 |
+| im Supermarkt                  | in the supermarket                |
+| ~im Obstladen oder             | in the fruit shop                 |
+| ~auf dem Markt                 | in the market for sth             |
+| auf dem Wochenmarkt            | at the weekly market /fair        |
+| auf dem Bauernhof              | on the farm                       |
+| in der Metzgerei (Fleischerei) | in the butcher shop               |
+| in der Apotheke                | in the pharmacy                   |
+| in der Bäckerei                | in the bakery                     |

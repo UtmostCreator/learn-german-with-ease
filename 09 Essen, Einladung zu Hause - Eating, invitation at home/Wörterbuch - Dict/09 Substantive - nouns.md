@@ -141,8 +141,8 @@
 | Obstsalat(e) / fruit salad / фруктовый салат    | Salzkartoffeln / Salt potatoes / Соленый картофель |                                                  |
 | Rinderbraten(-) / roast beef / жареная говядина | Gemüsesuppe(n) / vegetable soup / овощной суп      |                                                  |
 | Gulasch(e/s)                                    | Gulaschsuppe(n) / Gulash soup / Суп гуляш          |                                                  |
-|                                                 | Schlagsahne / whipped cream / взбитые сливки       |                                                  |
-| Pfannkuchen(-) / pancake / hot cake / блинчик   |                                                    |                                                  |
+| Pfannkuchen(-) / pancake / hot cake / блинчик   | Schlagsahne / whipped cream / взбитые сливки       |                                                  |
+|                                                 |                                                    |                                                  |
 |                                                 |                                                    |                                                  |
 
 
