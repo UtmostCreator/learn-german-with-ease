@@ -44,7 +44,7 @@
 | 🐡Fisch(e) / fish         |                                    | Grillfleisch(e) / barbecue meat  |
 |                           |                                    | Schnitzel / cutlet / schnitzel   |
 |                           |                                    |                                  |
-[link](#)
+
 ### 🍎Obst - fruit(s)
 | 🔵der                       | 🔴die                         | 🟢das                |
 |-----------------------------|-------------------------------|----------------------|
@@ -89,8 +89,6 @@
 | Weizenbrei / wheat porridge        |                              |                                   |
 |                                    |                              |                                   |
 
-
-
 ### 💧Getränk(e) - beverages 
 | 🔵der                                       | 🔴die                      | 🟢das                                            |
 |---------------------------------------------|----------------------------|--------------------------------------------------|
@@ -122,7 +120,6 @@
 | Rahm(-) / cream                  |                                                                    |                             |
 |                                  |                                                                    |                             |
 
-# eeee eeee
 ### gemischt mixed
 | 🔵der                      | 🔴die                       | 🟢das                       |
 |----------------------------|-----------------------------|-----------------------------|
@@ -133,6 +130,19 @@
 ![[../../Files/Pasted image 20220519223125.png]]
 
 # mixed fruits and vegetables
+
+## Der
+| Ge                    | Ru               | En             |
+|-----------------------|------------------|----------------|
+| 🧄Knoblauch(-)        | чеснок           | garlic         |
+| 🌶Pfeffer(-)          | перец            | pepper         |
+| 🌶scharfer Pfeffer(-) | острый перец     | hot pepper     |
+| 🏵Blumenkohl(e)       | цветная капуста  | cauliflower    |
+| 🎃Kürbis(se)          | тыква            | pumpkin        |
+| 🍄Pilz(e)             | гриб             | mushroom       |
+| 🥗Grüner Salat(e)     | латук            | lettuce        |
+| 🍑Pfirsich(e)         | персик           | peach          |
+| 🍆Zucchino(Zucchini)  | кабачок          | courgette      |
 
 ## Die
 | Ge                        | Ru               | En           |
@@ -159,21 +169,7 @@
 | grüne Bohne(n)            | зеленая фасоль   | green beans  |
 | Sellerie(n)               | сельдерей        | celery       |
 
-## Der
-| Ge                    | Ru               | En             |
-|-----------------------|------------------|----------------|
-| 🧄Knoblauch(-)        | чеснок           | garlic         |
-| 🌶Pfeffer(-)          | перец            | pepper         |
-| 🌶scharfer Pfeffer(-) | острый перец     | hot pepper     |
-| 🏵Blumenkohl(e)       | цветная капуста  | cauliflower    |
-| 🎃Kürbis(se)          | тыква            | pumpkin        |
-| 🍄Pilz(e)             | гриб             | mushroom       |
-| 🥗Grüner Salat(e)     | латук            | lettuce        |
-| 🍑Pfirsich(e)         | персик           | peach          |
-| 🍆Zucchino(Zucchini)  | кабачок          | courgette      |
-
 ## Andere Worte / other words
-
 
 | Ge                     | En              |
 |------------------------|-----------------|

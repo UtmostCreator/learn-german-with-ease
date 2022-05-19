@@ -33,6 +33,18 @@
 - `Dictionary` - is a reference source in print or electronic form containing words usually alphabetically arranged along with information about their forms;
 - `Vocabulry` is a list of all the words that a person knows or uses.
 
+### time
+
+| Ge                     | En               |
+|------------------------|------------------|
+| am Morgen — 6-10       | in the morning   |
+| am Vormittag — 10-12   | in the forenoon  |  
+| am Mittag — 12:00      | at noon          |
+| am Nachmittag — 12-16  | in the afternoon |
+| am Abend — 16-22       | in the evening   |
+| in der Nacht — 22—6    | at night         |
+| um Mitternacht — 00:00 | at midnight      |
+
 ### Days of week  | Wochentage
 
 | De                | Ru  | En                   |

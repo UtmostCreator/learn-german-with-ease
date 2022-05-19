@@ -1,5 +1,9 @@
 # Suggesting Deny Accept
 
+- 😄annehmen -- 😄 accept
+- 😞Ablehnen -- 😞Reject
+- ❓zögernd reagieren -- ❓react hesitantly
+
 ## Etwas vorschlagen/Vorschläge machen | Suggest something/make suggestions
 
 | De                                            | En                                    |
@@ -51,7 +55,7 @@
 |------------------------------------------------|-------------------------------------|
 | Ich kann leider nicht kommen                   | Sorry, I can not come               |
 | Vielleicht                                     | Perhaps                             |
-| 🟢das weiß ich noch nicht                        | I do not know that yet              |
+| 🟢das weiß ich noch nicht                      | I do not know that yet              |
 | Na ja, ich weiß nicht                          | Well, I do not know                 |
 | Ich stimme zu einem gewissen Grad zu.          | I agree to a certain extent         |
 | Ich stimme dir / Ihnen nicht ganz / völlig zu. | I don't completely agree with you   |
@@ -92,7 +96,7 @@ ___
 | Es tut mir leid                             | I'm sorry                    |
 | Es tut mir wirktlich leid.                  | I'm really sorry             |
 | Es tut mir leid, das zu hören               | I'm sorry to hear that       |
-| 🟢das ist schade                              | It's a pity                  |
+| 🟢das ist schade                            | It's a pity                  |
 | Mit Bedauern...                             | It is with regret that...    |
 | Ich / Wir bedauere / bedauern sehr, dass... | I / We deeply regret that... |
 
@@ -109,21 +113,21 @@ ___
 
 ### Reaktion auf einen Vorschlag: annehmen | Reaction to a suggestion: accept
 
-| De                                                                          | En                                                                |
-|-----------------------------------------------------------------------------|-------------------------------------------------------------------|
-| 🔵der Vorschlag/ die Idee ist·super/ toll/ spitze/ echt gut. Einverstanden.   | The suggestion/ the idea is great/ top-notch/ really good. Agree. |
-| Den Vorschlag finde ich gut/ prima.                                         | I think the suggestion is good/ great.                            |
-| 🟢das ist eine tolle Idee/ein guter Vorschlag. Ja. Das können wir so machen.  | That's a great idea/a good suggestion. Yes. We can do that.       |
-| Du hast recht.                                                              | You are right.                                                    |
+| De                                                                           | En                                                                |
+|------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 🔵der Vorschlag/ die Idee ist·super/ toll/ spitze/ echt gut. Einverstanden.  | The suggestion/ the idea is great/ top-notch/ really good. Agree. |
+| Den Vorschlag finde ich gut/ prima.                                          | I think the suggestion is good/ great.                            |
+| 🟢das ist eine tolle Idee/ein guter Vorschlag. Ja. Das können wir so machen. | That's a great idea/a good suggestion. Yes. We can do that.       |
+| Du hast recht.                                                               | You are right.                                                    |
 
 ### Reaktion auf einen Vorschlag: skeptisch sein | Reaction to a suggestion: be skeptical
 
-| De                                                                | En                                                                          |
-|-------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Ich würde lieber…                                                 | I would rather...                                                           |
-| 🟢das ist prinzipiell nicht schlecht, aber…                         | It's not bad in principle, but....                                          |
-| Ich weiß nicht, ob das so eine gute Idee ist.                     | I don't know if it's such a good idea.                                      |
-| Wir können es ja versuchen, aber ich glaube, dass…                | We can try it, but I think that....                                         |
+| De                                                      | En                                      |
+|---------------------------------------------------------|-----------------------------------------|
+| Ich würde lieber…                                       | I would rather...                       |
+| 🟢das ist prinzipiell nicht schlecht, aber…             | It's not bad in principle, but....      |
+| Ich weiß nicht, ob das so eine gute Idee ist.           | I don't know if it's such a good idea.  |
+| Wir können es ja versuchen, aber ich glaube, dass…      | We can try it, but I think that....     |
 
 ### Reaktion auf einen Vorschlag: ablehnen | Reaction to a suggestion: reject
 
@@ -135,13 +139,13 @@ ___
 
 ### Nachfragen | Questions
 
-| De                                                                | En                                                                          |
-|-------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Was meinst du dazu?                                               | What do you think about it?                                                 |
-| Was hältst du davon?                                              | What do you think about it?                                                 |
-| Was hältst du von dem Vorschlag?                                  | What do you think of the proposal?                                          |
-| Wie findest du das?                                               | What do you think of it?                                                    |
-| Wie findest du den Vorschlag?                                     | What do you think of the proposal?                                          |
-| Findest du das in Ordnung?                                        | Do you think it is okay?                                                    |
-| Bist du damit einverstanden?                                      | Do you agree with it?                                                       |
-| Meinst du, das geht/ klappt/ funktioniert?                        | Do you think it works/ works/ works?                                        |
+| De                                            | En                                      |
+|-----------------------------------------------|-----------------------------------------|
+| Was meinst du dazu?                           | What do you think about it?             |
+| Was hältst du davon?                          | What do you think about it?             |
+| Was hältst du von dem Vorschlag?              | What do you think of the proposal?      |
+| Wie findest du das?                           | What do you think of it?                |
+| Wie findest du den Vorschlag?                 | What do you think of the proposal?      |
+| Findest du das in Ordnung?                    | Do you think it is okay?                |
+| Bist du damit einverstanden?                  | Do you agree with it?                   |
+| Meinst du, das geht/ klappt/ funktioniert?    | Do you think it works/ works/ works?    |
