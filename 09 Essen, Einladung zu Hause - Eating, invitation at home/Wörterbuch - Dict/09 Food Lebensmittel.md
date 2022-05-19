@@ -109,8 +109,12 @@
 | die Additionsregeln | addition rules  |
 |                     |                 |
 
+## 
 
-
+| 🔵der            | 🔴die | 🟢das |
+|------------------|-------|-------|
+| Besuch(e)/visit  |       |       |
+|                  |       |       |
 
 
 
