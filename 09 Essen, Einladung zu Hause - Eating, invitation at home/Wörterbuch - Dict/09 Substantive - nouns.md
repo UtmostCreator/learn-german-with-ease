@@ -137,7 +137,7 @@
 | 🔵der                                           | 🔴die                                              | 🟢das                                            |
 |-------------------------------------------------|----------------------------------------------------|--------------------------------------------------|
 | Wackelpudding(e/s) / jello / желе               | Grillplatte(n) / griddle / сковорода               | Schollenfilet(s) / plaice fillet / филе камбалы  |
-|                                                 | Scholle(n) / plaice / clob /slab                   | Filet(s) / fillet / netting                      |
+|                                                 | Scholle(n) / plaice / clob /slab / камбала                   | Filet(s) / fillet / netting                      |
 | Apfelkuchen(-) / Apple Cake / яблочный пирог    | Lasagne(n) / lasagne / лазанья                     | Putensteak(s) / turkey steak / стейк из индейки  |
 |                                                 | Pute(n) / turkey                                   | Steak(s) / steak                                 |
 | Thunfisch(e) / tuna / тунец                     | Forelle(n) / Trout / Форель                        | Schweineschnitzel / pork cutlet / Свиная котлета |
