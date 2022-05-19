@@ -10,7 +10,7 @@
 - We want pizza.
 
 - Wir möchten bitte zwei Brötchen.
-- We'd (We would) like two rolls, please.
+- We'd (We would) like two rolls/buns, please.
 
 ![[../Files/Pasted image 20220519121908.png]]
 

@@ -92,3 +92,38 @@ Ok, good night then and thank you for visiting.
 > Was isst du gern zum Ich Frühstück? (das Frühstück)
 > Ich frühstücke nur am Wochenende
 
+
+
+| Ge                                                              | En                                                               |
+|-----------------------------------------------------------------|------------------------------------------------------------------|
+| Guten Tag. Was möchten Sie?                                     | Good day. What do you wish?                                      |
+| Ein Stück Kuchen mit Sahne bitte                                | A piece of cake with cream, please                               |
+| Mama, können wir einen Obstsalat machen?                        | Mom, can we make a fruit salad?                                  |
+| Gute Idee! Wir brauchen Äpfel, Orangen und Zitronen             | Good idea! We need apples, oranges and lemons                    |
+| Ich esse gern Müsli zum Frühstück, und du?                      | I like to eat muesli for breakfast, and you?                     |
+| Ich esse immer Brot mit Wurst und Käse und manchmal auch ein Ei | I always eat bread with sausage and cheese and sometimes an egg  |
+| Hier ist der Braten mit Salat. Guten Appetit!                   | Here's the roast with salad. Enjoy your meal!                    |
+| Ich koche eine Suppe mit Kartoffeln und Tomaten                 | I'm making a soup with potatoes and tomatoes                     |
+| Möchten Sie etwas trinken?                                      | Would you like to drink something?                               |
+| Oh ja! Einen Tee bitte                                          | Oh yeah! A tea please.                                           |
+|                                                                 |                                                                  |
+|                                                                 |                                                                  |
+
+
+| Ge                                                | En                                           |
+|---------------------------------------------------|----------------------------------------------|
+| Möchten Sie ein Eis?                              | Would you like an ice cream?                 | 
+| Oh ja, bitte!                                     | Oh yes please!                               |
+| Guten Appetit!                                    | Enjoy your meal!                             |
+| Danke, ebenfalls!                                 | Thanks to you too!                           |
+| Hier ist die Suppe. Möchten Sie auch einen Salat? | Here's the soup. Would you like a salad too? |
+| Nein, danke!                                      | No thanks!                                   |
+| Frühstücken wir zusammen?                       | do we have breakfast together                |
+| Ja, gern!                                         | Yes, sure!                                   |
+| Magst du Fisch?                                   | Do you like fish?                            |
+| Nein, nicht so gern.                              | No, not so much.                             |
+
+
+
+
+

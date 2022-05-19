@@ -24,9 +24,9 @@
 
 | 🔵der                                     | 🔴die                                 | 🟢das                          |
 |-------------------------------------------|-------------------------------------|--------------------------------|
-| 🍵Tee(s) / tea                            | 🍊Orange(n)                         | 🥬🥑Gemüse(-) / vegetables     |
-| ☕Kaffee(s) / coffee                       | 🥛Milch(e/en)                       | 🍑🍊Obst(-) / fruit            |
-| 🍊🧃Orangensaft(a:e) / orange juice       | 🍫Schokolade(n)                     | 🍬Bonbon(s) / candy            |
+| 🍵Tee(s) / tea                            | 🍊Orange(n) / orange                         | 🥬🥑Gemüse(-) / vegetables     |
+| ☕Kaffee(s) / coffee                       | 🥛Milch(e/en) / milk                      | 🍑🍊Obst(-) / fruit            |
+| 🍊🧃Orangensaft(a:e) / orange juice       | 🍫Schokolade(n) / chocolate                     | 🍬Bonbon(s) / candy            |
 | 🍏🧃Apfelsaft(A:e) / apple juice          | 🍫Marmelade(n) / jam                | 🥚Ei(Eier) / egg               |
 | 🎂🧁🍰Kuchen(-) / cake                    | 🥔Kartoffel(n)                      | Müsli(s) / Muesli              |
 | 🍯🐝Honig(e) / honey                      | 🥣Suppe(n)                          | 🍦Eis / ice cream              |
@@ -111,15 +111,16 @@
 
 ## 
 
-| 🔵der                               | 🔴die                                       | 🟢das                     |
-|-------------------------------------|---------------------------------------------|---------------------------|
-| Besuch(e)/visit                     | Tischlampe/table lamp                       | Käsebrötchen/cheese roll  |
-| Terminkalender/dairy/Terminkalender | speisekarte(n)/Menü(s)                      | Hauptgericht(e)/main dish |
-| Bürostuhl/office chair              | Vorspeisen(n)/appetizer/закуска             | Dessert(s)/dessert        |
-| Obstsalat(e)/fruit salat            | Öffnungszeit(en)/opening hours/часы работы  | Thema(en)/theme/topic     |
-| Knödel(-)/dumpling(s)/пельмени      |                                             |                           |
-| strudel/strudel                     |                                             |                           |
-| Apfelstrudel(-)/apple strudel       |                                             |                           |
+| 🔵der                               | 🔴die                                      | 🟢das                     |
+|-------------------------------------|--------------------------------------------|---------------------------|
+| Besuch(e)/visit                     | Tischlampe/table lamp                      | Käsebrötchen/cheese roll  |
+| Terminkalender/dairy/Terminkalender | speisekarte(n)/Menü(s)                     | Hauptgericht(e)/main dish |
+| Bürostuhl/office chair              | Vorspeisen(n)/appetizer/закуска            | Dessert(s)/dessert        |
+| Obstsalat(e)/fruit salat            | Öffnungszeit(en)/opening hours/часы работы | Thema(en)/theme/topic     |
+| Knödel(-)/dumpling(s)/пельмени      | Sahne(-)/cream                             | Stück(er)/piece/part      |
+| strudel/strudel                     |                                            |                           |
+| Apfelstrudel(-)/apple strudel       |                                            |                           |
+|                                     |                                            |                           |
 
 
 
