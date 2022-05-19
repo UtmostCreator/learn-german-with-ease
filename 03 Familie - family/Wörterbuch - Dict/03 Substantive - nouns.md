@@ -27,7 +27,7 @@ Topic:
 | Großvater(Großväter)/grandfather | Großmutter(Großmütter)/grandmother      |                                     |
 | Papa(-)/grandfather              | Oma/grandmother                         |                                     |
 | Ehemann(Ehemänner)/husband       | Ehefrau(en)/wife(wives)                 |                                     |
-| Mann / man                       | Frau / women                            |                                     |
+| Mann / man[mæn](men[men])        | Frau / woman[ˈwʊmən](women[ˈwɪmɪn])     |                                     |
 | Enkel (Enkel)/grandson           | Enkelin (Enkelinnen)/granddaughters     |                                     |
 | Cousin/cousin/2юр. брат          | Cousine/cousin/2юр. сестра              |                                     |
 | Onkel(-)/uncle/дядя              | Tante/aunt                              |                                     |

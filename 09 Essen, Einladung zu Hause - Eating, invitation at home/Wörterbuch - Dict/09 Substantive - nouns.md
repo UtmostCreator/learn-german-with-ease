@@ -11,14 +11,14 @@
 
 ## Produktkategorien - product categories
 
-| Ge              | En              |
-|-----------------|-----------------|
-| 🥛Milchprodukte | dairy products  |
-| 🍎Obst          | fruit           |
-| 🍅Gemüse        | vegetables      |
-| 🍞Backwaren     | bakery products |
-| 💧Getränke      | beverages       |
-| 🍫Süßigkeiten   | Sweets          |
+| Ge                | En              |
+|-------------------|-----------------|
+| 🥛Milchprodukt(e) | dairy products  |
+| 🍎Obst            | fruit(s)        |
+| 🍅Gemüse          | vegetables      |
+| 🍞Backware(n)     | bakery products |
+| 💧Getränk(e)      | beverages       |
+| 🍫Süßigkeiten     | Sweets          |
 
 ## beliebteste Essen - most popular food
 
@@ -111,13 +111,19 @@
 
 ## 
 
-| 🔵der            | 🔴die | 🟢das |
-|------------------|-------|-------|
-| Besuch(e)/visit  |       |       |
-|                  |       |       |
+| 🔵der                               | 🔴die                                       | 🟢das                     |
+|-------------------------------------|---------------------------------------------|---------------------------|
+| Besuch(e)/visit                     | Tischlampe/table lamp                       | Käsebrötchen/cheese roll  |
+| Terminkalender/dairy/Terminkalender | speisekarte(n)/Menü(s)                      | Hauptgericht(e)/main dish |
+| Bürostuhl/office chair              | Vorspeisen(n)/appetizer/закуска             | Dessert(s)/dessert        |
+| Obstsalat/fruit salat               | Öffnungszeit(en)/opening hours/часы работы  |                           |
+|                                     |                                             |                           |
 
 
 
+- überbacken -- gratinated(запеченный)
+- überbacken -- запечь
+- sahne überbacken -- baked with cream(запеченный со сливками)
 
 
 
