@@ -2,20 +2,20 @@
 
 ## general-purpose
 
-| Ge        | En  | Ru  |
-|-----------|-----|-----|
-|       |     |     |
-|      |     |     |
-|  |     |     |
-|     |     |     |
-|    |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+| Ge         | En                   | Ru  |
+|------------|----------------------|-----|
+| sammeln    | collect/gather       |     |
+| überlegen  | consider/think about |     |
+|            |                      |     |
+|            |                      |     |
+|            |                      |     |
+|            |                      |     |
+|            |                      |     |
+|            |                      |     |
+|            |                      |     |
+|            |                      |     |
+|            |                      |     |
+|            |                      |     |
 
 zeichnen / draw
 tauschen / barter, exchange, swap, change

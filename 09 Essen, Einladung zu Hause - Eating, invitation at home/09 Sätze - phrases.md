@@ -71,3 +71,24 @@ Ok, good night then and thank you for visiting.
 > Wie schmeckt die Suppe?
 > Sehr gut, danke.
 
+
+
+- Grosser salat mit schinken -- Large salad with ham
+- Warmer apfelstrudel mit Vanilleeis -- Warm apple strudel with vanilla ice cream
+
+- Was trinkst du immer zum Frühstück? -- What do you always drink for breakfast?
+- Isst/trinkst du gern ...? -- Do you like to eat/drink ...?
+- Was ist dein Lieblingsessen? -- What is your favorite food?
+
+> Mag du Käse isst?
+> Nein, Ich mag kein Käse (der Käse)
+
+> Trinkst du gern Kaffee?
+> Nein, Ich trinke kein Kaffee (der Kaffee) 
+
+> Trinkst du gern Tee?
+> Ja, oft
+
+> Was isst du gern zum Ich Frühstück? (das Frühstück)
+> Ich frühstücke nur am Wochenende
+

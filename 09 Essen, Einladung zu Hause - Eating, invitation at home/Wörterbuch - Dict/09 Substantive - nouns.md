@@ -2,12 +2,12 @@
 
 ## Essenszeit - meal time
 
-| Ge          | Ru       | En                  |
-|-------------|----------|---------------------|
-| Frühstück   | завтрак  | breakfast 8:00      |
-| Mittagessen | обед     | lunch 12:00         |
-| Snack       | перекус  | snack 16:00         |
-| Abendessen  | ужин     | dinner/supper 18:00 |
+| Ge                          | Ru       | En                  |
+|-----------------------------|----------|---------------------|
+| das Frühstück(e)            | завтрак  | breakfast 8:00      |
+| Mittagessen                 | обед     | lunch 12:00         |
+| der Snack(s)/das Dessert(s) | перекус  | snack 16:00         |
+| Abendessen                  | ужин     | dinner/supper 18:00 |
 
 ## Produktkategorien - product categories
 
@@ -116,18 +116,23 @@
 | Besuch(e)/visit                     | Tischlampe/table lamp                       | Käsebrötchen/cheese roll  |
 | Terminkalender/dairy/Terminkalender | speisekarte(n)/Menü(s)                      | Hauptgericht(e)/main dish |
 | Bürostuhl/office chair              | Vorspeisen(n)/appetizer/закуска             | Dessert(s)/dessert        |
-| Obstsalat/fruit salat               | Öffnungszeit(en)/opening hours/часы работы  |                           |
-|                                     |                                             |                           |
+| Obstsalat(e)/fruit salat            | Öffnungszeit(en)/opening hours/часы работы  | Thema(en)/theme/topic     |
+| Knödel(-)/dumpling(s)/пельмени      |                                             |                           |
+| strudel/strudel                     |                                             |                           |
+| Apfelstrudel(-)/apple strudel       |                                             |                           |
 
 
 
 - überbacken -- gratinated(запеченный)
 - überbacken -- запечь
 - sahne überbacken -- baked with cream(запеченный со сливками)
+- hausgemacht - self-made
 
 
 
+# References
 
+- [food](https://www.aderalingua.com/learn-german/food)
 
 
 
