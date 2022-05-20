@@ -1,4 +1,7 @@
 
+![[../Files/Pasted image 20220521005716.png]]
+
+![[../Files/Pasted image 20220521005636.png]]
 
 ![telling time img](https://www.de-online.ru/wortschatz/43Z-99mjP9A.jpeg)
 ![telling time img](https://www.de-online.ru/wortschatz/zeit.png)![telling time img](https://www.de-online.ru/novosti/2021-06/Vremya_v_nemetskom-primery.jpg)
