@@ -85,3 +85,10 @@ Dictionary:
 - `Wir freuen uns auf Ihren Anruf` -- We look forward to your call
 - `Anruf` -- Phone call
 
+
+| Ge                      | En              |
+|-------------------------|-----------------|
+| Viele Grüße             | Many greetings  |
+| Beste Grüße             | Best regards    |
+| Liebe Grüße             | Warm greetings  |
+| Mit freundlichen Grüßen | Kind regards    |

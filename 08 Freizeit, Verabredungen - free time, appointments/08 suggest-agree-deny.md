@@ -6,15 +6,22 @@
 
 ## Etwas vorschlagen/Vorschläge machen | Suggest something/make suggestions
 
-| De                                            | En                                    |
-|-----------------------------------------------|---------------------------------------|
-| Ich habe da einen Vorschlag                   | I have a suggestion                   |
-| Ich habe da eine Idee                         | I have an idea                        |
-| Lust auf...?                                  | Do you want to ...? /have desire      |
-| Darf ich etwas vorschlagen?                   | May I suggest something?              |
-| Gehen wir ins Kino?                           | Let's go to the cinema?               |
-| Was denkst du `sollen` wir...?                | What do you think we `should`...?     |
-| Vielleicht können wir heute in die Bar gehen? | Maybe we can go to the bar today?     |
+| De                                                    | En                                             |
+|-------------------------------------------------------|------------------------------------------------|
+| Ich habe da einen Vorschlag                           | I have a suggestion                            |
+| Ich habe da eine Idee                                 | I have an idea                                 |
+| Lust auf...(Kino)?                                    | Do you want to ...? /have desire               |
+| Hast du Lust auf Kino?                                | Do you want to go to the cinema?               |
+| Darf ich etwas vorschlagen?                           | May I suggest something?                       |
+| Gehen wir ins Kino?                                   | Let's go to the cinema?                        |
+| Was denkst du `sollen` wir...(tun)?                   | What do you think we `should`...(do)?          |
+| Was denkst du, sollen wir sagen?                      | What do you think I should tell him?           |
+| Vielleicht können wir heute in die Bar gehen?         | Maybe we can go to the bar today?              |
+| Vielleicht können wir morgen Abend ins Theater gehen? | Maybe we can go to the theater tomorrow night? |
+
+- was machst du hier? - what are you doing here?
+- das weiß ich - I know that
+- das weiß ich nicht - I do not know that
 
 ## darauf reagieren -- to react to that
 

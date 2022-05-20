@@ -41,7 +41,7 @@ Gitarre(n) / guitar
 | sie	 | können |
 
 
-![[../../Files/Pasted image 20220520235354.png]]
+![[../../Files/Pasted image 20220521001507.png]]
 
 ##
 
@@ -54,6 +54,7 @@ Gitarre(n) / guitar
 |     | sehr gut       | backen         |
 |     |                | Rad fahren     |
 
+## die Fähigkeit(en) | skills
 
 | Ge            | En            |
 |---------------|---------------|
@@ -107,3 +108,40 @@ Gitarre(n) / guitar
 - Frische Luft — Fresh air
 - schaue — look
 - schauen — watch
+- sowieso — anyway
+- Jedenfalls mache ich das nicht - Anyway I not doing it
+- ohne — w/o
+- unglaublich — incredible
+- jogge pro tag eine stunde — jog for an hour a day
+- Zweimal pro Woche spiele ich Fußball in einem Verein
+- I play football in a club twice a week
+- der Verein — club, society, association, union
+
+
+| Ge       | En         |
+|----------|------------|
+| einmal   | once       |
+| zweimal  | twice      |
+| dreimal  | thrice     |
+| vier Mal | four times |
+
+
+
+| Ge                          | En                                   |
+|-----------------------------|--------------------------------------|
+| Nicht so gern               | Not so much                          |
+| Nein, das geht leider nicht | No, unfortunately that will not work |
+| Ja, klar                    | Yes, of course                       |
+| Ja gern                     | Yes, sure                            |
+| Nein, tut mir leid          | No, I'm sorry                        |
+
+- Darf ich? — May I?
+
+## um etwas bitten | to ask for something
+
+Kann ich mal telefonieren / hier rauchen?
+
+
+
+
+
