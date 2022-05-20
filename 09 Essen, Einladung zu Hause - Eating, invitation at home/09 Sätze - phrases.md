@@ -146,3 +146,24 @@ Ok, good night then and thank you for visiting.
 | in der Metzgerei (Fleischerei) | in the butcher shop               |
 | in der Apotheke                | in the pharmacy                   |
 | in der Bäckerei                | in the bakery                     |
+
+1. Möchtest du etwas essen? Oh ja, gern!
+   - Would you like something to eat? Oh yes, gladly!
+2. Guten Appetit! - Danke, gleichfalls.
+   - Enjoy your meal! - Thank you likewise.
+3. Möchten Sie einen Kaffee? - Oh ja, bitte.
+   - Would you like to have a coffee? - Oh yes please.
+4. Möchten Sie noch einen Tee? - Nein, danke.
+   - Would you like another tea? - No thanks.
+5. Magst du Müsli? - Nein, nicht so gern
+   - do you like muesli - No, not so much
+6. Wie schmeckt der Kuchen? - Sehr gut, danke.
+   - How does the cake taste? - Very good thank you.
+7. Du kannst wirklich toll tanzen! - Herzlichen Dank!
+   - You're really good at dancing! - Thank you very much!
+8. Sie können super kochen! - Danke sehr!
+   - You are great at cooking! - Thank you very much!
+9. Was machst du am Samstag? - Das weis ich noch nicht.
+   - What are you doing on Saturday? - I do not know that yet.
+10. Kann ich heier rauchen? - Ja klar.
+    - can i smoke hot - Yeah sure.
