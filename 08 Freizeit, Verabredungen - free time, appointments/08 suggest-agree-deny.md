@@ -4,7 +4,7 @@
 - 😞Ablehnen -- 😞Reject
 - ❓zögernd reagieren -- ❓react hesitantly
 
-## Etwas vorschlagen/Vorschläge machen | Suggest something/make suggestions
+## 💡🧠 Etwas vorschlagen/Vorschläge machen | Suggest something/make suggestions
 
 | De                                                    | En                                             |
 |-------------------------------------------------------|------------------------------------------------|
@@ -25,14 +25,23 @@
 
 ## darauf reagieren -- to react to that
 
-| De                         | En                         |
-|----------------------------|----------------------------|
-| Na ja, warum nicht?        | Well, why not?             |
-| Ja, klar                   | Yes, of course             |
-| Gute (Tolle) (Super) Idee! | Good (great) (super) idea! |
-| Ja klar, ich komme gern    | Yes, I'm happy to come     |
-
 ### ✅zustimmen -- agree
+
+| De                                       | En                          |
+|------------------------------------------|-----------------------------|
+| Gute (Tolle) (Super) Idee!               | Good (great) (super) idea!  |
+| Okay, das machen wir                     | OK, we'll do that           |
+| Ja, klar                                 | Yes, of course              |
+| Ja klar, ich komme gern                  | Yes, I'm happy to come      |
+| Ja, das passt mir gut                    | Yes, that suits me fine     |
+| Ja, das kann ich                         | Yes, I can do that          |
+| Na ja, warum nicht?                      | Well, why not?              |
+| Super, das ist eine gute Idee            | Great, that's a good idea   |
+| Ich stimme zu. Ich bin einverstanden.    | I agree                     |
+| Einverstanden                            | Agreed                      |
+| Ich stimme völlig zu.                    | I completely agree          |
+| Ich teile deine / Ihre Ansicht.          | I share your point of view  |
+
 > Meinungsäußerung auf Englisch
 > Expressing an opinion in English
 > Jemandem zustimmen
@@ -40,23 +49,7 @@
 > So können Sie anderen auf Englisch zustimmen
 > How to agree with others in English
 
-| De                                      | En                         |
-|-----------------------------------------|----------------------------|
-| Okay, das machen wir                    | OK, we'll do that          |
-| Ja, das passt mir gut                   | Yes, that suits me fine    |
-| Ja, das kann ich                        | Yes, I can do that         |
-| Super, das ist eine gute Idee           | Great, that's a good idea  |
-| Einverstanden                           | Agreed                     |
-| Ich stimme zu. Ich bin einverstanden.   | I agree                    |
-| Ich stimme völlig zu.                   | I completely agree         |
-| Ich teile deine / Ihre Ansicht.         | I share your point of view |
-
-
 ### ✅mit Zweifel beantworten/Es gibt eine Möglichkeit | ✅answer with doubt/There is a possibility
-> Jemandem teilweise zustimmen bzw. widersprechen
-> Partially agree or disagree with someone
-> Wenn Sie nur zum Teil zustimmen, können Sie sich so ausdrücken
-> If you only partially agree, you can express yourself like this
 
 | De                                             | En                                  |
 |------------------------------------------------|-------------------------------------|
@@ -68,30 +61,38 @@
 | Ich stimme dir / Ihnen nicht ganz / völlig zu. | I don't completely agree with you   |
 | Ich habe einige Bedenken.                      | I have some reservations (оговорки) |
 
+> Jemandem teilweise zustimmen bzw. widersprechen
+> Partially agree or disagree with someone
+> Wenn Sie nur zum Teil zustimmen, können Sie sich so ausdrücken
+> If you only partially agree, you can express yourself like this
+
 ### 🚫leugnen/nein sagen 🚫ablehnen | 🚫deny/say no/🚫decline
+
+| De                                                  | En                                          |
+|-----------------------------------------------------|---------------------------------------------|
+| Nein, nicht so                                      | No, not like this                           |
+| Ich gehe...                                         | I go...                                     |
+| Ich kann nicht                                      | I can not                                   |
+| Ich bin anderer Meinung. (Ich stimme nicht zu)      | I disagree                                  |
+| Ich bin anderer Ansicht                             | I beg to differ                             |
+| Tut mir leid, ich habe keine Lust/Zeit              | I'm sorry, I don't feel like it             |
+| Ich denke, das führt zu nichts                      | I think that'll lead to nothing             |
+| Tut mir leid ich habe keine Zeit/Lust               | I'm sorry I don't have the time/inclination |
+| Um ehrlich zu sein: Ich stimme dir / Ihnen nicht zu | To be honest, I don't agree with you        |
+| Am ... kann ich leider nicht                        | On ... I can not, unfortunately             |
+| Wollen wir nicht lieber...?                         | Wouldn't we rather...?                      |
+| Heute habe ich leider keine Zeit                    | Unfortunately I do not have any time today  |
+| Leider geht es am ... nicht                         | Unfortunately it is not possible on ...     |
+|                                                     |                                             |
 
 > Jemandem widersprechen
 > To contradict someone
 > Höflich widersprechen können Sie mit diesen englischen Ausdrücken
 > You can disagree politely with these English expressions
 
-| De                                                  | En                                          |
-|-----------------------------------------------------|---------------------------------------------|
-| Nein, nicht so                                      | No, not like this                           |
-| Tut mir leid, ich habe keine Lust/Zeit              | I'm sorry, I don't feel like it             |
-| Ich kann nicht                                      | I can not                                   |
-| Ich gehe...                                         | I go...                                     |
-| Heute habe ich leider keine Zeit                    | Unfortunately I do not have any time today  |
-| Tut mir leid ich habe keine Zeit/Lust               | I'm sorry I don't have the time/inclination |
-| Leider geht es am ... nicht                         | Unfortunately it is not possible on ...     |
-| Am ... kann ich leider nicht                        | On ... I can not, unfortunately             |
-| Wollen wir nicht lieber...?                         | Wouldn't we rather...?                      |
-| Um ehrlich zu sein: Ich stimme dir / Ihnen nicht zu | To be honest, I don't agree with you        |
-| Ich bin anderer Meinung. (Ich stimme nicht zu)      | I disagree                                  |
-| Ich bin anderer Ansicht                             | I beg to differ                             |
-| Ich denke, das führt zu nichts                      | I think that'll lead to nothing             |
-|                                                     |                                             |
 
+### all in one
+![[../Files/Pasted image 20220521003623.png]]
 
 ___
 ## MORE
@@ -101,7 +102,7 @@ ___
 | De                                          | En                           |
 |---------------------------------------------|------------------------------|
 | Es tut mir leid                             | I'm sorry                    |
-| Es tut mir wirktlich leid.                  | I'm really sorry             |
+| Es tut mir wirklich leid.                   | I'm really sorry             |
 | Es tut mir leid, das zu hören               | I'm sorry to hear that       |
 | 🟢das ist schade                            | It's a pity                  |
 | Mit Bedauern...                             | It is with regret that...    |
