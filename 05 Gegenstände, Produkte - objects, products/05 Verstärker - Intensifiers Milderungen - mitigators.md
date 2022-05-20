@@ -1,6 +1,5 @@
 ## Verstärker - Intensifiers
 
-
 | Ge              | En             |
 |-----------------|----------------|
 | sehr            | very           |
@@ -13,25 +12,24 @@
 | super           | super          |
 | Ja wirklich     | really         |
 
-> “The soup was very hot, so he put it down.”
-> “The park in the middle of the city was amazingly beautiful.”
-> “You were completely sure that you had done the assignment correctly.”
-> “Sunlight in spring feels incredibly uplifting after a long, cold winter.”
-> “Everyone was really excited to go to the beach and go swimming in the ocean.”
-> “They were all remarkably moved by the movie they saw in the theatre.”
-> “This table was crafted really beautifully.”
+> Die Suppe war sehr heiß, also stellte er sie hin.
+The soup was very hot, so he put it down.
+> Der Park mitten in der Stadt war unglaublich schön.
+The park in the middle of the city was amazingly beautiful.
+> Du warst dir absolut sicher, dass du die Aufgabe richtig gemacht hast.
+You were completely sure that you had done the assignment correctly.
+> Sonnenlicht im Frühling fühlt sich nach einem langen, kalten Winter unglaublich erhebend an.
+Sunlight in spring feels incredibly uplifting after a long, cold winter.
+> Alle waren sehr aufgeregt, an den Strand zu gehen und im Meer zu schwimmen.
+Everyone was really excited to go to the beach and go swimming in the ocean.
+> Sie waren alle bemerkenswert bewegt von dem Film, den sie im Kino gesehen haben.
+They were all remarkably moved by the movie they saw in the theatre.
+> Dieser Tisch wurde wirklich wunderschön gefertigt.
+This table was crafted really beautifully.
 
-> „Die Suppe war sehr heiß, also stellte er sie hin.“
-> „Der Park mitten in der Stadt war unglaublich schön.“
-> „Du warst dir absolut sicher, dass du die Aufgabe richtig gemacht hast.“
-> „Sonnenlicht im Frühling fühlt sich nach einem langen, kalten Winter unglaublich erhebend an.“
-> „Alle waren sehr aufgeregt, an den Strand zu gehen und im Meer zu schwimmen.“
-> „Sie waren alle bemerkenswert bewegt von dem Film, den sie im Kino gesehen haben.“
-> „Dieser Tisch wurde wirklich wunderschön gefertigt.“
+## Zusatzinformation | Extra info
 
-
-## Milderungen - mitigators
-
+### Milderungen - mitigators
 
 | Ge                   | En                |
 |----------------------|-------------------|
@@ -47,7 +45,7 @@
 |                      |                   |
 
 
-## mix of both
+### EXTRA INFO C1
 
 | Ge                    | En                 |
 |-----------------------|--------------------|
