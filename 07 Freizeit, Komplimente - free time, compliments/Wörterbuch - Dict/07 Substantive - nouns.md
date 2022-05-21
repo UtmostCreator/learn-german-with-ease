@@ -41,7 +41,7 @@ Gitarre(n) / guitar
 | sie	 | können |
 
 
-![[../../Files/Pasted image 20220521001507.png]]
+![[../../Files/Pasted image 20220521090422.png]]
 
 ##
 
