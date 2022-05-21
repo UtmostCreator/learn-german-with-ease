@@ -12,15 +12,15 @@ Topic:
 
 ## general-purpose
 
-| Ge          | En        | Ru                      |
-|-------------|-----------|-------------------------|
-| aussteigen  | get out   | выходить из (транспорта |
-| einsteigen  | get in    | заходить в (транспорт)  |
-| ankommen    | arrive    | прибыть                 |
-| anrufen     | call      | звонить                 |
-| fernsehen   | watch TV  | смотреть телевизор      |
-| einkaufen   | shopping  | поход по магазинам      |
-|             |           |                         |
+| Ge          | En        | Ru                       |
+|-------------|-----------|--------------------------|
+| aussteigen  | get out   | выходить из (транспорта) |
+| einsteigen  | get in    | заходить в (транспорт)   |
+| ankommen    | arrive    | прибыть                  |
+| anrufen     | call      | звонить                  |
+| fernsehen   | watch TV  | смотреть телевизор       |
+| einkaufen   | shopping  | поход по магазинам       |
+|             |           |                          |
 
 
 
