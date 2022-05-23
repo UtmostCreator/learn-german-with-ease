@@ -7,7 +7,7 @@
 | Ge                                       | En                          | Ru                          |
 |------------------------------------------|-----------------------------|-----------------------------|
 | `kochen`                                 | cook                        | готовить пищу               |
-| `singen` [ˈzɪŋən]                        | sing                        | петь                        |
+| `singen` \[ˈzɪŋən]                       | sing                        | петь                        |
 | `lesen`                                  | read                        | читать                      |
 | `Freunde treffen` triffst,trifft         | meet friends                | встретиться с друзьями      |
 | `im Internet surfen — surf the internet` | путешествовать по Интернету | путешествовать по Интернету |
@@ -20,7 +20,7 @@
 | `spazieren gehen`                        | go for a walk               | идти гулять                 |
 | `Schach spielen`                         | play chess                  | играть в шахматы            |
 | `Tennis spielen`                         | play tennis                 | играть в теннис             |
-| `Rad fahre`                              | ride a bike                 | кататься на велосипеде      |
+| `Rad fahren`                             | ride a bike                 | кататься на велосипеде      |
 | `besuchen`                               | visit                       | посетить                    |
 | `leidtun`                                | be/feel sorry for oneself   | сожалеть                    |
 | `Spaß machen`                            | have fun                    | развлекаться                |

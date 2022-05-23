@@ -107,3 +107,7 @@ wir kaufen im Supermarkt ein
 
 Related:
 - [temporal prepositions](https://en.easy-deutsch.de/prepositions/temporal-prepositions/)
+
+- Marlen kann wirklich sehr gut malen
+- Er kann auch ein bisschen backen und singen
+- Er kann nicht gut Radfahren, obwohl er gut Tennis spielen kann

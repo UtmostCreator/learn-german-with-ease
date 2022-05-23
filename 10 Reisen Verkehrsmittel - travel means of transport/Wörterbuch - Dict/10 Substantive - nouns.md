@@ -15,6 +15,7 @@ Topic:
 | Bahnhof(öfe) / train station      | 🚝S-Bahn(en) / train (within a city) / поезд | 🛤Gleis(s) / rail track        |
 | Hauptbahnhof(öfe) / main station  | 🚫U-Bahn(en) / subway / underground          |                                |
 | 🔳Bahnsteig(e) / platform         |                                              | 🚕Taxi(s) / taxi               |
+| Bahnsteigkante / platform edge    |                                              |                                |
 | 🚍Bus(se) / bus                   |                                              |                                |
 | 🛫✈️Flughafen(ä) / airport        | 🚏Haltestelle(n) / bus stop /                |                                |
 | 🚉Zug(Züge) / train / поезд       | 🚊Straßenbahn(en) / tram / трамвай           |                                |
@@ -23,7 +24,7 @@ Topic:
 |                                   |                                              |                                |
 |                                   |                                              |                                |
 |                                   |                                              |                                |
-|                                   | Selbsteinschätzung /self-assessment          |                                |
+| Nom. nächste(n) - andere / next   | Selbsteinschätzung /self-assessment          |                                |
 
 ![[../../Files/Pasted image 20220523111628.png]]
 

@@ -23,7 +23,10 @@ Topic:
 | 👁📺`fern`sehen | watch TV                  | смотреть телевизор         |
 | 🛍`ein`kaufen   | shopping                  | поход по магазинам         |
 | `ab`fahren      | leave, depart, remove     |                            |
+|                 |                           |                            |
+|                 |                           |                            |
 
+nehmen | take, seize, have
 
 
 - wir sehen oft `fern`
