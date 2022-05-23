@@ -193,7 +193,7 @@ Related:
 | 🔵der                                   | 🔴die                                          | 🟢das                           |
 |-----------------------------------------|------------------------------------------------|---------------------------------|
 | Besuch(e) / visit                       | Tischlampe / table lamp                        | Käsebrötchen / cheese roll      |
-| Terminkalender / dairy / Terminkalender | speisekarte(n) / Menü(s)                       | Hauptgericht(e) / main dish     |
+| Terminkalender / dairy / Terminkalender | Speisekarte(n) / Menü(s)                       | Hauptgericht(e) / main dish     |
 |                                         | Vorspeisen(n) / appetizer / закуска            | Dessert(s) / dessert            |
 | Obstsalat(e) / fruit salat              | Öffnungszeit(en) / opening hours / часы работы | Thema(en) / theme / topic       |
 | Gurkensalat(e) / cucumber salat         |                                                |                                 |
