@@ -12,17 +12,17 @@ Topic:
 
 ## general-purpose
 
-| Ge           | En                        | Ru                         |
-|--------------|---------------------------|----------------------------|
-| `aus`steigen | get out (of)              | выходить из (транспорта)   |
-| `ein`steigen | get in                    | заходить в (транспорт)     |
-| `um`steigen  | change, switch            | пересесть в др (транспорт) |
-|              | transfer to another train |                            |
-| `an`kommen   | arrive                    | прибыть                    |
-| `an`rufen    | call                      | звонить                    |
-| `fern`sehen  | watch TV                  | смотреть телевизор         |
-| `ein`kaufen  | shopping                  | поход по магазинам         |
-| `ab`fahren   | leave, depart, remove     |                            |
+| Ge              | En                        | Ru                         |
+|-----------------|---------------------------|----------------------------|
+| `aus`steigen    | get off                   | выходить из (транспорта)   |
+| `ein`steigen    | get in                    | заходить в (транспорт)     |
+| `um`steigen     | change, switch            | пересесть в др (транспорт) |
+|                 | transfer to another train |                            |
+| 🛬`an`kommen    | arrive                    | прибыть                    |
+| 📞`an`rufen     | call                      | звонить                    |
+| 👁📺`fern`sehen | watch TV                  | смотреть телевизор         |
+| 🛍`ein`kaufen   | shopping                  | поход по магазинам         |
+| `ab`fahren      | leave, depart, remove     |                            |
 
 
 

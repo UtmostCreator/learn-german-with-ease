@@ -1,4 +1,6 @@
 
+12:45 - viertel vor eins
+
 ![[../Files/Pasted image 20220521005716.png]]
 
 ![[../Files/Pasted image 20220521005636.png]]

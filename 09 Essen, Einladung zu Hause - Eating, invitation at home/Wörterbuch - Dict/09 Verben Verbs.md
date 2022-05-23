@@ -5,8 +5,8 @@ Topic:
 🏷️Tags: #verbs #Verben
 
 🧭Pagination:
-- ⬅️[[../../03 Familie - family/Wörterbuch - Dict/03 Verben Verbs]]
-- ➡️[[]]
+- ⬅️[[../../08 Freizeit, Verabredungen - free time, appointments/08 suggest-agree-deny]]
+- ➡️[[../../10 Reisen Verkehrsmittel - travel means of transport/Wörterbuch - Dict/10 Verben Verbs]]
 
 # 09 Verben Verbs
 

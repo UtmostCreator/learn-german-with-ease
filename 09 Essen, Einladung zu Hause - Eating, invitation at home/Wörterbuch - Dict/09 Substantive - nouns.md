@@ -6,7 +6,7 @@ Topic: #food
 
 🧭Pagination:
 - ⬅️[[../../08 Freizeit, Verabredungen - free time, appointments/Wörterbuch - Dict/08 Substantive - nouns]]
-- ➡️[[]]
+- ➡️[[../../10 Reisen Verkehrsmittel - travel means of transport/Wörterbuch - Dict/10 Substantive - nouns]]
 
 # 🍲 vegetables and fruits | Gemüse und Früchte
 ## Essenszeit - meal time
