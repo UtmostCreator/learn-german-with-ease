@@ -40,3 +40,9 @@ wir kaufen im Supermarkt ein
 | Am Freitag Paul spielt Tennis mit Ben             | On Friday Paul plays tennis with Ben                           |
 | Um elf Uhr fährt Paul mit Susi                    | At eleven o'clock Paul drives with Susi                        |
 | Paul schlafen lange und am abend sieht Paul DVD   | Paul sleeps late and in the evening Paul watches a DVD         |
+| Q: Hey, Sprichst du jetzt nicht mehr mit mir?     | Q: Hey, Sprichst du jetzt nicht mehr mit mir?                  |
+| A: Doch, Teresa, natürlich. Sorry.               | A: Yes, Teresa, of course. sorry                               |
+|                                                   |                                                                |
+| Kannst du auch kommen?                            | Could you come too?                                            |
+| ich kann leider nicht kommen                      | sorry, I can not come                                          |
+| Am Wochenende fahre ich nach Wien                 | I'm going to Vienna at the weekend                             |
