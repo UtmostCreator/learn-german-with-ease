@@ -25,4 +25,18 @@ wir kaufen im Supermarkt ein
 | einkaufen                                | shopping, buying                            |
 | Was kauft ihr ein?                       | What are you buying?                        |
 | Wir kaufen Butter und Brot ein           | We buy butter and bread                     |
-    
+
+
+- öffnen / open, unlock
+- Waldbad / forest bath / лесная баня
+
+
+| Ge                                                | En                                                             |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Am Montag geht Paul um halb neun mit Jan ins Kino | On Monday, Paul goes to the cinema with Jan at half past eight |
+| Am Dienstagmittag essen Paul mit Peter            | On Tuesday lunchtime, Paul eats with Peter                     |
+| Am Abend trift Paul Juliane                       | In the evening Paul meets Juliane                              |
+| Um halb elf schreibt Paul Mail                    | Paul writes the mail at half past ten                          |
+| Am Freitag Paul spielt Tennis mit Ben             | On Friday Paul plays tennis with Ben                           |
+| Um elf Uhr fährt Paul mit Susi                    | At eleven o'clock Paul drives with Susi                        |
+| Paul schlafen lange und am abend sieht Paul DVD   | Paul sleeps late and in the evening Paul watches a DVD         |

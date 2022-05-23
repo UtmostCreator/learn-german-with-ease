@@ -13,7 +13,7 @@
 | `im Internet surfen — surf the internet` | путешествовать по Интернету | путешествовать по Интернету |
 | `schwimmen`                              | swim                        | плавать                     |
 | `fotografieren`                          | taking photos               | фотографировать             |
-| `Tennis/Gutarre/Fußball spielen`        | Play soccer/tennis/guitar   | Играть в футбол             |
+| `Tennis/Gutarre/Fußball spielen`         | Play soccer/tennis/guitar   | Играть в футбол             |
 | `malen`                                  | to paint                    | рисовать                    |
 | `backen`                                 | to bake                     | печь                        |
 | `Musik hören`                            | listen to music             | слушать музыку              |
