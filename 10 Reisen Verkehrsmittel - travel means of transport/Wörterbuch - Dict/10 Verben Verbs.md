@@ -14,7 +14,7 @@ Topic:
 
 | Ge           | En                        | Ru                         |
 |--------------|---------------------------|----------------------------|
-| `aus`steigen | get out                   | выходить из (транспорта)   |
+| `aus`steigen | get out (of)              | выходить из (транспорта)   |
 | `ein`steigen | get in                    | заходить в (транспорт)     |
 | `um`steigen  | change, switch            | пересесть в др (транспорт) |
 |              | transfer to another train |                            |
