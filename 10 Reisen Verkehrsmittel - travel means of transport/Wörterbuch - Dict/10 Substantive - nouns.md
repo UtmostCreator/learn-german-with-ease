@@ -24,7 +24,7 @@ Topic:
 |                                   |                                              |                                |
 |                                   |                                              |                                |
 |                                   |                                              |                                |
-| Nom. nächste(n) - andere / next   | Selbsteinschätzung /self-assessment          |                                |
+| Nom. nächste(n) - Andere / next   | Selbsteinschätzung /self-assessment          |                                |
 
 ![[../../Files/Pasted image 20220523111628.png]]
 

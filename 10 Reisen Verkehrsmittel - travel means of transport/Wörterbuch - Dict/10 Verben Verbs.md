@@ -26,7 +26,8 @@ Topic:
 |                 |                           |                            |
 |                 |                           |                            |
 
-nehmen | take, seize, have
+nehmen | take, seize, have| |
+steigen |  rise, climb, step (off), advance | |
 
 
 - wir sehen oft `fern`
