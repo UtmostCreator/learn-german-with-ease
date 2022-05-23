@@ -57,6 +57,11 @@ Topic: #freeTime
 | in der Nacht — 22—6    | at night         |
 | um Mitternacht — 00:00 | at midnight      |
 
+- halb sieben
+- Viertel for sieben
+- sieben
+- Viertel nach sieben
+
 Related:
 - [[../../09 Essen, Einladung zu Hause - Eating, invitation at home/Wörterbuch - Dict/09 Substantive - nouns#Essenszeit - meal time]]
 
