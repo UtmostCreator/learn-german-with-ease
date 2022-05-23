@@ -99,8 +99,11 @@ wir kaufen im Supermarkt ein
 | Schach – können – ihr - spielen? Könnt ihr Schach spielen?                 | Chess - can - you - play? can you play chess                                            |
 | Nein, wir können gar nicht Schach spielen. (gar nicht)                     | No, we can't play chess at all. (not at all)                                            |
 | …einen Zeitpunkt angeben (temporale Präpositionen um, am): L08             | …indicate a point in time (temporal prepositions around, on): L08                       |
-| Wann denn? Am Samstag um19.00 Uhr.                                         | Then when? On Saturday at 7 p.m.                                                        |
+| Wann denn? Am Samstag um 19.00 Uhr.                                        | Then when? On Saturday at 7 p.m.                                                        |
 | … Informationen hervorheben / betonen (Inversion): L08                     | … highlighting / emphasizing information (inversion): L08                               |
 | Ich kann am Sonntag nicht kommen. Am Sonntag kann ich nicht kommen.        | I can't come on Sunday. I can't come on Sunday.                                         |
 | …Wörter kombinieren (Wortbildung): L09                                     | …combine words (word formation): L09                                                    |
 | der Schokoladenkuchen                                                      | the chocolate cake                                                                      |
+
+Related:
+- [temporal prepositions](https://en.easy-deutsch.de/prepositions/temporal-prepositions/)
