@@ -6,14 +6,14 @@
 | Tisch(e) Arbeitstisch(e)              | Kommode(n)                        | 🖼 Bild(er)                  |
 | Sessel(-)                             | 🛋Couch(s/en)                     | 🛋Sofa(s)                    |
 | Teppich(e)                            | 🚪Tür(en)                         | Regal(e) shelf               |
-| Schrank(Schränke) Kleiderschrank(a:e) | 💡Kronleuchter(-) <br/>chandelier | 🛏Bett(en)                   |
+| Schrank(Schränke) Kleiderschrank(äe) | 💡Kronleuchter(-) <br/>chandelier | 🛏Bett(en)                   |
 | 🪞Spiegel(-)                          | ⏰Uhr(en)/Wanduhr(en)(wall clock)  | 🛁Bad(Bäder) - bath          |
 | 📺Fernseher(-)<br/>Fernsehapparat     | Steckdose(n)(power outlet)        | Waschbecken(-) bathroom sink |
 | 🗑Abfalleimer(-) waste bin            | Mikrowelle(n)(microwave)          |                              |
 | Herd(e)(stove)                        | Treppe(n)(stairs)                 |                              |
-| Kühlschrank(a:e) (Fridge)             | Spüle(n)(kitchen sink)            |                              |
+| Kühlschrank(äe) (Fridge)             | Spüle(n)(kitchen sink)            |                              |
 | Geschirrspüler(-)(dishwasher)         | Glühbirne(n)(light bulb)          |                              |
-| Wasserhahn(a:e/en)(water tap)         | Vase(n)                           |                              |
+| Wasserhahn(äe/en)(water tap)         | Vase(n)                           |                              |
 | Hocker(-)(stool)                      | Zimmerpflanze(n)(houseplant)      |                              |
 |                                       |                                   |                              |
 |                                       |                                   |                              |

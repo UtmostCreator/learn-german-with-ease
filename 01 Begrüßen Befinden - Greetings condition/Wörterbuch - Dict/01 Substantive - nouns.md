@@ -14,7 +14,7 @@ Topic: #vitals
 |-------------------------|---------------|----------------------|
 | Tag(e) - day            | Stadt(Städte) | Lied(er) - song      |
 | Satze(Sätze) - phrase   | Regel(n)      | Gruppe(n) - group    |
-| Mann(a:er,en) - man     |               | Frau(en) - Ms.       |
+| Mann(äer,en) - man     |               | Frau(en) - Ms.       |
 | Unterricht(e) classes   |               | Übung(en) - exercise |
 | Gruß(Grüße) - greetings |               |                      |
 | Abschied(e) - farewell  |               |                      |

@@ -104,13 +104,13 @@ Related:
 ### 💧Getränk(e) - beverages 
 | 🔵der                                       | 🔴die                      | 🟢das                                            |
 |---------------------------------------------|----------------------------|--------------------------------------------------|
-| 🍵Tee(s) / tea                              | 🍋🧃Limonade(n) / lemonade | 🥤💧Mineralwasser(-/wa:sser)                     |
+| 🍵Tee(s) / tea                              | 🍋🧃Limonade(n) / lemonade | 🥤💧Mineralwasser(-/wässer)                     |
 | ☕Kakao(s) / cocoa                           | 🥤Cola(s) / cola           | 🍻Bier(er) / Beer                                |
 | ☕Kaffee(s) / coffee                         | Apfelschorle(n)            | stilles wasser / still water                     |
 | ☕Cappuccino / cappuccino                    |                            | mineralwasser mit kohlensäure / sparkling water  |
 | 🧃Saft(Säfte) / Juice                       |                            |                                                  |
-| 🍊🧃Orangensaft(a:e) / orange juice         |                            |                                                  |
-| 🍏🧃Apfelsaft(A:e) / apple juice            |                            |                                                  |
+| 🍊🧃Orangensaft(äe) / orange juice         |                            |                                                  |
+| 🍏🧃Apfelsaft(äe) / apple juice            |                            |                                                  |
 | 🍷Wein(e) / wine                            |                            |                                                  |
 | Alkohol(e) /alcohol                         |                            |                                                  |
 | Wodka(s) / vodka                            |                            |                                                  |

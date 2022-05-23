@@ -7,7 +7,7 @@
 | 🔑 Schlüssel(-)               | 👜Tasche(n) (bag)                | 🍺Bierglas(Biergläser)[ˈbiːɐ̯ˌɡlaːs] |
 | 🍽Teller(-)                   | ⛓🔗 Kette(n) (chain)             | 👕T-Shirt(s)                         |
 | 🤴König(e)                    | 🎎Puppe(n)                       | 🍞Brot(e)                            |
-| Schlüsselanhänger(-)(trinket) | 🗂📨Postkarte(n)                 | 🚲Fahrrad(a:er) Fahrräder            |
+| Schlüsselanhänger(-)(trinket) | 🗂📨Postkarte(n)                 | 🚲Fahrrad(äer) Fahrräder            |
 | 💍Ring(e)                     |                                  | 📕 Buch(u:er)                        |
 | 🌳Baum(:e Bäume - бойме)      | ⏰ Uhr(en)                        | 📱Handy(s)                           |
 | 🦮Hund(e)                     | ✂️Schere(n)`[ˈʃeːrə]`            | 📓📖Wörterbuch(u:er)                 |
@@ -23,9 +23,9 @@
 | 🖥Bildschirm(e)(screen)       | Zeit(en)                         |                                      |
 | 🔈Lautsprecher(-) (speaker/s) | ⌨tastatur(en)                    |                                      |
 | Anschluss (u:e)(port)         | 💽Scheibe(n) - disk              |                                      |
-| Gegenstand(a:e) (item/object) | Leertaste(n)(space bar)          |                                      |
+| Gegenstand(äe) (item/object) | Leertaste(n)(space bar)          |                                      |
 | Kalender-                     | Information(en)                  |                                      |
-| Arbeitsplatz(a:e)(workplace)  | Hausnummer(n)                    |                                      |
+| Arbeitsplatz(äe)(workplace)  | Hausnummer(n)                    |                                      |
 | 🏢🪑Bürostuhl(e)              | Beschaffenheit(-)(state/nature)  |                                      |
 | Radiergummi(s) (eraser)       | Form(en) [shape/form]            |                                      |
 | Termin(e)                     | Rechnung(en) (invoice)           |                                      |
