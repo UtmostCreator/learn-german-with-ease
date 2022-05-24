@@ -153,6 +153,8 @@ Related:
 | Und noch eine Information für die Passagiere von Flug Nummer 134 nach Manchester: Ihr Abflug verspätet sich um 50 Minuten | And one more information for the passengers of flight number 134 to Manchester: Your departure is delayed by 50 minutes|
 | Wir bitten Sie um Verständnis. | We apologize for any inconvenience.|
 
+Essen fährt heute `ausnahmsweise` von Gleis 11 ab.
+- `ausnahmsweise` - exceptionally
 
 | Ge         | En        |
 |------------|-----------|
@@ -164,3 +166,5 @@ Related:
 | zum        | to the    |
 | Einsteigen | Get in    |
 | bereit     | ready     |
+
+- Wegen Bauarbeiten - Due to construction works

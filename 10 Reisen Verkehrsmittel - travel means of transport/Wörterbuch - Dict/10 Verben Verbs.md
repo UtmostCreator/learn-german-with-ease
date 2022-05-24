@@ -23,8 +23,10 @@ Topic:
 | 👁📺`fern`sehen | watch TV                                            | смотреть телевизор                        |
 | 🛍`ein`kaufen   | shopping                                            | поход по магазинам                        |
 | `ab`fahren      | leave, depart, remove                               |                                           |
+| `weiter`fahren  | continue / go on / drive on                         |                                           |
 | `mit`bring      | `bring` someone or something `along` (to something) | привести с собой кого-то куда-то          |
 | `ab`holen       | pick up, collect, take away (e.g. from caffe)       | взять, подобрать, забрать с собой(с кафе) |
+|                 |                                                     |                                           |
 |                 |                                                     |                                           |
 
 
@@ -42,6 +44,8 @@ Topic:
 | reisen     | travel                                |                                    |
 | dauern     | last, take time                       |                                    |
 | verspäten  | be late, delay                        |                                    |
+| wiederhole | repeat                                |                                    |
+|            |                                       |                                    |
 
 - wir sehen oft `fern`
 - im Supermarkt kaufen wir `ein`
