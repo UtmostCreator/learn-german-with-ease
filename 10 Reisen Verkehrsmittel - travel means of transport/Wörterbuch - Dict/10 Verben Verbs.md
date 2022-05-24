@@ -23,29 +23,33 @@ Topic:
 | 👁📺`fern`sehen | watch TV                                            | смотреть телевизор                        |
 | 🛍`ein`kaufen   | shopping                                            | поход по магазинам                        |
 | `ab`fahren      | leave, depart, remove                               |                                           |
+| `ab`holen       | pick up, collect, take away (e.g. from caffe)       | взять, подобрать, забрать с собой(с кафе) |
 | `weiter`fahren  | continue / go on / drive on                         |                                           |
 | `mit`bring      | `bring` someone or something `along` (to something) | привести с собой кого-то куда-то          |
-| `ab`holen       | pick up, collect, take away (e.g. from caffe)       | взять, подобрать, забрать с собой(с кафе) |
 |                 |                                                     |                                           |
 |                 |                                                     |                                           |
 
+> Der Wortakzent ist bei trennbaren Verben auf dem trennbaren Wortteil
+> With separable verbs, the word accent is on the separable part of the word
+
+- trennbaren - separable(отделимый, разделимый)
 
 ## extra Verben
 
-| Ge         | En                                    | Ru                                 |
-|------------|---------------------------------------|------------------------------------|
-| weinen     | cry, weep, cry over (someone's death) |                                    |
-|            | cry for (sth u want desperately)      |                                    |
-| turnen     | do gymnastics, exercise               | заниматься гимнастикой, заниматься |
-| bekommen   | receive, get                          |                                    |
-| holen      | get, fetch, take a breath, breath in  |                                    |
-| nehmen     | take, seize, have                     |                                    |
-| steigen    | rise, climb, step (off), advance      |                                    |
-| reisen     | travel                                |                                    |
-| dauern     | last, take time                       |                                    |
-| verspäten  | be late, delay                        |                                    |
-| wiederhole | repeat                                |                                    |
-|            |                                       |                                    |
+| Ge            | En                                             | Ru                                 |
+|---------------|------------------------------------------------|------------------------------------|
+| weinen        | cry, weep, cry over (someone's death)          |                                    |
+|               | cry for (sth u want desperately)               |                                    |
+| turnen        | do gymnastics, exercise                        | заниматься гимнастикой, заниматься |
+| bekommen      | receive, get                                   |                                    |
+| holen         | get, fetch, take a breath, breath in           |                                    |
+| nehmen        | take, seize, have                              |                                    |
+| steigen       | rise, climb, step (off), advance               |                                    |
+| reisen        | travel                                         |                                    |
+| dauern        | last, take time                                |                                    |
+| verspäten     | be late, delay                                 |                                    |
+| wiederhole    | repeat                                         |                                    |
+| entschuldigen | apologise, excuse, apologize, pardon, forgive  |                                    |
 
 - wir sehen oft `fern`
 - im Supermarkt kaufen wir `ein`
