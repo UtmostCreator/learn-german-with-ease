@@ -27,6 +27,7 @@ Topic:
 | Nom. nächste(n) - Andere / next   | Selbsteinschätzung /self-assessment           |                                |
 | Zentrum / center                  |                                               |                                |
 | Hafen / port, harbour, haven      |                                               |                                |
+| Stadtteil /                       |                                               |                                |
 
 ![[../../Files/Pasted image 20220523111628.png]]
 
