@@ -46,9 +46,15 @@ Topic:
 ## Verkehrsmittel(-) - means of transport, vehicle, public transport
 
 - der 🛫✈️Flughafen(ä) / airport
-- der 🔳Bahnsteig(e) / platform
 - das 🚕Taxi(s)
-- das 🛤Gleis(s) / rail track
+- die S-Bahn(en)
+- die U-bahn(en)
+- die Strassenbahn(en)
+- der Flugzeug(a:)
+- das Taxi(s)
+- der Bus(se)
+- der Zug(u:e)
+
 
 ## Bahnhof(öfe) - train station
 

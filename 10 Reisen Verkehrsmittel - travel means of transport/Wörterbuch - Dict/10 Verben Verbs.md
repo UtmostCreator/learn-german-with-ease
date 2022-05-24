@@ -29,6 +29,8 @@ Topic:
 |                 |                                                     |                                           |
 |                 |                                                     |                                           |
 
+
+
 > Der Wortakzent ist bei trennbaren Verben auf dem trennbaren Wortteil
 > With separable verbs, the word accent is on the separable part of the word
 
