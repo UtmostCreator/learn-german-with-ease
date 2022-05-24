@@ -113,9 +113,33 @@ Related:
 - Er kann nicht gut Radfahren, obwohl er gut Tennis spielen kann
 
 
-| Wir steigen	am Rathausplatz	aus.| We get off at Rathausplatz.|
-| Wo fährt der Zug nach Berlin ab?| Where does the train to Berlin depart from?|
-| Rufst du mich an?| Will you call me?|
-| Ich hole dich um 16.45 Uhr ab.| I'll pick you up at 4:45 p.m.| 
-| Bringt ihr einen Kuchen mit?| are you bringing a cake|
-| Wann kommt der Bus an?| When does the bus arrive?|
+| Ge                               | En                                          |
+|----------------------------------|---------------------------------------------|
+| Wir steigen	am Rathausplatz	aus. | We get off at Rathausplatz.                 |
+| Wo fährt der Zug nach Berlin ab? | Where does the train to Berlin depart from? |
+| Rufst du mich an?                | Will you call me?                           |
+| Ich hole dich um 16.45 Uhr ab.   | I'll pick you up at 4:45 p.m.               | 
+| Bringt ihr einen Kuchen mit?     | are you bringing a cake                     |
+| Wann kommt der Bus an?           | When does the bus arrive?                   |
+
+
+- Also, ich steige am Flughafen in die S-Bahn ein. Am Hauptbahnhof steige ich in die U-Bahn um . Am Eifelplatz steige ich aus und rufe Frau Lerch an .
+- So, I get on the S-Bahn at the airport. At the main train station I change to the subway. I get out at Eifelplatz and call Ms. Lerch.
+
+
+| Ge                                                            | En                                                            |
+|---------------------------------------------------------------|---------------------------------------------------------------|
+| Hallo Tom, hier ist Mike.                                     | Hello Tom, this is Mike.                                      |
+| Hallo Mike, wie geht's?                                       | Hello Mike, how are you?                                      |
+| Gut, danke. Ich bin nächste Woche in München und              | Good thank you. I'll be in Munich next week and               |
+| möchte dich gern besuchen.                                    | would like to visit you                                       |
+|                                                               |                                                               |
+| Hast du Zeit?                                                 | Do you have time?                                             |
+| Ja natürlich!                                                 | Yes of course!                                                |
+| Wann kommst du?                                               | When are you coming?                                          |
+| Am Mittwoch, um 20:50 Uhr.                                    | On Wednesday at 8:50 p.m.                                     |
+| Nimmst du den Zug?                                            | Do you take the train?                                        |
+| Ja. Ich komme am Ostbahnhof an.                               | Yes. I arrive at Ostbahnhof.                                  |
+| Holst du mich ab?                                             | Do you pick me up?                                            |
+| Na klar, gern. Ich arbeite bis 20 Uhr. Dann hole ich dich ab. | Of course, gladly. I work until 8 p.m. Then I'll pick you up. |
+| Danke, dann bis Mittwoch!                                     | Thank you, see you on Wednesday!                              |

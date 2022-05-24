@@ -10,21 +10,23 @@ Topic:
 
 # 10 Substantive - nouns
 
-| 🔵der                             | 🔴die                                        | 🟢das                          |
-|-----------------------------------|----------------------------------------------|--------------------------------|
-| Bahnhof(öfe) / train station      | 🚝S-Bahn(en) / train (within a city) / поезд | 🛤Gleis(s) / rail track        |
-| Hauptbahnhof(öfe) / main station  | 🚫U-Bahn(en) / subway / underground          |                                |
-| 🔳Bahnsteig(e) / platform         |                                              | 🚕Taxi(s) / taxi               |
-| Bahnsteigkante / platform edge    |                                              |                                |
-| 🚍Bus(se) / bus                   |                                              |                                |
-| 🛫✈️Flughafen(ä) / airport        | 🚏Haltestelle(n) / bus stop /                |                                |
-| 🚉Zug(Züge) / train / поезд       | 🚊Straßenbahn(en) / tram / трамвай           |                                |
-| 🛑Halt(e/s) / stop, support, hold | Vorsicht(-) / caution                        |                                |
-| 🧳Koffer(-) / suitcase / чемодан  |                                              | 🛄Gepäck(-) / baggage / багаж  |
-|                                   |                                              |                                |
-|                                   |                                              |                                |
-|                                   |                                              |                                |
-| Nom. nächste(n) - Andere / next   | Selbsteinschätzung /self-assessment          |                                |
+| 🔵der                             | 🔴die                                         | 🟢das                          |
+|-----------------------------------|-----------------------------------------------|--------------------------------|
+| Bahnhof(öfe) / train station      | 🚝S-Bahn(en) / train (within a city) / поезд  | 🛤Gleis(s) / rail track        |
+| Hauptbahnhof(öfe) / main station  | 🚫U-Bahn(en) / subway / underground           |                                |
+| 🔳Bahnsteig(e) / platform         |                                               | 🚕Taxi(s) / taxi               |
+| Bahnsteigkante / platform edge    |                                               |                                |
+| 🚍Bus(se) / bus                   |                                               |                                |
+| 🛫✈️Flughafen(ä) / airport        | 🚏Haltestelle(n) / bus stop /                 |                                |
+| 🚉Zug(Züge) / train / поезд       | 🚊Straßenbahn(en) / tram, streetcar / трамвай |                                |
+| 🛑Halt(e/s) / stop, support, hold | Vorsicht(-) / caution                         |                                |
+| 🧳Koffer(-) / suitcase / чемодан  |                                               | 🛄Gepäck(-) / baggage / багаж  |
+|                                   |                                               |                                |
+|                                   |                                               |                                |
+|                                   |                                               |                                |
+| Nom. nächste(n) - Andere / next   | Selbsteinschätzung /self-assessment           |                                |
+| Zentrum / center                  |                                               |                                |
+| Hafen / port, harbour, haven      |                                               |                                |
 
 ![[../../Files/Pasted image 20220523111628.png]]
 

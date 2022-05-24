@@ -26,9 +26,20 @@ Topic:
 | `mit`bring      | `bring` someone or something `along` (to something) | привести с собой кого-то куда-то          |
 | `ab`holen       | pick up, collect, take away (e.g. from caffe)       | взять, подобрать, забрать с собой(с кафе) |
 |                 |                                                     |                                           |
-| nehmen          | take, seize, have                                   |                                           |
-| steigen         | rise, climb, step (off), advance                    |                                           |
 
+
+## extra Verben
+
+| Ge       | En                                    | Ru                                 |
+|----------|---------------------------------------|------------------------------------|
+| weinen   | cry, weep, cry over (someone's death) |                                    |
+|          | cry for (sth u want desperately)      |                                    |
+| turnen   | do gymnastics, exercise               | заниматься гимнастикой, заниматься |
+| bekommen | receive, get                          |                                    |
+| holen    | get, fetch, take a breath, breath in  |                                    |
+| nehmen   | take, seize, have                     |                                    |
+| steigen  | rise, climb, step (off), advance      |                                    |
+| reisen   | travel                                |                                    |
 
 - wir sehen oft `fern`
 - im Supermarkt kaufen wir `ein`
@@ -64,12 +75,3 @@ Topic:
 - Mit Lena `kaufe` ich heute in Migros `ein`
   - I'm `shopping` with Lena in Migros today
 
-## extra Verben
-
-| Ge       | En                                    | Ru                                 |
-|----------|---------------------------------------|------------------------------------|
-| weinen   | cry, weep, cry over (someone's death) |                                    |
-|          | cry for (sth u want desperately)      |                                    |
-| turnen   | do gymnastics, exercise               | заниматься гимнастикой, заниматься |
-| bekommen | receive, get                          |                                    |
-| holen    | get, fetch, take a breath, breath in  |                                    |
