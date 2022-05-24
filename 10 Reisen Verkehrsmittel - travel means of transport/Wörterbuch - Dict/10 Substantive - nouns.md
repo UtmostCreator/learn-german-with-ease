@@ -35,10 +35,13 @@ Topic:
 |                                     | Zeitung / newspaper                            |                                                          |
 |                                     |                                                |                                                          |
 |                                     |                                                |                                                          |
+| Monat(e) / month                    | Party(s)                                       | Baby(s)                                                  |
+| Sport(e)                            | Reise(n) / travel, trip, journey, voyage, tour | Geschenk(e) / gift, present                              |
+|                                     | Dienstreise(n) / business trip                 | Fahrrad(Fahrräder) / bicycle                             |
+|                                     |                                                | Parr(e) / couple, pair,                                  |
+|                                     |                                                |                                                          |
+|                                     |                                                |                                                          |
 
-- täglich - every day
-- jeden Monat - every month
-- jährlich - every year
 
 - subway -  for pedestrians under a busy road; In some American cities, the subway is a railway system in which electric trains travel below the ground in tunnels. In other cities this is called the metro.
 - underground/tube - 
@@ -50,7 +53,7 @@ Topic:
 - der 👛Koffer(-)
 - die 🧳Tasche(n)
 
-## Verkehrsmittel(-) - means of transport, vehicle, public transport
+## Verkehrsmittel(-) - means of transport, vehicle(s), public transport
 
 - der 🛫✈️Flughafen(ä) / airport
 - das 🚕Taxi(s)

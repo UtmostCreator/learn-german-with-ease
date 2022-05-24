@@ -63,7 +63,7 @@ Topic:
 | lachen                       | laugh (at/about), giggle,                     |                                    |
 | reden                        | talk, speak                                   |                                    |
 | schlafen(schläfst, schläft ) | sleep, stay over night,                       |                                    |
-|                              |                                               |                                    |
+| meinen                       | say, mean, believe                            |                                    |
 |                              |                                               |                                    |
 
 - wir sehen oft `fern`

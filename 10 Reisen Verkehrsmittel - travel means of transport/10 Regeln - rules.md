@@ -23,6 +23,42 @@
 > die(Plural) -/ kiene
 - den -/keinen
 
+## constructions
+- ab - as of, off down
+- von ... bis - from ... to
+
+- täglich - every day
+- jeden Monat - every month
+- jährlich - every year
+
+
+
+## adjective
+
+| Ge          | En                |
+|-------------|-------------------|
+| fertig      | ready, finished   |
+| interessant | interesting       |
+| lange       | long, a long time |
+| langweilig  | boring, tedious   |
+| schwanger   | pregnant          |
+
+## N mal
+
+- fürmal - once
+- zweimal - two times
+- dreimal - three times
+- viermal - four times
+
+## letztes 
+
+
+| Ge                                   | En          |
+|--------------------------------------|-------------|
+| letzte`n` Freitag (de`r` Freitag(e)) | last friday |
+| letzte`s` Jahr (da`s` Jahr(e))       | last year   |
+| letzte`-` Woche (di`e` Woche(n))     | last week   |
+
 ## Verben - verbs
 
 - schenken - donate
