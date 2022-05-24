@@ -143,3 +143,24 @@ Related:
 | Holst du mich ab?                                             | Do you pick me up?                                            |
 | Na klar, gern. Ich arbeite bis 20 Uhr. Dann hole ich dich ab. | Of course, gladly. I work until 8 p.m. Then I'll pick you up. |
 | Danke, dann bis Mittwoch!                                     | Thank you, see you on Wednesday!                              |
+|                                                               |                                                               |
+| Wie lange dauert die Fahrt?                                   | How long does the journey take?                               |
+
+
+| Ge                                                            | En                                                            |
+|---------------------------------------------------------------|---------------------------------------------------------------|
+| Guten Morgen meine Damen und Herren, der Flug Nummer 243 nach London-Gatwick ist nun zum Einsteigen bereit | Good morning ladies and gentlemen, flight number 243 to London Gatwick is now ready for boarding|
+| Und noch eine Information für die Passagiere von Flug Nummer 134 nach Manchester: Ihr Abflug verspätet sich um 50 Minuten | And one more information for the passengers of flight number 134 to Manchester: Your departure is delayed by 50 minutes|
+| Wir bitten Sie um Verständnis. | We apologize for any inconvenience.|
+
+
+| Ge         | En        |
+|------------|-----------|
+| Damen      | ladies    |
+| Herren     | gentlemen |
+| Nummer     | number    |
+| nach       | to        |
+| nun        | well      |
+| zum        | to the    |
+| Einsteigen | Get in    |
+| bereit     | ready     |

@@ -30,16 +30,18 @@ Topic:
 
 ## extra Verben
 
-| Ge       | En                                    | Ru                                 |
-|----------|---------------------------------------|------------------------------------|
-| weinen   | cry, weep, cry over (someone's death) |                                    |
-|          | cry for (sth u want desperately)      |                                    |
-| turnen   | do gymnastics, exercise               | заниматься гимнастикой, заниматься |
-| bekommen | receive, get                          |                                    |
-| holen    | get, fetch, take a breath, breath in  |                                    |
-| nehmen   | take, seize, have                     |                                    |
-| steigen  | rise, climb, step (off), advance      |                                    |
-| reisen   | travel                                |                                    |
+| Ge         | En                                    | Ru                                 |
+|------------|---------------------------------------|------------------------------------|
+| weinen     | cry, weep, cry over (someone's death) |                                    |
+|            | cry for (sth u want desperately)      |                                    |
+| turnen     | do gymnastics, exercise               | заниматься гимнастикой, заниматься |
+| bekommen   | receive, get                          |                                    |
+| holen      | get, fetch, take a breath, breath in  |                                    |
+| nehmen     | take, seize, have                     |                                    |
+| steigen    | rise, climb, step (off), advance      |                                    |
+| reisen     | travel                                |                                    |
+| dauern     | last, take time                       |                                    |
+| verspäten  | be late, delay                        |                                    |
 
 - wir sehen oft `fern`
 - im Supermarkt kaufen wir `ein`
