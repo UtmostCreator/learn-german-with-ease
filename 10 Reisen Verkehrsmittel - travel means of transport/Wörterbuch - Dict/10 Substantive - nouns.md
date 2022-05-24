@@ -30,8 +30,15 @@ Topic:
 | Busbahnhof(höfe) / bus station      |                                                |                                                          |
 |                                     |                                                |                                                          |
 | der Reisender / passenger /traveler | Durchsage(n) / announcement                    |                                                          |
-|                                     |                                                | Verständnis / understanding, appreciation, comprehension |
+|                                     | Hausaufgabe(n) + machen / homework(HW)         | Verständnis / understanding, appreciation, comprehension |
+|                                     | Pause + machen / pause, break, rest            |                                                          |
+|                                     | Zeitung / newspaper                            |                                                          |
 |                                     |                                                |                                                          |
+|                                     |                                                |                                                          |
+
+- täglich - every day
+- jeden Monat - every month
+- jährlich - every year
 
 - subway -  for pedestrians under a busy road; In some American cities, the subway is a railway system in which electric trains travel below the ground in tunnels. In other cities this is called the metro.
 - underground/tube - 

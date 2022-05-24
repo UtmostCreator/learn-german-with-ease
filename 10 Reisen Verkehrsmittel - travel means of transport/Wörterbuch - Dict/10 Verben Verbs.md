@@ -12,22 +12,30 @@ Topic:
 
 ## allgemeiner Zweck - general purpose
 
-| Ge              | En                                                  | Ru                                        |
-|-----------------|-----------------------------------------------------|-------------------------------------------|
-| `aus`steigen    | get off                                             | выходить из (транспорта)                  |
-| `ein`steigen    | get in                                              | заходить в (транспорт)                    |
-| `um`steigen     | change, switch                                      | пересесть в др (транспорт)                |
-|                 | transfer to another train                           |                                           |
-| 🛬`an`kommen    | arrive                                              | прибыть                                   |
-| 📞`an`rufen     | call                                                | звонить                                   |
-| 👁📺`fern`sehen | watch TV                                            | смотреть телевизор                        |
-| 🛍`ein`kaufen   | shopping                                            | поход по магазинам                        |
-| `ab`fahren      | leave, depart, remove                               |                                           |
-| `ab`holen       | pick up, collect, take away (e.g. from caffe)       | взять, подобрать, забрать с собой(с кафе) |
-| `weiter`fahren  | continue / go on / drive on                         |                                           |
-| `mit`bring      | `bring` someone or something `along` (to something) | привести с собой кого-то куда-то          |
-| `mit`kommen     | accompany, to come along                            |                                           |
-|                 |                                                     |                                           |
+| Ge                     | En                                                   | Ru                                        |
+|------------------------|------------------------------------------------------|-------------------------------------------|
+| `aus`steigen           | get off                                              | выходить из (транспорта)                  |
+| `ein`steigen           | get in                                               | заходить в (транспорт)                    |
+| `um`steigen            | change, switch                                       | пересесть в др (транспорт)                |
+|                        | transfer to another train                            |                                           |
+| 🛬`an`kommen           | arrive                                               | прибыть                                   |
+| 📞`an`rufen            | call                                                 | звонить                                   |
+| 👁📺`fern`sehen        | watch TV                                             | смотреть телевизор                        |
+| 🛍`ein`kaufen          | shopping                                             | поход по магазинам                        |
+| `ab`fahren             | leave, depart, remove                                |                                           |
+| `ab`holen              | pick up, collect, take away (e.g. from caffe)        | взять, подобрать, забрать с собой(с кафе) |
+| `weiter`fahren         | continue / go on / drive on                          |                                           |
+| `mit`bring             | `bring` someone or something `along` (to something)  | привести с собой кого-то куда-то          |
+| `mit`kommen            | accompany (следовать за), come along with, come with |                                           |
+| `an`fangen             | begin, start, get started                            |                                           |
+| `ein`laden(lädt,lädst) | invite, invite round                                 |                                           |
+| `auf`räumen            | clean up, tidy up                                    |                                           |
+| `ein`räumen            | grant to, admit, confess                             |                                           |
+| `um`räumen             | rearrange sth                                        |                                           |
+| `an`machen             | turn on                                              |                                           |
+| `aus`machen            | turn off, make, make up                              |                                           |
+|                        |                                                      |                                           |
+|                        |                                                      |                                           |
 
 
 
@@ -38,24 +46,25 @@ Topic:
 
 ## extra Verben
 
-| Ge            | En                                             | Ru                                 |
-|---------------|------------------------------------------------|------------------------------------|
-| weinen        | cry, weep, cry over (someone's death)          |                                    |
-|               | cry for (sth u want desperately)               |                                    |
-| turnen        | do gymnastics, exercise                        | заниматься гимнастикой, заниматься |
-| bekommen      | receive, get                                   |                                    |
-| holen         | get, fetch, take a breath, breath in           |                                    |
-| nehmen        | take, seize, have                              |                                    |
-| steigen       | rise, climb, step (off), advance               |                                    |
-| reisen        | travel                                         |                                    |
-| dauern        | last, take time                                |                                    |
-| verspäten     | be late, delay                                 |                                    |
-| wiederhole    | repeat                                         |                                    |
-| entschuldigen | apologise, excuse, apologize, pardon, forgive  |                                    |
-|               |                                                |                                    |
-|               |                                                |                                    |
-|               |                                                |                                    |
-|               |                                                |                                    |
+| Ge                           | En                                            | Ru                                 |
+|------------------------------|-----------------------------------------------|------------------------------------|
+| weinen                       | cry, weep, cry over (someone's death)         |                                    |
+|                              | cry for (sth u want desperately)              |                                    |
+| turnen                       | do gymnastics, exercise                       | заниматься гимнастикой, заниматься |
+| bekommen                     | receive, get                                  |                                    |
+| nehmen                       | take, seize, have                             |                                    |
+| steigen                      | rise, climb, step (off), advance              |                                    |
+| reisen                       | travel                                        |                                    |
+| dauern                       | last, take time                               |                                    |
+| verspäten                    | be late, delay                                |                                    |
+| wiederholen                  | repeat                                        |                                    |
+| entschuldigen                | apologise, excuse, apologize, pardon, forgive |                                    |
+| holen                        | get, fetch, take a breath, breath in          |                                    |
+| lachen                       | laugh (at/about), giggle,                     |                                    |
+| reden                        | talk, speak                                   |                                    |
+| schlafen(schläfst, schläft ) | sleep, stay over night,                       |                                    |
+|                              |                                               |                                    |
+|                              |                                               |                                    |
 
 - wir sehen oft `fern`
 - im Supermarkt kaufen wir `ein`
