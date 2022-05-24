@@ -80,16 +80,16 @@ Related:
 |       |                                 |                             |
 
 ### 🍞Backware(n) - bakery products
-| 🔵der                             | 🔴die                  | 🟢das                                              |
-|-----------------------------------|------------------------|----------------------------------------------------|
-| 🥖Hefezopf(Hefezöpfe) / Hefezopf  | 🥨Brezel(n) / pretzel  | Brötchen(-) / bun                                  |
-| Christstollen / fruit loaf        | 🥖Schnecke(n) / Snail  | 🍞Brot(e) / bread                                  |
-|                                   |                        | 🍪Plätzchen / cookie / biscuit                     |
-|                                   |                        | 🥖Sonnenblumebrot(e) / bread with sunflower seeds  |
-|                                   |                        | 🥖Hörnchen(-) / croissant                          |
-|                                   |                        | 🥖Baguette(s) / baguette                           |
-|                                   |                        | Sonnenblume / sunflower                            |
-|                                   |                        |                                                    |
+| 🔵der                                                          | 🔴die                 | 🟢das                                           |
+|----------------------------------------------------------------|-----------------------|-------------------------------------------------|
+| Hefezopf(Hefezöpfe) / Hefezopf / yeast bread / плетеный хлеб   | 🥨Brezel(n) / pretzel | Brötchen(-) / bun                               |
+| Christstollen / fruit loaf                                     | Schnecke(n) / Snail   | 🍞Brot(e) / bread                               |
+|                                                                |                       | 🍪Plätzchen / cookie / biscuit                  |
+|                                                                |                       | Sonnenblumebrot(e) / bread with sunflower seeds |
+|                                                                |                       | Hörnchen(-) / croissant                         |
+|                                                                |                       | 🥖Baguette(s) / baguette                        |
+|                                                                |                       | Sonnenblume / sunflower                         |
+|                                                                |                       |                                                 |
 
 ### 🍽Haferbrei - porridge
 | 🔵der                              | 🔴die                        | 🟢das                             |
@@ -102,21 +102,21 @@ Related:
 |                                    |                              |                                   |
 
 ### 💧Getränk(e) - beverages 
-| 🔵der                                       | 🔴die                      | 🟢das                                            |
-|---------------------------------------------|----------------------------|--------------------------------------------------|
-| 🍵Tee(s) / tea                              | 🍋🧃Limonade(n) / lemonade | 🥤💧Mineralwasser(-/wässer)                     |
-| ☕Kakao(s) / cocoa                           | 🥤Cola(s) / cola           | 🍻Bier(er) / Beer                                |
-| ☕Kaffee(s) / coffee                         | Apfelschorle(n)            | stilles wasser / still water                     |
-| ☕Cappuccino / cappuccino                    |                            | mineralwasser mit kohlensäure / sparkling water  |
-| 🧃Saft(Säfte) / Juice                       |                            |                                                  |
-| 🍊🧃Orangensaft(äe) / orange juice         |                            |                                                  |
-| 🍏🧃Apfelsaft(äe) / apple juice            |                            |                                                  |
-| 🍷Wein(e) / wine                            |                            |                                                  |
-| Alkohol(e) /alcohol                         |                            |                                                  |
-| Wodka(s) / vodka                            |                            |                                                  |
-| Cognac / cognac                             |                            |                                                  |
-| alkoholarme Getränke / low alcohol drinks   |                            |                                                  |
-|                                             |                            |                                                  |
+| 🔵der                                     | 🔴die                      | 🟢das                                           |
+|-------------------------------------------|----------------------------|-------------------------------------------------|
+| 🍵Tee(s) / tea                            | 🍋🧃Limonade(n) / lemonade | 🥤💧Mineralwasser(-/wässer)                     |
+| ☕Kakao(s) / cocoa                         | 🥤Cola(s) / cola           | 🍻Bier(er) / Beer                               |
+| ☕Kaffee(s) / coffee                       | Apfelschorle(n)            | stilles wasser / still water                    |
+| ☕Cappuccino / cappuccino                  |                            | mineralwasser mit kohlensäure / sparkling water |
+| 🧃Saft(Säfte) / Juice                     |                            |                                                 |
+| 🍊🧃Orangensaft(äe) / orange juice        |                            |                                                 |
+| 🍏🧃Apfelsaft(äe) / apple juice           |                            |                                                 |
+| 🍷Wein(e) / wine                          |                            |                                                 |
+| Alkohol(e) /alcohol                       |                            |                                                 |
+| Wodka(s) / vodka                          |                            |                                                 |
+| Cognac / cognac                           |                            |                                                 |
+| alkoholarme Getränke / low alcohol drinks |                            |                                                 |
+|                                           |                            |                                                 |
 
 ### 🍫Süßigkeiten - Sweets
 | 🔵der                            | 🔴die                                                              | 🟢das                       |
@@ -126,7 +126,7 @@ Related:
 | 🎂🧁🍰Kuchen(-)/ cake            | 🍰Tort(en) / cake / torte                                          | 🍦Eis / ice cream           |
 | Käsekuchen                       | Sahne(-) / cream                                                   |                             |
 | 🍩Krapfen(-)/Berliner(-) / donut | [Praline](../../Base/dict/Praline.md)(n) / praline (French sweet)  |                             |
-| strudel / strudel                |                                                                    |                             |
+| Strudel / strudel                |                                                                    |                             |
 | Apfelstrudel(-) / apple strudel  |                                                                    |                             |
 | 🍭Lutscher(-) / lolly / lollipop |                                                                    |                             |
 | Rahm(-) / cream                  |                                                                    |                             |

@@ -111,3 +111,11 @@ Related:
 - Marlen kann wirklich sehr gut malen
 - Er kann auch ein bisschen backen und singen
 - Er kann nicht gut Radfahren, obwohl er gut Tennis spielen kann
+
+
+| Wir steigen	am Rathausplatz	aus.| We get off at Rathausplatz.|
+| Wo fährt der Zug nach Berlin ab?| Where does the train to Berlin depart from?|
+| Rufst du mich an?| Will you call me?|
+| Ich hole dich um 16.45 Uhr ab.| I'll pick you up at 4:45 p.m.| 
+| Bringt ihr einen Kuchen mit?| are you bringing a cake|
+| Wann kommt der Bus an?| When does the bus arrive?|

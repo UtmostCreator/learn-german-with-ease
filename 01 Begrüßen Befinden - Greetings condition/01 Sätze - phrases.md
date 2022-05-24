@@ -126,7 +126,7 @@ Anfrage - request:
 
 | Ge                                                 | En                                         |
 |----------------------------------------------------|--------------------------------------------|
-| 🟢das Lied Heisst "Winfried"                         | the song is called "Winfried"              |
+| 🟢das Lied Heisst "Winfried"                       | the song is called "Winfried"              |
 | Hören 👂 Sie das Lied und schreiben ✍️ alle Städte | Listen 👂 the song and write ✍️ all cities |
 | Ich bin in                                         | i am in Zaporizhzia                        |
 | Wie ist dein Name?                                 | What is your name?                         |

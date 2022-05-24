@@ -5,7 +5,7 @@
 ### 🍽 eating | essen
 
 > Isst du gern Kartoffeln?
-- 😊 Ja, ich esse [sehr] gern Kartoffeln.
+- 😊 Ja, ich esse \[sehr] gern Kartoffeln.
 - ☹️Nein, ich esse keine Kartoffeln.
 - ☹️Nein, ich mag keine Kartoffeln.
 ___
@@ -27,7 +27,7 @@ ___
 
 Ge:
 ```
-Was … es ist schon fünf vor vier?
+Was … es ist schon fünf vor vier (3:55)?
 Warum? Was ist los?
 Ich treffe Claudia um vier am Marktplatz.
 
@@ -43,7 +43,7 @@ Okay, dann gute Nacht und vielen Dank für deinen Besuch.
 
 En
 ```
-What... it's already five to four?
+What... it's already five to four (3:55)?
 Why? What's happening?
 I'll meet Claudia at four in the marketplace.
 
@@ -56,6 +56,17 @@ What, are you going home already? It's only eleven o'clock.
 Yes, but I'm going to Hamburg at six o'clock tomorrow.
 Ok, good night then and thank you for visiting.
 ```
+
+## gern
+
+- Spielst du Ball gern? - Ja, ich spiele gern Ball
+- Trinkst du Apfelsine gern? - Nein, ich trinke nicht so gern Apfelsine
+- Isst du Gurke gern? - Ja, ich esse gern Gurke
+- Isst Ivan Christstollen gern? - Ja, Ivan isst gern Christstollen
+- Isst du Suppe gern? - Nein, Ich esse nicht so gern Suppe 
+- Trinkst du mineralwasser mit kohlensäure gern? - Ja, ich trinke gern mineralwasser mit kohlensäure
+- Trinkst du Weißwein gern? - Ja, ich trinke gern Weißwein
+- Essen Sie Bonbon gern? - Ja, Ich esse gern Bonbon
 
 ## Frage - Antwort / question - answer
 
@@ -70,8 +81,6 @@ Ok, good night then and thank you for visiting.
 
 > Wie schmeckt die Suppe?
 > Sehr gut, danke.
-
-
 
 - Grosser salat mit schinken -- Large salad with ham
 - Warmer apfelstrudel mit Vanilleeis -- Warm apple strudel with vanilla ice cream

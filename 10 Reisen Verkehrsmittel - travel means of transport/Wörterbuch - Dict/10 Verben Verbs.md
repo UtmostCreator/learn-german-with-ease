@@ -1,4 +1,4 @@
-20/05/2022-00:58:10
+22/05/2022-00:58:10
 
 Topic:
 
@@ -8,26 +8,26 @@ Topic:
 - ⬅️[[./../03 Familie - family/Wörterbuch - Dict/03 Verben Verbs]]
 - ➡️[[]]
 
-# 09 Verben Verbs
+# 10 Verben Verbs
 
-## general-purpose
+## allgemeiner Zweck - general purpose
 
-| Ge              | En                        | Ru                         |
-|-----------------|---------------------------|----------------------------|
-| `aus`steigen    | get off                   | выходить из (транспорта)   |
-| `ein`steigen    | get in                    | заходить в (транспорт)     |
-| `um`steigen     | change, switch            | пересесть в др (транспорт) |
-|                 | transfer to another train |                            |
-| 🛬`an`kommen    | arrive                    | прибыть                    |
-| 📞`an`rufen     | call                      | звонить                    |
-| 👁📺`fern`sehen | watch TV                  | смотреть телевизор         |
-| 🛍`ein`kaufen   | shopping                  | поход по магазинам         |
-| `ab`fahren      | leave, depart, remove     |                            |
-|                 |                           |                            |
-|                 |                           |                            |
-
-nehmen | take, seize, have| |
-steigen |  rise, climb, step (off), advance | |
+| Ge              | En                                                  | Ru                                        |
+|-----------------|-----------------------------------------------------|-------------------------------------------|
+| `aus`steigen    | get off                                             | выходить из (транспорта)                  |
+| `ein`steigen    | get in                                              | заходить в (транспорт)                    |
+| `um`steigen     | change, switch                                      | пересесть в др (транспорт)                |
+|                 | transfer to another train                           |                                           |
+| 🛬`an`kommen    | arrive                                              | прибыть                                   |
+| 📞`an`rufen     | call                                                | звонить                                   |
+| 👁📺`fern`sehen | watch TV                                            | смотреть телевизор                        |
+| 🛍`ein`kaufen   | shopping                                            | поход по магазинам                        |
+| `ab`fahren      | leave, depart, remove                               |                                           |
+| `mit`bring      | `bring` someone or something `along` (to something) | привести с собой кого-то куда-то          |
+| `ab`holen       | pick up, collect, take away (e.g. from caffe)       | взять, подобрать, забрать с собой(с кафе) |
+|                 |                                                     |                                           |
+| nehmen          | take, seize, have                                   |                                           |
+| steigen         | rise, climb, step (off), advance                    |                                           |
 
 
 - wir sehen oft `fern`
@@ -63,3 +63,13 @@ steigen |  rise, climb, step (off), advance | |
   - I'm `shopping` with Lena in Migros today
 - Mit Lena `kaufe` ich heute in Migros `ein`
   - I'm `shopping` with Lena in Migros today
+
+## extra Verben
+
+| Ge       | En                                    | Ru                                 |
+|----------|---------------------------------------|------------------------------------|
+| weinen   | cry, weep, cry over (someone's death) |                                    |
+|          | cry for (sth u want desperately)      |                                    |
+| turnen   | do gymnastics, exercise               | заниматься гимнастикой, заниматься |
+| bekommen | receive, get                          |                                    |
+| holen    | get, fetch, take a breath, breath in  |                                    |
