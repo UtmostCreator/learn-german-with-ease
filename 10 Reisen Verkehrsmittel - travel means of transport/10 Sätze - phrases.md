@@ -6,7 +6,10 @@
 - im Supermarkt kaufen wir ein.
 - wir kaufen im Supermarkt ein
 
-
+- also / so, thus, that is, hence
+- also dann / so then
+  - also dann bis morgen / so see you tomorrow
+- Satzende / end of sentence
 
 | Ge                                       | En                                          |
 |------------------------------------------|---------------------------------------------|
