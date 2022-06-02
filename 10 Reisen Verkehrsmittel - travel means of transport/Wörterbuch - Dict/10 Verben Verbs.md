@@ -20,11 +20,11 @@ Topic:
 |                        | transfer to another train                            |                                           |
 | `an`steigen            | increase, rise                                       |                                           |
 | 🛬`an`kommen           | arrive                                               | прибыть                                   |
-| `ab`fahren             | leave, depart, remove                                |                                           |
-| 📞`an`rufen            | call                                                 | звонить                                   |
-| `ein`laden(lädt,lädst) | invite, invite round                                 |                                           |
+| `ab`fahren             | leave, depart, remove                                | уезжать, отправляться, отбывать           |
 | `an`fangen             | begin, start, get started                            |                                           |
 | `weiter`fahren         | continue / go on / drive on                          |                                           |
+| 📞`an`rufen            | call                                                 | звонить                                   |
+| `ein`laden(lädt,lädst) | invite, invite round                                 |                                           |
 | 👁📺`fern`sehen        | watch TV                                             | смотреть телевизор                        |
 | 🛍`ein`kaufen          | shopping                                             | поход по магазинам                        |
 | `ab`holen              | pick up, collect, take away (e.g. from caffe)        | взять, подобрать, забрать с собой(с кафе) |
@@ -52,6 +52,15 @@ Topic:
 | weinen                       | cry, weep, cry over (someone's death)         |                                    |
 |                              | cry for (sth u want desperately)              |                                    |
 | turnen                       | do gymnastics, exercise                       | заниматься гимнастикой, заниматься |
+| kommen                       | come, arrive                                  |                                    |
+| rufen                        | call, ring up                                 |                                    |
+| laden                        | invite                                        |                                    |
+| fahren                       | drive                                         |                                    |
+| fangen                       | catch                                         |                                    |
+| schlafen                     | sleep                                         |                                    |
+| sehen                        | see, view, watch                              |                                    |
+| bringen                      | bring, take                                   |                                    |
+| räumen                       | clear, clean, wash away                       |                                    |
 | bekommen                     | receive, get                                  |                                    |
 | nehmen                       | take, seize, have                             |                                    |
 | steigen                      | rise, climb, step (off), advance              |                                    |
