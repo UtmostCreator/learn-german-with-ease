@@ -23,4 +23,13 @@ Ja, Nein-Frage
 - Nächster Halt: "Innsbrucker Ring"
   - Next stop: "Innsbrucker Ring"
 - Achtung! Bitte zurückbleiben
-  - Danger! Please stay back/
+  - Danger! Please stay back/behind
+
+## am Bahnhof: sich informieren - at the train station: find out more
+
+
+| Ge  | Ge Antwort | En  | En answer |
+|-----|------------|-----|-----------|
+|     |            |     |           |
+
+Wo fahrt der Zug nach ... ab? - Auf Gleis ...
