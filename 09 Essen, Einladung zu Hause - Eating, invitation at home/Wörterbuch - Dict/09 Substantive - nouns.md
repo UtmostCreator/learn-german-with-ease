@@ -190,18 +190,18 @@ Related:
 
 ## 
 
-| 🔵der                                   | 🔴die                                          | 🟢das                           |
-|-----------------------------------------|------------------------------------------------|---------------------------------|
-| Besuch(e) / visit                       | Tischlampe / table lamp                        | Käsebrötchen / cheese roll      |
-| Terminkalender / dairy / Terminkalender | Speisekarte(n) / Menü(s)                       | Hauptgericht(e) / main dish     |
-|                                         | Vorspeisen(n) / appetizer / закуска            | Dessert(s) / dessert            |
-| Obstsalat(e) / fruit salat              | Öffnungszeit(en) / opening hours / часы работы | Thema(en) / theme / topic       |
-| Gurkensalat(e) / cucumber salat         |                                                |                                 |
-| zwiebelbraten / fried onions            |                                                |                                 |
-| Knödel(-) / dumpling(s) / пельмени      |                                                |                                 |
-| Durst(-) / thirst                       |                                                |                                 |
-| Hunger(-) / hunger                      |                                                |                                 |
-| Eiskasten(-) / ice box                  |                                                |                                 |
+| 🔵der                                   | 🔴die                                          | 🟢das                         |
+|-----------------------------------------|------------------------------------------------|-------------------------------|
+| Besuch(e) / visit                       | Tischlampe(n) / table lamp                     | Käsebrötchen(-) / cheese roll |
+| Terminkalender / dairy / Terminkalender | Hauptspeise(n) / main dish                     | Hauptgericht(e) / main dish   |
+|                                         | Vorspeise(n) / appetizer / закуска             | Dessert(s) / dessert          |
+| Obstsalat(e) / fruit salat              | Öffnungszeit(en) / opening hours / часы работы | Thema(en) / theme / topic     |
+| Gurkensalat(e) / cucumber salat         | Speisekarte(n) / Menü(s)                       |                               |
+| zwiebelbraten / fried onions            |                                                |                               |
+| Knödel(-) / dumpling(s) / пельмени      |                                                |                               |
+| Durst(-) / thirst                       |                                                |                               |
+| Hunger(-) / hunger                      |                                                |                               |
+| Eiskasten(-) / ice box                  |                                                |                               |
 
 - überbacken -- gratinated(запеченный)
 - überbacken -- запечь
