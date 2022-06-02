@@ -18,17 +18,18 @@ Topic:
 | `ein`steigen           | get in                                               | заходить в (транспорт)                    |
 | `um`steigen            | change, switch                                       | пересесть в др (транспорт)                |
 |                        | transfer to another train                            |                                           |
+| `an`steigen            | increase, rise                                       |                                           |
 | 🛬`an`kommen           | arrive                                               | прибыть                                   |
+| `ab`fahren             | leave, depart, remove                                |                                           |
 | 📞`an`rufen            | call                                                 | звонить                                   |
+| `ein`laden(lädt,lädst) | invite, invite round                                 |                                           |
+| `an`fangen             | begin, start, get started                            |                                           |
+| `weiter`fahren         | continue / go on / drive on                          |                                           |
 | 👁📺`fern`sehen        | watch TV                                             | смотреть телевизор                        |
 | 🛍`ein`kaufen          | shopping                                             | поход по магазинам                        |
-| `ab`fahren             | leave, depart, remove                                |                                           |
 | `ab`holen              | pick up, collect, take away (e.g. from caffe)        | взять, подобрать, забрать с собой(с кафе) |
-| `weiter`fahren         | continue / go on / drive on                          |                                           |
-| `mit`bring             | `bring` someone or something `along` (to something)  | привести с собой кого-то куда-то          |
+| `mit`bringen           | `bring` someone or something `along` (to something)  | привести с собой кого-то куда-то          |
 | `mit`kommen            | accompany (следовать за), come along with, come with |                                           |
-| `an`fangen             | begin, start, get started                            |                                           |
-| `ein`laden(lädt,lädst) | invite, invite round                                 |                                           |
 | `auf`räumen            | clean up, tidy up                                    |                                           |
 | `ein`räumen            | grant to, admit, confess                             |                                           |
 | `um`räumen             | rearrange sth                                        |                                           |
