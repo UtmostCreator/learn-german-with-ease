@@ -21,4 +21,6 @@ Topic:
 
 
 - schwanger - pregnant
-- 
+- fleißig - hard-working/diligently
+- geübt - practice
+- Habt Ihr fleißig für das Konzert geübt? - Did you practice diligently for the concert?
