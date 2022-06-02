@@ -70,15 +70,17 @@ Topic:
 
 - die 🚫U-Bahn(en) / subway
 
-| 🔵der                                                               | 🔴die                                           | 🟢das                    |
-|---------------------------------------------------------------------|-------------------------------------------------|--------------------------|
-|                                                                     | Vorspeise(n) / appetizer / закуска              |                          |
-|                                                                     | Leberknödelsuppe / liver dumpling(клецки) soup  | Hamburger(-) / hamburger |
-|                                                                     | Aalsuppe / eel soup / суп из угря               |                          |
-|                                                                     | Hauptspeise(n) / main dish                      |                          |
-| der Züricher / inhabitant of Zurich                                 | Geschnetzeltes mit Rösti / hash browns / драник |                          |
-|                                                                     |                                                 | Dessert(s)               |
-| Apfelstrudel mit Vanilleeis / Apple strudel with vanilla ice cream  |                                                 |                          |
+| 🔵der                                                               | 🔴die                                               | 🟢das                    |
+|---------------------------------------------------------------------|-----------------------------------------------------|--------------------------|
+|                                                                     | Vorspeise(n) / appetizer / закуска                  |                          |
+|                                                                     | Leberknödelsuppe / liver dumpling(клецки) soup      | Hamburger(-) / hamburger |
+|                                                                     | Aalsuppe / eel soup / суп из угря                   |                          |
+|                                                                     | Hauptspeise(n) / main dish                          |                          |
+| der Züricher / inhabitant of Zurich                                 | Geschnetzeltes mit Rösti / hash browns / драник     |                          |
+|                                                                     |                                                     | Dessert(s)               |
+| Apfelstrudel mit Vanilleeis / Apple strudel with vanilla ice cream  |                                                     |                          |
+|                                                                     | Rote Grütze mit Sahne / Red fruit jelly with cream  |                          |
+|                                                                     |                                                     |                          |
 
 - Wiener Schnitzel (aus Kalbfleisch) mit Kartoffelsalat
   - Wiener Schnitzel (veal) with potato salad
