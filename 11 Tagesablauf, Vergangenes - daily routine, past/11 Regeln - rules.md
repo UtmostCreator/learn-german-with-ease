@@ -8,5 +8,17 @@ x----------X----------=>
 jetzt
 
 
+## letzt(en/es/e)
 
+letzten
+- der 
+  - Freitag/Montag
+
+letztes
+- das
+  - Jahr
+
+letzte
+- die
+  - Woche
 

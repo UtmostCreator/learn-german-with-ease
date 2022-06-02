@@ -52,6 +52,7 @@ Topic:
 | weinen                       | cry, weep, cry over (someone's death)         |                                    |
 |                              | cry for (sth u want desperately)              |                                    |
 | turnen                       | do gymnastics, exercise                       | заниматься гимнастикой, заниматься |
+| üben                         | train, exercise, practice                     |                                    |
 | kommen                       | come, arrive                                  |                                    |
 | rufen                        | call, ring up                                 |                                    |
 | laden                        | invite                                        |                                    |
