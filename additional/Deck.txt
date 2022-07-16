@@ -1,0 +1,30 @@
+<b>Was?</b>🔍🔎	Что? Кто?🔍🔎<br>What?&nbsp;
+🌍📦<b>Wo?</b>	Где? 🌍📦 Where?
+<b>Woher?</b>🏡✈️	Откуда? 🏡✈️Where from?
+<b>Wohin?</b>➡️	Куда? ➡️Where to?
+<b>Gibt es?</b>	есть ли там? Is there?
+<b>Wer</b>❔😶‍🌫️<br>[ve:ɐ̯]	Кто❔😶‍🌫️ Who?<br><code>(Nominativ) obj.</code>
+<b>Wen?<br></b>[ve:n]	Кого? 🧍‍♂️🧠Whom?<br><code>(Akk.) subj.</code>
+"<b>We<span style=""color: rgb(0, 255, 0);"">m</span>?<br></b>[ve:m]"	"<table><tbody><tr><td>Ко<span style=""color: rgb(0, 255, 0);"">м</span>у? Че<span style=""color: rgb(0, 255, 0);"">м</span>у?✏️🗒To who<span style=""color: rgb(0, 255, 0);"">m</span>?<br><code>(Dat.)&nbsp;<u>indirect obj.</u></code><br></td></tr></tbody></table>"
+"<b>We<span style=""color: rgb(0, 255, 0);"">SS</span>en?</b>"	"Чей? 📱&nbsp;Who<span style=""color: rgb(0, 255, 0);"">S</span>e?<br><code>(Genitiv)/po<strong><span style=""color: rgb(0, 255, 0);"">ss</span></strong>e<strong><span style=""color: rgb(0, 255, 0);"">ss</span></strong>ion</code>"
+"<b><span style=""color: rgb(0, 255, 0);"">M</span>it we<span style=""color: rgb(0, 255, 0);"">M</span>?</b>"	"С кеМ? 🤝👬/🗣<span style=""color: rgb(0, 255, 0);"">W</span>ith who<span style=""color: rgb(0, 255, 0);"">M</span>?"
+"<b>Wel<span style=""color: rgb(0, 255, 0);"">CH</span>e(r/s/n)&nbsp;+ subj?</b>"	"который&nbsp;<sup>(-ая/-ое)&nbsp;</sup>Whi<span style=""color: rgb(0, 255, 0);"">CH</span>?<br>какой&nbsp;<sup>(-ая/ое)</sup>"
+"<b>Wa<span style=""color: rgb(0, 255, 0);"">R</span>um?</b>"	"По<span style=""color: rgb(0, 255, 0);"">Ч</span>ему? 🤔❔W<span style=""color: rgb(0, 255, 0);"">h</span>y? По<span style=""color: rgb(0, 255, 0);"">Ч</span>ему?"
+"<b>Wa<span style=""color: rgb(0, 255, 0);"">NN</span>?<br></b>[van]"	"Когда? 🕔📆Whe<span style=""color: rgb(0, 255, 0);"">N</span>?"
+"<b><span style=""color: rgb(0, 255, 0);"">S</span>eit Wa<span style=""color: rgb(0, 255, 0);"">NN</span>?</b>"	"С какого времени? <strong><span style=""color: rgb(0, 255, 0);"">S</span></strong>ince whe<strong><span style=""color: rgb(0, 255, 0);"">N</span></strong>?"
+"<strong><u><span style=""color: rgb(0, 255, 0);"">B</span></u>i<span style=""color: rgb(0, 255, 0);"">s</span> Wa<span style=""color: rgb(0, 255, 0);"">NN</span>?</strong>"	"<strong>До</strong> какого времени? <span style=""color: rgb(0, 255, 0);""><u>B</u></span>y Whe<span style=""color: rgb(0, 255, 0);""><strong>N</strong></span>? Till what time?&nbsp;<strong><span style=""color: rgb(0, 255, 0);"">S</span></strong>ince whe<strong><span style=""color: rgb(0, 255, 0);"">N</span></strong>?"
+<b>Wie?<br></b>[vi:]	Как? 1️⃣.2️⃣.3️⃣. How?
+"<b>Wie <span style=""color: rgb(0, 255, 0);"">oft</span>?</b>"	"Как часто? 🖥🎲How <strong><span style=""color: rgb(0, 255, 0);"">oft</span></strong>en?"
+"1️⃣.2️⃣.3️⃣.<strong>Wie <span style=""color: rgb(0, 255, 0);"">l</span>a<span style=""color: rgb(0, 255, 0);"">ng</span>e?</strong>"	"Как долго? ⏳🛁🕔How <strong><span style=""color: rgb(0, 255, 0);"">l</span></strong>o<span style=""color: rgb(0, 255, 0);""><strong>ng</strong></span>?"
+<b>Wie <u>viel</u>?</b>	"Сколько? (<u><span style=""color: rgb(0, 255, 0);"">money</span></u>)💰💶,🕔How <u><strong><span style=""color: rgb(0, 255, 0);"">much</span></strong></u>?"
+"<strong>Wie viel<span style=""color: rgb(0, 255, 0);"">e</span>?</strong>"	"Сколько?(кол-во ч.л.)9️⃣9️⃣ How <span style=""color: rgb(0, 255, 0);""><strong>many</strong></span>?"
+"<b>Wa<span style=""color: rgb(0, 255, 0);"">R</span>um</b>❓"	"По<span style=""color: rgb(0, 255, 0);""><strong>Ч</strong></span>ему?❓Why?"
+"<b>Wies<span style=""color: rgb(0, 255, 0);"">o</span>?<br></b>[viˈzo:]"	"<strong><span style=""color: rgb(0, 255, 0);"">О</span></strong>тчег<span style=""color: rgb(0, 255, 0);""><strong>о</strong></span>? Why?"
+<b>Weshalb?&nbsp;<br></b>[vɛsˈhalp]	"Отчего?(По какой причине?) Why?<br><strong><span style=""color: rgb(0, 255, 0);"">hal</span></strong>b - <span style=""color: rgb(0, 255, 0);""><strong>hal</strong></span>f"
+<b>Wozu?<br></b>[voˈtsu:]	Зачем? К чему? Для чего? Why?
+"<b>Wo<span style=""color: rgb(0, 255, 0);"">F</span>ür?<br></b>[voˈfy:ɐ̯] - воФю:р"	Для чего? For what/which? (reason)
+"<b>W<span style=""color: rgb(0, 255, 0);"">e</span>sw<span style=""color: rgb(0, 255, 0);"">e</span>g<span style=""color: rgb(0, 255, 0);"">e</span>n&nbsp;<br></b>[vɛsˈve:gn̩]"	"И<span style=""color: rgb(0, 255, 0);"">з</span>-<span style=""color: rgb(0, 255, 0);"">з</span>а чего? Why?"
+<b>Worüber?<br></b>[voˈry:bɐ]	"<div style=""text-align: center;"">О чем?&nbsp;</div><div style=""text-align: center;"">About what?</div><div style=""text-align: center;"">about a specific incident</div>"
+<b>Wovon?<br></b>[voˈfɔn]	О чем? About what?<br>about a general topic
+"<b>Zu welchem <span style=""color: rgb(0, 255, 0);"">Zweck</span>?</b>"	"С какой целью? For what <span style=""color: rgb(0, 255, 0);"">Purpose</span>?<br>Zu - to<b><br></b>welchem - which/который"
+"<b>Auf welche <span style=""color: rgb(0, 255, 0);"">Weise</span>?</b>"	"Каким образом?<br>In which way have you got in here?<br><br><u>Auf</u> welche - <u>On/in</u> which<br><b><span style=""color: rgb(0, 255, 0);"">Weise </span>- way</b>"
