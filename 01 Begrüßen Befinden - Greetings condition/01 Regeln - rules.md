@@ -78,6 +78,8 @@ unregelmäßige / starke Verben (irregular / stong verbs) ~=🇩🇪200; and �
 - ihr —                            t        seid      heisst         kommt
 - sie (they) Sie (u) —    en     sind       heißen     kommen
 
+.md (markdown)
+
 # Countries with article
 
 |   Article | Country |
