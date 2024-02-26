@@ -10,3 +10,4 @@
 10 Reisen Verkehrsmittel - travel means of transport
 11 Tagesablauf, Vergangenes - daily routine, past
 12 Feste, Vergangenes - Festivals, past
+
